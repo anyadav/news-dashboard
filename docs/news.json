@@ -1,11 +1,437 @@
 {
-  "generated_at": "2026-07-16T10:22:54.015Z",
+  "generated_at": "2026-07-16T10:25:11.616350+00:00",
   "categories": {
-    "India": [],
-    "Taiwan": [],
-    "China": [],
-    "Japan": [],
-    "USA": [],
-    "International": []
+    "India": [
+      {
+        "title": "Relief for bulk waste generators as Minister promises to end vendor monopoly in Bengaluru",
+        "summary": "Currently, BSWML has empanelled five companies, one for each corporation, to collect waste from bulk generators, which has led to a monopoly",
+        "link": "https://www.thehindu.com/news/cities/bangalore/relief-for-bulk-waste-generators-as-minister-assures-empanelling-more-vendors-in-bengaluru/article71227145.ece",
+        "source": "The Hindu",
+        "timestamp": "2026-07-16T10:18:27+00:00"
+      },
+      {
+        "title": "TMC MP Koel Mallick resigns from Rajya Sabha",
+        "summary": "“I do hereby resign from the membership of Rajya Sabha, which may please be accepted with immediate effect,” Ms. Mallick said in her resignation letter.",
+        "link": "https://www.thehindu.com/news/national/west-bengal/tmc-mp-koel-mallick-resigns-from-rajya-sabha/article71229360.ece",
+        "source": "The Hindu",
+        "timestamp": "2026-07-16T10:18:17+00:00"
+      },
+      {
+        "title": "Sonam Wangchuk loses over 9 kg, weakens significantly on 19th day of hunger strike: CJP",
+        "summary": "Sonam Wangchuk remains under constant medical supervision, the CJP said in a statement, adding that he is still ‘mentally alert’, even as he has weakened significantly",
+        "link": "https://www.thehindu.com/news/national/sonam-wangchuk-loses-over-9-kg-weakens-significantly-on-19th-day-of-hunger-strike-cjp/article71228868.ece",
+        "source": "The Hindu",
+        "timestamp": "2026-07-16T10:17:02+00:00"
+      },
+      {
+        "title": "Assam’s out-of-school children dream of becoming MLAs, teachers",
+        "summary": "Some of the 45 such children who attended three 10-day motivational camps want to become teachers to impact lives around them",
+        "link": "https://www.thehindu.com/news/national/assam/assams-out-of-school-children-dream-of-becoming-mlas-teachers/article71228928.ece",
+        "source": "The Hindu",
+        "timestamp": "2026-07-16T10:12:37+00:00"
+      },
+      {
+        "title": "Hakki-Pikki woman accused of ‘selling daughter’ in Senegal",
+        "summary": "The girl has since been rescued by the local police, and efforts were on to bring her back to India, according to Karnataka Hakki-Pikki Budakattu Sanghatane",
+        "link": "https://www.thehindu.com/news/national/karnataka/hakki-pikki-woman-accused-of-selling-daughter-in-senegal/article71229141.ece",
+        "source": "The Hindu",
+        "timestamp": "2026-07-16T10:11:54+00:00"
+      },
+      {
+        "title": "India-U.K. trade deal explained | What gets cheaper, who stands to gain?",
+        "summary": "Zero tariffs. Cheaper whisky and British cars. Major benefits for Indian workers in the U.K. The India-U.K. trade deal could reshape business on both sides. Here’s the complete picture",
+        "link": "https://www.thehindu.com/business/what-are-the-gains-from-the-india-uk-trade-deal-explained/article71224212.ece",
+        "source": "The Hindu",
+        "timestamp": "2026-07-16T10:11:45+00:00"
+      },
+      {
+        "title": "Ukraine gets new PM: Parliament approves Serhii Koretskyi amid cabinet shuffle",
+        "summary": "Ukraine's parliament approved Serhii Koretskyi as the new prime minister on Thursday. This appointment follows the resignation of former prime minister Yulia Svyrydenko. President Zelenskyy cited Koretskyi's energy sector experience for winter preparations. The government…",
+        "link": "https://timesofindia.indiatimes.com/world/europe/ukraine-gets-new-pm-parliament-approves-serhii-koretskyi-amid-cabinet-shuffle/articleshow/132435600.cms",
+        "source": "Times of India",
+        "timestamp": "2026-07-16T10:02:12+00:00"
+      },
+      {
+        "title": "Government officials facing corruption charges not entitled to promotion: Madras High Court",
+        "summary": "Division Bench sets aside a single judge’s order to grant promotion to a Deputy Inspector General of Registration who ended up facing corruption charges after the inclusion of his name in the promotion panel",
+        "link": "https://www.thehindu.com/news/national/tamil-nadu/government-officials-facing-corruption-charges-not-entitled-to-promotion-madras-high-court/article71229080.ece",
+        "source": "The Hindu",
+        "timestamp": "2026-07-16T09:59:45+00:00"
+      },
+      {
+        "title": "Centre floats another draft of CAFE-III, gives special recognition to ethanol and biofuel cars",
+        "summary": "Industry stakeholders have until August 6 to respond to the latest draft; the proposed CAFE norms have sharply divided the automobile industry, with manufacturers of smaller and larger vehicles taking opposing positions and competing proposals emerging over how the regulations…",
+        "link": "https://www.thehindu.com/news/national/centre-floats-another-draft-of-cafe-iii-gives-special-recognition-to-ethanol-and-bio-fuel-cars/article71229082.ece",
+        "source": "The Hindu",
+        "timestamp": "2026-07-16T09:58:13+00:00"
+      },
+      {
+        "title": "Bidadi project: Hours after Karnataka Chief Minister announces review panel, govt. issues final land notification for acquiring 4,944.49 acres across four villages",
+        "summary": "This is the biggest tranche of land notified yet. The first set pertained to only 518.45 acres in three villages",
+        "link": "https://www.thehindu.com/news/cities/bangalore/bidadi-project-hours-after-karnataka-chief-minister-announces-review-panel-govt-issues-final-land-notification-for-acquiring-494449-acres-across-four-villages/article71226465.ece",
+        "source": "The Hindu",
+        "timestamp": "2026-07-16T09:52:15+00:00"
+      }
+    ],
+    "Taiwan": [
+      {
+        "title": "Taiwan must guard freedom, Lai says",
+        "summary": "",
+        "link": "https://www.taipeitimes.com/News/front/archives/2026/07/16/2003860813",
+        "source": "Taipei Times",
+        "timestamp": "2026-07-16T00:00:00+00:00"
+      },
+      {
+        "title": "US bill seeks to counter China, Iran repression",
+        "summary": "",
+        "link": "https://www.taipeitimes.com/News/front/archives/2026/07/16/2003860814",
+        "source": "Taipei Times",
+        "timestamp": "2026-07-16T00:00:00+00:00"
+      },
+      {
+        "title": "Taiwan and US to jointly produce drone, source says",
+        "summary": "",
+        "link": "https://www.taipeitimes.com/News/front/archives/2026/07/16/2003860815",
+        "source": "Taipei Times",
+        "timestamp": "2026-07-16T00:00:00+00:00"
+      },
+      {
+        "title": "Reporters face increasingly repressive China: FCCC",
+        "summary": "",
+        "link": "https://www.taipeitimes.com/News/front/archives/2026/07/16/2003860816",
+        "source": "Taipei Times",
+        "timestamp": "2026-07-16T00:00:00+00:00"
+      },
+      {
+        "title": "US reports ‘wave of strikes’ on Iran as war returns",
+        "summary": "",
+        "link": "https://www.taipeitimes.com/News/front/archives/2026/07/16/2003860817",
+        "source": "Taipei Times",
+        "timestamp": "2026-07-16T00:00:00+00:00"
+      },
+      {
+        "title": "NPA suspends use of ‘risky’ new system",
+        "summary": "",
+        "link": "https://www.taipeitimes.com/News/taiwan/archives/2026/07/16/2003860821",
+        "source": "Taipei Times",
+        "timestamp": "2026-07-16T00:00:00+00:00"
+      },
+      {
+        "title": "Taiwan needs a law to counter repression: expert",
+        "summary": "",
+        "link": "https://www.taipeitimes.com/News/taiwan/archives/2026/07/16/2003860822",
+        "source": "Taipei Times",
+        "timestamp": "2026-07-16T00:00:00+00:00"
+      },
+      {
+        "title": "Judge calls for task force to deal with Chinese threats",
+        "summary": "",
+        "link": "https://www.taipeitimes.com/News/taiwan/archives/2026/07/16/2003860823",
+        "source": "Taipei Times",
+        "timestamp": "2026-07-16T00:00:00+00:00"
+      },
+      {
+        "title": "New book touts ex-president Lee Teng-hui’s legacy",
+        "summary": "",
+        "link": "https://www.taipeitimes.com/News/taiwan/archives/2026/07/16/2003860824",
+        "source": "Taipei Times",
+        "timestamp": "2026-07-16T00:00:00+00:00"
+      },
+      {
+        "title": "Puma Shen to visit US, says he would not be ‘silenced’",
+        "summary": "",
+        "link": "https://www.taipeitimes.com/News/taiwan/archives/2026/07/16/2003860825",
+        "source": "Taipei Times",
+        "timestamp": "2026-07-16T00:00:00+00:00"
+      }
+    ],
+    "China": [
+      {
+        "title": "Bar security footage helps clear Hong Kong rugby player of molestation charge",
+        "summary": "A Hong Kong professional rugby player has been acquitted of molesting a woman at a bar after a magistrate ruled the athlete had touched her buttocks by accident. But Faizal Solomona Penesa, 34, admitted a lesser offence of common assault and another charge of criminal damage,…",
+        "link": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3360813/bar-security-footage-helps-clear-hong-kong-rugby-player-molestation-charge?utm_source=rss_feed",
+        "source": "SCMP",
+        "timestamp": "2026-07-16T10:18:21+00:00"
+      },
+      {
+        "title": "Short-haul tourist arrivals fall 15% amid strong Hong Kong dollar, fewer flights",
+        "summary": "Hong Kong’s short-haul visitor arrivals plunged 15 per cent in June despite overall growth, as higher fuel costs linked to the Middle East conflict reduced flight capacity and weaker regional currencies dampened travel demand, the tourism board said. The Hong Kong Tourism Board…",
+        "link": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3360804/short-haul-tourist-arrivals-fall-15-amid-strong-hong-kong-dollar-fewer-flights?utm_source=rss_feed",
+        "source": "SCMP",
+        "timestamp": "2026-07-16T10:06:06+00:00"
+      },
+      {
+        "title": "Chinese policewoman supports parents of colleague who died in line of duty for 20 years",
+        "summary": "A policewoman in southern China has fulfilled the filial piety duty of her colleague for his parents for two decades since he died while saving people from drowning. On September 4, 2006, Deng Wenguo, a police officer at the frontier inspection station in Dongguan, Guangdong…",
+        "link": "https://www.scmp.com/news/people-culture/trending-china/article/3360762/chinese-policewoman-supports-parents-colleague-who-died-line-duty-20-years?utm_source=rss_feed",
+        "source": "SCMP",
+        "timestamp": "2026-07-16T10:00:06+00:00"
+      },
+      {
+        "title": "Booksellers must ensure titles don’t violate national security laws: Chris Tang",
+        "summary": "Hong Kong’s security chief has warned that booksellers are responsible for ensuring their titles do not violate national security legislation, a day after police raided two independent stores and arrested five people on suspicion of sedition. Secretary for Security Chris Tang…",
+        "link": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3360811/booksellers-must-ensure-titles-dont-violate-national-security-laws-chris-tang?utm_source=rss_feed",
+        "source": "SCMP",
+        "timestamp": "2026-07-16T09:57:28+00:00"
+      },
+      {
+        "title": "China vows helium-trade policy changes as global tightening squeezes gas supplies",
+        "summary": "China will adjust its export controls on helium in response to changes in domestic and global supply conditions, after temporarily suspending overseas shipments of the gas last week amid a tightening global supply situation. The Ministry of Commerce said the temporary export ban…",
+        "link": "https://www.scmp.com/economy/global-economy/article/3360807/china-vows-helium-trade-policy-changes-global-tightening-squeezes-gas-supplies?utm_source=rss_feed",
+        "source": "SCMP",
+        "timestamp": "2026-07-16T09:33:57+00:00"
+      },
+      {
+        "title": "New Johor rail link: a US$815m challenge for Singapore’s retail and F&B",
+        "summary": "Singapore consumers are expected to spend an additional S$1.05 billion (US$815 million) annually in Malaysia’s Johor state once a cross-border rail link connecting the two sides in minutes opens, according to a new study. The study, released on Thursday by the Singapore Business…",
+        "link": "https://www.scmp.com/week-asia/economics/article/3360806/new-johor-rail-link-us815m-challenge-singapores-retail-and-fb?utm_source=rss_feed",
+        "source": "SCMP",
+        "timestamp": "2026-07-16T09:31:58+00:00"
+      },
+      {
+        "title": "Zelensky faces fury on Ukrainian streets after dropping popular defence minister",
+        "summary": "Large protests erupted in several Ukrainian cities on Thursday morning against the removal of popular defence minister Mykhailo Fedorov. More than a thousand people gathered on a central square in Kyiv, singing the national anthem, waving Ukrainian and EU flags and chanting…",
+        "link": "https://www.scmp.com/news/world/europe/article/3360805/zelensky-faces-fury-ukrainian-streets-after-dropping-popular-defence-minister?utm_source=rss_feed",
+        "source": "SCMP",
+        "timestamp": "2026-07-16T09:26:11+00:00"
+      },
+      {
+        "title": "Mainland schools for Hong Kong pupils beat city average in university entrance exams",
+        "summary": "Two of the four schools in mainland China whose students can take Hong Kong’s university entrance exams as school candidates have said that most of their pupils passed the core subjects, beating the citywide average. The four schools in the Greater Bay Area are the only…",
+        "link": "https://www.scmp.com/news/hong-kong/education/article/3360795/mainland-schools-hong-kong-pupils-beat-city-average-university-entrance-exams?utm_source=rss_feed",
+        "source": "SCMP",
+        "timestamp": "2026-07-16T09:05:58+00:00"
+      },
+      {
+        "title": "BYD aims to build 3,000 ‘flash-charging’ stations across Europe within months",
+        "summary": "Chinese electric car giant BYD is building a network of 6,000 charging stations in overseas markets including Europe, as it looks to turbocharge its deliveries with the roll-out of cutting-edge flash-charging technology. The world’s largest electric vehicle (EV) maker aims to…",
+        "link": "https://www.scmp.com/business/china-business/article/3360759/byd-aims-build-3000-flash-charging-stations-across-europe-within-months?utm_source=rss_feed",
+        "source": "SCMP",
+        "timestamp": "2026-07-16T09:00:07+00:00"
+      },
+      {
+        "title": "Nvidia chief Jensen Huang seals Japan robotics push after ‘yakitori summit’",
+        "summary": "Jensen Huang, chief executive of US artificial intelligence chipmaker Nvidia, held a “yakitori summit” with Japanese executives from semiconductor materials and components companies while visiting Tokyo – a move appeared aimed at strengthening cooperation with local businesses.…",
+        "link": "https://www.scmp.com/news/asia/east-asia/article/3360794/nvidia-chief-jensen-huang-seals-japan-robotics-push-after-yakitori-summit?utm_source=rss_feed",
+        "source": "SCMP",
+        "timestamp": "2026-07-16T08:52:10+00:00"
+      }
+    ],
+    "Japan": [
+      {
+        "title": "皇室典範改正案 参院特別委で可決 17日成立の見通し",
+        "summary": "皇族数の確保に向けた皇室典範改正案は、参議院の特別委員会で採決が行われ、自民・維新両党と国民民主党、公明党、参政党の賛成多数で可決されました。改正案は17日の参議院本会議で可決・成立する見通しです。",
+        "link": "http://www3.nhk.or.jp/news/html/20260716/k10015178161000.html",
+        "source": "NHK World",
+        "timestamp": "2026-07-16T10:22:18+00:00"
+      },
+      {
+        "title": "北海道 JR富良野線で列車と車が衝突 5人搬送も命に別状なし",
+        "summary": "JR北海道によりますと16日午後6時前、北海道上富良野町のJR富良野線の踏切で、列車と乗用車が衝突したということです。警察によりますとこの事故で乗用車に乗っていた5人が病院に搬送されましたが、いずれも命に別状はないということです。警察が詳しい状況を調べています。",
+        "link": "http://www3.nhk.or.jp/news/html/20260716/k10015178581000.html",
+        "source": "NHK World",
+        "timestamp": "2026-07-16T10:17:32+00:00"
+      },
+      {
+        "title": "ニチレイ サイバー攻撃 広がる影響 あすから順次業務再開へ",
+        "summary": "サイバー攻撃によるシステム障害の影響が続く冷凍食品大手の「ニチレイ」は、現在、復旧作業を行っていて、17日から予定している業務の再開は、安全が確認された倉庫や工場から順次、進めるとしています。一方、外食企業や食品メーカーの間ではシステム障害による欠品などの影響が広がっていて、早期に解消するのかが焦点です。",
+        "link": "http://www3.nhk.or.jp/news/html/20260716/k10015177911000.html",
+        "source": "NHK World",
+        "timestamp": "2026-07-16T10:13:15+00:00"
+      },
+      {
+        "title": "国産AI開発「ノエトラ」 エヌビディアから新システム導入へ",
+        "summary": "国産AIの開発を目指す新会社「ノエトラ」が、アメリカの半導体大手「エヌビディア」から、最新の半導体を搭載した次世代のシステムを導入すると発表しました。自律的にロボットなどを動かす「フィジカルAI」の基盤となる技術開発を加速させるねらいがあります。",
+        "link": "http://www3.nhk.or.jp/news/html/20260716/k10015178411000.html",
+        "source": "NHK World",
+        "timestamp": "2026-07-16T10:07:24+00:00"
+      },
+      {
+        "title": "全国で気温上昇 3日連続で危険な暑さ観測も",
+        "summary": "16日は北海道から九州の各地で気温が上がり、3日連続で危険な暑さとなったところもありました。西日本では来週木曜日ごろにかけて猛烈な暑さが続く見込みです。一方、湿った空気の影響で関東などでは局地的に雨雲が発達していて、低い土地や地下施設の浸水などに警戒が必要です。",
+        "link": "http://www3.nhk.or.jp/news/html/20260716/k10015177931000.html",
+        "source": "NHK World",
+        "timestamp": "2026-07-16T10:04:43+00:00"
+      },
+      {
+        "title": "給付付き税額控除 2029年度導入で大筋合意 実務者会議",
+        "summary": "給付付き税額控除をめぐり、超党派の「国民会議」の実務者会議は「所得に連動したきめ細かな給付」を行う新たな制度を2029年度に導入することで大筋で合意しました。一方、食料品の消費税減税については、来週、議論を再開することになりました。",
+        "link": "http://www3.nhk.or.jp/news/html/20260716/k10015178151000.html",
+        "source": "NHK World",
+        "timestamp": "2026-07-16T10:00:15+00:00"
+      },
+      {
+        "title": "‘In our blood’: Palestinians keep horse culture alive against all odds",
+        "summary": "Despite living in densely populated areas, Palestinian breeders continue to raise horses in remarkably urban settings.",
+        "link": "https://www.japantimes.co.jp/news/2026/07/16/world/society/palestinians-horse-culture/",
+        "source": "Japan Times",
+        "timestamp": "2026-07-16T09:42:00+00:00"
+      },
+      {
+        "title": "“点滴混入”殺人事件 元職員 担当外の被害者の病室出入りか",
+        "summary": "千葉県柏市の病院で、入院患者の点滴に排せつ物を混入させて殺害したとして逮捕された元職員が事件当日、死亡した患者の看護の担当ではなかったのに病室に出入りしていたことが、捜査関係者への取材で分かりました。警察は、看護師の知識を使い、部屋に入っていた1分ほどの間に混入させたとみて調べています。警察によりますと容疑を否認しているということです。",
+        "link": "http://www3.nhk.or.jp/news/html/20260716/k10015178491000.html",
+        "source": "NHK World",
+        "timestamp": "2026-07-16T09:29:42+00:00"
+      },
+      {
+        "title": "Files relating to India’s largest nuclear power plant exposed in data breach",
+        "summary": "The Kudankulam Nuclear Power Plant in Tamil Nadu is central to Prime Minister Narendra Modi's ambitious plans to expand the country's atomic energy capacity.",
+        "link": "https://www.japantimes.co.jp/news/2026/07/16/asia-pacific/crime-legal/india-nuclear-plant-data-breach/",
+        "source": "Japan Times",
+        "timestamp": "2026-07-16T09:16:00+00:00"
+      },
+      {
+        "title": "Kudokai yakuza group undergoes leadership change",
+        "summary": "Satoru Nomura, who became Kudokai's leader in 2011 and has been given a life sentence over attacks on citizens, will be replaced by Fumio Tanoue, the group's chairman.",
+        "link": "https://www.japantimes.co.jp/news/2026/07/16/japan/crime-legal/kudokai-yakuza-leader-change/",
+        "source": "Japan Times",
+        "timestamp": "2026-07-16T09:06:00+00:00"
+      }
+    ],
+    "USA": [
+      {
+        "title": "Oil companies are making billions. In the U.S., calls to tax their windfall are growing",
+        "summary": "Higher oil prices since the Iran war began mean many oil companies have brought in excess profits. Some U.S. lawmakers want to tax those windfall profits and give the money to lower-income Americans.",
+        "link": "https://www.npr.org/2026/07/16/nx-s1-5845818/oil-prices-windfall-tax-iran-war",
+        "source": "NPR",
+        "timestamp": "2026-07-16T09:01:00+00:00"
+      },
+      {
+        "title": "DHS pledged body cams for all immigration agents. Months later, that hasn't happened",
+        "summary": "In recent days, federal immigration agents fatally shot two immigrant fathers. None of the federal officers involved were wearing body cameras, the agency said.",
+        "link": "https://www.npr.org/2026/07/16/nx-s1-5894825/body-cams-ice-shootings",
+        "source": "NPR",
+        "timestamp": "2026-07-16T09:00:00+00:00"
+      },
+      {
+        "title": "'Gossip' had godly origins. Here's how it gained its sinful reputation",
+        "summary": "We've all engaged in a little 'gossip.' But did you know its origins were tied to family and friendship?",
+        "link": "https://www.npr.org/2026/07/16/nx-s1-5884780/gossip-word-origins-etymology",
+        "source": "NPR",
+        "timestamp": "2026-07-16T09:00:00+00:00"
+      },
+      {
+        "title": "Bike lanes and speed cameras disappear from the DOT's list of proven safety measures",
+        "summary": "The Federal Highway Administration quietly stripped bike lanes and other safety recommendations from a key list of best practices. Critics say those measures are proven to cut crashes and save lives.",
+        "link": "https://www.npr.org/2026/07/16/nx-s1-5893672/dot-bike-lanes-speed-cameras-safety-measures",
+        "source": "NPR",
+        "timestamp": "2026-07-16T09:00:00+00:00"
+      },
+      {
+        "title": "TrumpRx promised a supermarket for cheaper drugs but delivered a boutique",
+        "summary": "President Trump said TrumpRx is the biggest thing to happen in healthcare in decades. But an NPR analysis finds drugmakers are only offering deals on a few of their medicines.",
+        "link": "https://www.npr.org/2026/07/16/nx-s1-5894947/trump-rx-medicine-drugs-health-care-pfizer-low-prices-gilead",
+        "source": "NPR",
+        "timestamp": "2026-07-16T09:00:00+00:00"
+      },
+      {
+        "title": "Trump earned billions last year. Some Pennsylvania swing voters say they don't care",
+        "summary": "Key voters in Pennsylvania are split on whether President Trump earning a big windfall last year is a big deal or not. Their reaction reveals a level of cynicism about many in the political class.",
+        "link": "https://www.npr.org/2026/07/16/nx-s1-5893599/pennsylvania-focus-groups-trump-corruption",
+        "source": "NPR",
+        "timestamp": "2026-07-16T09:00:00+00:00"
+      },
+      {
+        "title": "The use of force has become a 'default tool' for ICE officers, a new report finds",
+        "summary": "An ACLU report looks at the widespread use of force in immigration enforcement in the first year of President Trump's return to office. Recent fatal shootings in Texas and Maine have brought renewed scrutiny to the agency's tactics.",
+        "link": "https://www.npr.org/2026/07/16/nx-s1-5891834/ice-use-of-force-aclu-report",
+        "source": "NPR",
+        "timestamp": "2026-07-16T09:00:00+00:00"
+      },
+      {
+        "title": "No Asian team managed to go far this World Cup (again). What's holding them back?",
+        "summary": "For the sixth World Cup in a row, no team from the Asian Football Confederation made it past the first knockout round, winning only three games out of 29. Asian teams are competitive — up to a point.",
+        "link": "https://www.npr.org/2026/07/16/nx-s1-5884732/world-cup-asian-football-confederation-korea-japan",
+        "source": "NPR",
+        "timestamp": "2026-07-16T09:00:00+00:00"
+      },
+      {
+        "title": "The band playing when a Bangkok bar caught fire mourns its members among the 33 dead",
+        "summary": "Victims of this week's flash fire at a Bangkok music bar that took more than 30 lives included four of the six core members of the band playing when the blaze broke out.",
+        "link": "https://www.npr.org/2026/07/16/g-s1-133907/death-toll-bangkok-fire",
+        "source": "NPR",
+        "timestamp": "2026-07-16T06:03:21+00:00"
+      },
+      {
+        "title": "Fear and hope in Utah in the shadow of America's largest wildfire",
+        "summary": "People in Monticello, Utah have been tense and preparing to evacuate since shortly after the Babylon fire started June 26th",
+        "link": "https://www.npr.org/2026/07/15/nx-s1-5892509/fear-and-hope-in-utah-in-the-shadow-of-americas-largest-wildfire",
+        "source": "NPR",
+        "timestamp": "2026-07-15T21:55:00+00:00"
+      }
+    ],
+    "International": [
+      {
+        "title": "Moment US Navy jet stuns packed Florida beach with low flypast",
+        "summary": "A US Navy Blue Angels jet sent some beach items up in the air as it flew at a low altitude over a crowd in Pensacola Beach, Florida.",
+        "link": "https://www.bbc.co.uk/news/videos/cx27ljkngxmo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "timestamp": "2026-07-16T10:13:40+00:00"
+      },
+      {
+        "title": "What is cyclospora? Diarrhoea symptoms, foods linked to US outbreak",
+        "summary": "Cyclospora cases are rising across the US. Here&#039;s what to know about symptoms, spread, treatment and prevention.",
+        "link": "https://www.aljazeera.com/news/2026/7/16/what-is-cyclospora-diarrhoea-symptoms-foods-linked-to-us-outbreak?traffic_source=rss",
+        "source": "Al Jazeera",
+        "timestamp": "2026-07-16T10:12:57+00:00"
+      },
+      {
+        "title": "More than 500 feared dead after reports of boats capsizing off Myanmar",
+        "summary": "The IOM and UNHCR say two boats carrying mostly Rohingya passengers departed Rakhine State in late June.",
+        "link": "https://www.aljazeera.com/news/2026/7/16/more-than-500-feared-dead-after-reports-of-boats-capsizing-off-myanmar?traffic_source=rss",
+        "source": "Al Jazeera",
+        "timestamp": "2026-07-16T09:51:13+00:00"
+      },
+      {
+        "title": "Photos: Messi’s Argentina stun England to reach World Cup final vs Spain",
+        "summary": "Messi inspires Argentina’s dramatic late comeback win over England to reach final against Spain.",
+        "link": "https://www.aljazeera.com/gallery/2026/7/16/photos-messis-argentina-stun-england-to-reach-world-cup-final-vs-spain?traffic_source=rss",
+        "source": "Al Jazeera",
+        "timestamp": "2026-07-16T09:45:12+00:00"
+      },
+      {
+        "title": "Decades of denial: Death certificate for disappeared reopens Kashmir wounds",
+        "summary": "After years of searching and court battles, a judge declares what Junaid Rashid already believed: His father was dead.",
+        "link": "https://www.aljazeera.com/news/2026/7/16/decades-of-denial-death-certificate-for-disappeared-reopens-kashmir-wounds?traffic_source=rss",
+        "source": "Al Jazeera",
+        "timestamp": "2026-07-16T09:39:42+00:00"
+      },
+      {
+        "title": "Yemen is edging closer to renewed confrontation",
+        "summary": "The Iranian aircraft incident has exposed a fragile calm that may not survive a wider regional escalation.",
+        "link": "https://www.aljazeera.com/opinions/2026/7/16/yemen-is-edging-closer-to-renewed-confrontation?traffic_source=rss",
+        "source": "Al Jazeera",
+        "timestamp": "2026-07-16T09:36:38+00:00"
+      },
+      {
+        "title": "Protests in Ukraine's cities against Zelensky's removal of defence minister",
+        "summary": "Ukraine's president has not explained Mykhailo Fedorov's dismissal, which is causing great upset among civil society and the military.",
+        "link": "https://www.bbc.co.uk/news/articles/cdx76069n3do?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "timestamp": "2026-07-16T09:29:28+00:00"
+      },
+      {
+        "title": "Eleven people die in fire at Algerian foster care home",
+        "summary": "Along with the fatalities, 19 people suffered injuries, the authorities say.",
+        "link": "https://www.bbc.co.uk/news/articles/cvgwd4nz344o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "timestamp": "2026-07-16T09:20:43+00:00"
+      },
+      {
+        "title": "US military to start screening for testosterone deficiency, Hegseth says",
+        "summary": "Hegseth says he is authorising hormone screening to ensure US troops \"operate at your absolute best\".",
+        "link": "https://www.bbc.co.uk/news/articles/cn0nlx18rz0o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "timestamp": "2026-07-16T09:10:38+00:00"
+      },
+      {
+        "title": "FIFA World Cup final: Date, time, halftime show, prediction and Trump",
+        "summary": "From Donald Trump&#039;s attendance to the match winner, the short guide before football’s global showpiece in New Jersey.",
+        "link": "https://www.aljazeera.com/sports/2026/7/16/fifa-world-cup-final-2026-date-time-and-venue-trump-prediction?traffic_source=rss",
+        "source": "Al Jazeera",
+        "timestamp": "2026-07-16T09:07:06+00:00"
+      }
+    ]
   }
 }
