@@ -44,6 +44,16 @@ FEEDS = {
         ("BBC World", "http://feeds.bbci.co.uk/news/world/rss.xml"),
         ("Al Jazeera", "https://www.aljazeera.com/xml/rss/all.xml"),
     ],
+    "Sports": [
+        ("BBC Sport", "http://feeds.bbci.co.uk/sport/rss.xml"),
+        ("ESPN", "https://www.espn.com/espn/rss/news"),
+        ("Sky Sports", "https://www.skysports.com/rss/12040"),
+    ],
+    "World Politics": [
+        ("The Guardian World", "https://www.theguardian.com/world/rss"),
+        ("Politico", "https://www.politico.com/rss/politicopicks.xml"),
+        ("DW World", "https://rss.dw.com/rdf/rss-en-world"),
+    ],
 }
 
 TOP_N_PER_CATEGORY = 10
