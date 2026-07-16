@@ -124,6 +124,55 @@
     .tabs { top: 58px; }
     header h1 { font-size: 1.15rem; }
   }
+    .wc-tracker {
+          margin-bottom: 1.5rem;
+    }
+    .wc-tracker h3 {
+          margin: 0;
+          font-size: 1.1rem;
+    }
+    .wc-note {
+          font-size: 0.78rem;
+          color: var(--muted);
+          font-style: italic;
+          margin: 0;
+    }
+    .wc-block {
+          border-top: 1px solid var(--border);
+          padding-top: 0.75rem;
+          margin-top: 0.75rem;
+    }
+    .wc-block:first-of-type {
+          border-top: none;
+          padding-top: 0;
+          margin-top: 0;
+    }
+    .wc-block h4 {
+          margin: 0 0 0.4rem 0;
+          font-size: 0.98rem;
+    }
+    .wc-block p {
+          margin: 0 0 0.35rem 0;
+          font-size: 0.85rem;
+          color: var(--text);
+    }
+    .wc-table {
+          width: 100%;
+          border-collapse: collapse;
+          font-size: 0.83rem;
+          margin-top: 0.35rem;
+    }
+    .wc-table th, .wc-table td {
+          text-align: left;
+          padding: 0.35rem 0.5rem;
+          border-bottom: 1px solid var(--border);
+    }
+    .wc-table th {
+          color: var(--muted);
+          font-weight: 600;
+          font-size: 0.72rem;
+          text-transform: uppercase;
+    }
 </style>
 </head>
 <body>
@@ -136,6 +185,7 @@
 <nav class="tabs" id="tabs"></nav>
 
 <main>
+    <div id="sports-extra"></div>
   <div class="grid" id="news-grid">
     <div class="empty-state">Loading news...</div>
   </div>
@@ -160,6 +210,60 @@ let newsData = null;
 const tabsEl = document.getElementById("tabs");
 const gridEl = document.getElementById("news-grid");
 const lastUpdatedEl = document.getElementById("last-updated");
+  const sportsExtraEl = document.getElementById("sports-extra");
+
+  const SPORTS_TRACKER_HTML = `
+    <div class="card wc-tracker">
+        <div class="source">World Cup &amp; Tournament Tracker</div>
+            <h3>Live, recent &amp; upcoming world cups</h3>
+                <p class="wc-note">Data accurate as of July 16, 2026. Schedules, scores and standings change quickly, so please check official sources for live updates.</p>
+
+                    <div class="wc-block">
+                          <h4>Football: FIFA World Cup 2026 (LIVE)</h4>
+                                <p>Hosts: USA, Canada &amp; Mexico | June 11 - July 19, 2026</p>
+                                      <p>Semifinal results: France 0-2 Spain, England 1-2 Argentina</p>
+                                            <table class="wc-table">
+                                                    <tr><th>Fixture</th><th>Date</th><th>Venue</th></tr>
+                                                            <tr><td>Third-place match: France vs England</td><td>Jul 18</td><td>Miami Gardens</td></tr>
+                                                                    <tr><td>Final: Spain vs Argentina</td><td>Jul 19</td><td>East Rutherford, NJ</td></tr>
+                                                                          </table>
+                                                                              </div>
+
+                                                                                  <div class="wc-block">
+                                                                                        <h4>Cricket: ICC Women's T20 World Cup 2026 (Completed)</h4>
+                                                                                              <p>Host: England | June 12 - July 5, 2026</p>
+                                                                                                    <p>Champions: Australia (7th title), defeated England by 7 wickets in the final at Lord's</p>
+                                                                                                          <table class="wc-table">
+                                                                                                                  <tr><th>Group A (final)</th><th>Pts</th><th>Group B (final)</th><th>Pts</th></tr>
+                                                                                                                          <tr><td>1. Australia</td><td>10</td><td>1. England (H)</td><td>10</td></tr>
+                                                                                                                                  <tr><td>2. South Africa</td><td>8</td><td>2. West Indies</td><td>6</td></tr>
+                                                                                                                                          <tr><td>3. India</td><td>6</td><td>3. Sri Lanka</td><td>6</td></tr>
+                                                                                                                                                  <tr><td>4. Bangladesh</td><td>4</td><td>4. New Zealand</td><td>4</td></tr>
+                                                                                                                                                           <tr><td>5. Pakistan</td><td>2</td><td>5. Scotland</td><td>2</td></tr>
+                                                                                                                                                                  <tr><td>6. Netherlands</td><td>0</td><td>6. Ireland</td><td>2</td></tr>
+                                                                                                                                                                        </table>
+                                                                                                                                                                            </div>
+                                                                                                                                                                            
+                                                                                                                                                                                <div class="wc-block">
+                                                                                                                                                                                      <h4>Upcoming World Tournaments</h4>
+                                                                                                                                                                                            <table class="wc-table">
+                                                                                                                                                                                                    <tr><th>Event</th><th>Dates</th><th>Host</th></tr>
+                                                                                                                                                                                                            <tr><td>Commonwealth Games 2026</td><td>Jul 23 - Aug 2</td><td>Glasgow, Scotland</td></tr>
+                                                                                                                                                                                                                    <tr><td>FIH Hockey World Cup (Men's &amp; Women's) 2026</td><td>Aug 14 - 30</td><td>TBA venues</td></tr>
+                                                                                                                                                                                                                            <tr><td>FIBA Women's Basketball World Cup 2026</td><td>Sep 4 - 13</td><td>Germany</td></tr>
+                                                                                                                                                                                                                                    <tr><td>Rugby League World Cup (Men's, Women's, Wheelchair) 2026</td><td>Oct 15 - Nov 15</td><td>Australia / NZ / Papua New Guinea</td></tr>
+                                                                                                                                                                                                                                          </table>
+                                                                                                                                                                                                                                              </div>
+                                                                                                                                                                                                                                                </div>
+                                                                                                                                                                                                                                                `;
+
+  function updateSportsExtra() {
+      if (activeCategory === "Sports") {
+            sportsExtraEl.innerHTML = SPORTS_TRACKER_HTML;
+      } else {
+            sportsExtraEl.innerHTML = "";
+      }
+  }
 
 function buildTabs() {
   tabsEl.innerHTML = "";
@@ -171,6 +275,7 @@ function buildTabs() {
       activeCategory = cat.key;
       buildTabs();
       renderCategory();
+      updateSportsExtra();
     });
     tabsEl.appendChild(btn);
   });
@@ -231,6 +336,7 @@ async function loadNews() {
 }
 
 buildTabs();
+  updateSportsExtra();
 loadNews();
 setInterval(loadNews, REFRESH_MS);
 </script>
