@@ -5,202 +5,202 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>Global News Dashboard</title>
 <style>
-  :root {
-    --bg: #f4f5f7;
-    --card-bg: #ffffff;
-    --accent: #2563eb;
-    --text: #1f2937;
-    --muted: #6b7280;
-    --border: #e5e7eb;
-  }
-  * { box-sizing: border-box; }
-  body {
-    margin: 0;
-    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
-    background: var(--bg);
-    color: var(--text);
-  }
-  header {
-    background: var(--card-bg);
-    border-bottom: 1px solid var(--border);
-    padding: 1rem 1.5rem;
-    position: sticky;
-    top: 0;
-    z-index: 10;
-  }
-  header h1 {
-    margin: 0 0 0.25rem 0;
-    font-size: 1.4rem;
-  }
-  #last-updated {
-    font-size: 0.85rem;
-    color: var(--muted);
-  }
-  .tabs {
-    display: flex;
-    flex-wrap: wrap;
-    gap: 0.5rem;
-    padding: 0.75rem 1.5rem;
-    background: var(--card-bg);
-    border-bottom: 1px solid var(--border);
-    position: sticky;
-    top: 64px;
-    z-index: 9;
-  }
-  .tab-btn {
-    border: 1px solid var(--border);
-    background: var(--bg);
-    border-radius: 999px;
-    padding: 0.4rem 0.9rem;
-    cursor: pointer;
-    font-size: 0.95rem;
-    display: flex;
-    align-items: center;
-    gap: 0.4rem;
-    transition: background 0.15s, color 0.15s;
-  }
-  .tab-btn.active {
-    background: var(--accent);
-    color: #fff;
-    border-color: var(--accent);
-  }
-  main {
-    padding: 1rem 1.5rem 2rem;
-    max-width: 1100px;
-    margin: 0 auto;
-  }
-  .grid {
-    display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
-    gap: 1rem;
-  }
-  .card {
-    background: var(--card-bg);
-    border: 1px solid var(--border);
-    border-radius: 10px;
-    padding: 1rem;
-    display: flex;
-    flex-direction: column;
-    gap: 0.5rem;
-  }
-  .card .source {
-    font-size: 0.8rem;
-    font-weight: 600;
-    color: var(--accent);
-    text-transform: uppercase;
-    letter-spacing: 0.03em;
-  }
-  .card h3 {
-    margin: 0;
-    font-size: 1.05rem;
-    line-height: 1.35;
-  }
-  .card p {
-    margin: 0;
-    font-size: 0.9rem;
-    color: var(--muted);
-    flex-grow: 1;
-  }
-  .card .meta {
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    font-size: 0.8rem;
-    color: var(--muted);
-  }
-  .card a.read-more {
-    color: var(--accent);
-    text-decoration: none;
-    font-weight: 600;
-    font-size: 0.85rem;
-  }
-  .card a.read-more:hover { text-decoration: underline; }
-  .empty-state {
-    text-align: center;
-    color: var(--muted);
-    padding: 3rem 1rem;
-  }
-  @media (max-width: 480px) {
-    .tabs { top: 58px; }
-    header h1 { font-size: 1.15rem; }
-  }
-    .wc-tracker {
-          margin-bottom: 1.5rem;
-    }
-    .wc-tracker h3 {
-          margin: 0;
-          font-size: 1.1rem;
-    }
-    .wc-note {
-          font-size: 0.78rem;
-          color: var(--muted);
-          font-style: italic;
-          margin: 0;
-    }
-    .wc-block {
-          border-top: 1px solid var(--border);
-          padding-top: 0.75rem;
-          margin-top: 0.75rem;
-    }
-    .wc-block:first-of-type {
-          border-top: none;
-          padding-top: 0;
-          margin-top: 0;
-    }
-    .wc-block h4 {
-          margin: 0 0 0.4rem 0;
-          font-size: 0.98rem;
-    }
-    .wc-block p {
-          margin: 0 0 0.35rem 0;
-          font-size: 0.85rem;
-          color: var(--text);
-    }
-    .wc-table {
-          width: 100%;
-          border-collapse: collapse;
-          font-size: 0.83rem;
-          margin-top: 0.35rem;
-    }
-    .wc-table th, .wc-table td {
-          text-align: left;
-          padding: 0.35rem 0.5rem;
-          border-bottom: 1px solid var(--border);
-    }
-    .wc-table th {
-          color: var(--muted);
-          font-weight: 600;
-          font-size: 0.72rem;
-          text-transform: uppercase;
-    }
+:root {
+--bg: #f4f5f7;
+--card-bg: #ffffff;
+--accent: #2563eb;
+--text: #1f2937;
+--muted: #6b7280;
+--border: #e5e7eb;
+}
+* { box-sizing: border-box; }
+body {
+margin: 0;
+font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+background: var(--bg);
+color: var(--text);
+}
+header {
+background: var(--card-bg);
+border-bottom: 1px solid var(--border);
+padding: 1rem 1.5rem;
+position: sticky;
+top: 0;
+z-index: 10;
+}
+header h1 {
+margin: 0 0 0.25rem 0;
+font-size: 1.4rem;
+}
+#last-updated {
+font-size: 0.85rem;
+color: var(--muted);
+}
+.tabs {
+display: flex;
+flex-wrap: wrap;
+gap: 0.5rem;
+padding: 0.75rem 1.5rem;
+background: var(--card-bg);
+border-bottom: 1px solid var(--border);
+position: sticky;
+top: 64px;
+z-index: 9;
+}
+.tab-btn {
+border: 1px solid var(--border);
+background: var(--bg);
+border-radius: 999px;
+padding: 0.4rem 0.9rem;
+cursor: pointer;
+font-size: 0.95rem;
+display: flex;
+align-items: center;
+gap: 0.4rem;
+transition: background 0.15s, color 0.15s;
+}
+.tab-btn.active {
+background: var(--accent);
+color: #fff;
+border-color: var(--accent);
+}
+main {
+padding: 1rem 1.5rem 2rem;
+max-width: 1100px;
+margin: 0 auto;
+}
+.grid {
+display: grid;
+grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+gap: 1rem;
+}
+.card {
+background: var(--card-bg);
+border: 1px solid var(--border);
+border-radius: 10px;
+padding: 1rem;
+display: flex;
+flex-direction: column;
+gap: 0.5rem;
+}
+.card .source {
+font-size: 0.8rem;
+font-weight: 600;
+color: var(--accent);
+text-transform: uppercase;
+letter-spacing: 0.03em;
+}
+.card h3 {
+margin: 0;
+font-size: 1.05rem;
+line-height: 1.35;
+}
+.card p {
+margin: 0;
+font-size: 0.9rem;
+color: var(--muted);
+flex-grow: 1;
+}
+.card .meta {
+display: flex;
+justify-content: space-between;
+align-items: center;
+font-size: 0.8rem;
+color: var(--muted);
+}
+.card a.read-more {
+color: var(--accent);
+text-decoration: none;
+font-weight: 600;
+font-size: 0.85rem;
+}
+.card a.read-more:hover { text-decoration: underline; }
+.empty-state {
+text-align: center;
+color: var(--muted);
+padding: 3rem 1rem;
+}
+@media (max-width: 480px) {
+.tabs { top: 58px; }
+header h1 { font-size: 1.15rem; }
+}
+.wc-tracker {
+margin-bottom: 1.5rem;
+}
+.wc-tracker h3 {
+margin: 0;
+font-size: 1.1rem;
+}
+.wc-note {
+font-size: 0.78rem;
+color: var(--muted);
+font-style: italic;
+margin: 0;
+}
+.wc-block {
+border-top: 1px solid var(--border);
+padding-top: 0.75rem;
+margin-top: 0.75rem;
+}
+.wc-block:first-of-type {
+border-top: none;
+padding-top: 0;
+margin-top: 0;
+}
+.wc-block h4 {
+margin: 0 0 0.4rem 0;
+font-size: 0.98rem;
+}
+.wc-block p {
+margin: 0 0 0.35rem 0;
+font-size: 0.85rem;
+color: var(--text);
+}
+.wc-table {
+width: 100%;
+border-collapse: collapse;
+font-size: 0.83rem;
+margin-top: 0.35rem;
+}
+.wc-table th, .wc-table td {
+text-align: left;
+padding: 0.35rem 0.5rem;
+border-bottom: 1px solid var(--border);
+}
+.wc-table th {
+color: var(--muted);
+font-weight: 600;
+font-size: 0.72rem;
+text-transform: uppercase;
+}
 </style>
 </head>
 <body>
 
 <header>
-  <h1>Global News Dashboard</h1>
-  <div id="last-updated">Loading...</div>
+<h1>Global News Dashboard</h1>
+<div id="last-updated">Loading...</div>
 </header>
 
 <nav class="tabs" id="tabs"></nav>
 
 <main>
-    <div id="sports-extra"></div>
-  <div class="grid" id="news-grid">
-    <div class="empty-state">Loading news...</div>
-  </div>
+<div id="sports-extra"></div>
+<div class="grid" id="news-grid">
+<div class="empty-state">Loading news...</div>
+</div>
 </main>
 
 <script>
 const CATEGORIES = [
-  { key: "India", label: "India", flag: "🇮🇳" },
-  { key: "Taiwan", label: "Taiwan", flag: "🇹🇼" },
-  { key: "China", label: "China", flag: "🇨🇳" },
-  { key: "Japan", label: "Japan", flag: "🇯🇵" },
-  { key: "USA", label: "USA", flag: "🇺🇸" },
-  { key: "International", label: "International", flag: "🌍" },
-  { key: "Sports", label: "Sports", flag: "🏆" },
-  { key: "World Politics", label: "World Politics", flag: "🏛️" },
+{ key: "India", label: "India", flag: "🇮🇳" },
+{ key: "Taiwan", label: "Taiwan", flag: "🇹🇼" },
+{ key: "China", label: "China", flag: "🇨🇳" },
+{ key: "Japan", label: "Japan", flag: "🇯🇵" },
+{ key: "USA", label: "USA", flag: "🇺🇸" },
+{ key: "International", label: "International", flag: "🌍" },
+{ key: "Sports", label: "Sports", flag: "🏆" },
+{ key: "World Politics", label: "World Politics", flag: "🏛️" },
 ];
 
 const REFRESH_MS = 15 * 60 * 1000;
@@ -210,133 +210,146 @@ let newsData = null;
 const tabsEl = document.getElementById("tabs");
 const gridEl = document.getElementById("news-grid");
 const lastUpdatedEl = document.getElementById("last-updated");
-  const sportsExtraEl = document.getElementById("sports-extra");
+const sportsExtraEl = document.getElementById("sports-extra");
 
-  const SPORTS_TRACKER_HTML = `
-    <div class="card wc-tracker">
-        <div class="source">World Cup &amp; Tournament Tracker</div>
-            <h3>Live, recent &amp; upcoming world cups</h3>
-                <p class="wc-note">Data accurate as of July 16, 2026. Schedules, scores and standings change quickly, so please check official sources for live updates.</p>
+const SPORTS_TRACKER_HTML = `
+<div class="card wc-tracker">
+<div class="source">World Cup &amp; Tournament Tracker</div>
+<h3>Live, recent &amp; upcoming world cups</h3>
+<p class="wc-note">Data accurate as of July 16, 2026. Schedules, scores and standings change quickly, so please check official sources for live updates.</p>
 
-                    <div class="wc-block">
-                          <h4>Football: FIFA World Cup 2026 (LIVE)</h4>
-                                <p>Hosts: USA, Canada &amp; Mexico | June 11 - July 19, 2026</p>
-                                      <p>Semifinal results: France 0-2 Spain, England 1-2 Argentina</p>
-                                            <table class="wc-table">
-                                                    <tr><th>Fixture</th><th>Date</th><th>Venue</th></tr>
-                                                            <tr><td>Third-place match: France vs England</td><td>Jul 18</td><td>Miami Gardens</td></tr>
-                                                                    <tr><td>Final: Spain vs Argentina</td><td>Jul 19</td><td>East Rutherford, NJ</td></tr>
-                                                                          </table>
-                                                                              </div>
+<div class="wc-block">
+<h4>Football: FIFA World Cup 2026 (LIVE)</h4>
+<p>Hosts: USA, Canada &amp; Mexico | June 11 - July 19, 2026</p>
+<p>Semifinal results: France 0-2 Spain, England 1-2 Argentina</p>
+<table class="wc-table">
+<tr><th>Fixture</th><th>Date</th><th>Venue</th></tr>
+<tr><td>Third-place match: France vs England</td><td>Jul 18</td><td>Miami Gardens</td></tr>
+<tr><td>Final: Spain vs Argentina</td><td>Jul 19</td><td>East Rutherford, NJ</td></tr>
+</table>
+</div>
 
-                                                                                  <div class="wc-block">
-                                                                                        <h4>Cricket: ICC Women's T20 World Cup 2026 (Completed)</h4>
-                                                                                              <p>Host: England | June 12 - July 5, 2026</p>
-                                                                                                    <p>Champions: Australia (7th title), defeated England by 7 wickets in the final at Lord's</p>
-                                                                                                          <table class="wc-table">
-                                                                                                                  <tr><th>Group A (final)</th><th>Pts</th><th>Group B (final)</th><th>Pts</th></tr>
-                                                                                                                          <tr><td>1. Australia</td><td>10</td><td>1. England (H)</td><td>10</td></tr>
-                                                                                                                                  <tr><td>2. South Africa</td><td>8</td><td>2. West Indies</td><td>6</td></tr>
-                                                                                                                                          <tr><td>3. India</td><td>6</td><td>3. Sri Lanka</td><td>6</td></tr>
-                                                                                                                                                  <tr><td>4. Bangladesh</td><td>4</td><td>4. New Zealand</td><td>4</td></tr>
-                                                                                                                                                           <tr><td>5. Pakistan</td><td>2</td><td>5. Scotland</td><td>2</td></tr>
-                                                                                                                                                                  <tr><td>6. Netherlands</td><td>0</td><td>6. Ireland</td><td>2</td></tr>
-                                                                                                                                                                        </table>
-                                                                                                                                                                            </div>
-                                                                                                                                                                            
-                                                                                                                                                                                <div class="wc-block">
-                                                                                                                                                                                      <h4>Upcoming World Tournaments</h4>
-                                                                                                                                                                                            <table class="wc-table">
-                                                                                                                                                                                                    <tr><th>Event</th><th>Dates</th><th>Host</th></tr>
-                                                                                                                                                                                                            <tr><td>Commonwealth Games 2026</td><td>Jul 23 - Aug 2</td><td>Glasgow, Scotland</td></tr>
-                                                                                                                                                                                                                    <tr><td>FIH Hockey World Cup (Men's &amp; Women's) 2026</td><td>Aug 14 - 30</td><td>TBA venues</td></tr>
-                                                                                                                                                                                                                            <tr><td>FIBA Women's Basketball World Cup 2026</td><td>Sep 4 - 13</td><td>Germany</td></tr>
-                                                                                                                                                                                                                                    <tr><td>Rugby League World Cup (Men's, Women's, Wheelchair) 2026</td><td>Oct 15 - Nov 15</td><td>Australia / NZ / Papua New Guinea</td></tr>
-                                                                                                                                                                                                                                          </table>
-                                                                                                                                                                                                                                              </div>
-                                                                                                                                                                                                                                                </div>
-                                                                                                                                                                                                                                                `;
+<div class="wc-block" data-completed="2026-07-05">
+<h4>Cricket: ICC Women's T20 World Cup 2026 (Completed)</h4>
+<p>Host: England | June 12 - July 5, 2026</p>
+<p>Champions: Australia (7th title), defeated England by 7 wickets in the final at Lord's</p>
+<table class="wc-table">
+<tr><th>Group A (final)</th><th>Pts</th><th>Group B (final)</th><th>Pts</th></tr>
+<tr><td>1. Australia</td><td>10</td><td>1. England (H)</td><td>10</td></tr>
+<tr><td>2. South Africa</td><td>8</td><td>2. West Indies</td><td>6</td></tr>
+<tr><td>3. India</td><td>6</td><td>3. Sri Lanka</td><td>6</td></tr>
+<tr><td>4. Bangladesh</td><td>4</td><td>4. New Zealand</td><td>4</td></tr>
+<tr><td>5. Pakistan</td><td>2</td><td>5. Scotland</td><td>2</td></tr>
+<tr><td>6. Netherlands</td><td>0</td><td>6. Ireland</td><td>2</td></tr>
+</table>
+</div>
 
-  function updateSportsExtra() {
-      if (activeCategory === "Sports") {
-            sportsExtraEl.innerHTML = SPORTS_TRACKER_HTML;
-      } else {
-            sportsExtraEl.innerHTML = "";
-      }
-  }
+<div class="wc-block">
+<h4>Upcoming World Tournaments</h4>
+<table class="wc-table">
+<tr><th>Event</th><th>Dates</th><th>Host</th></tr>
+<tr><td>Commonwealth Games 2026</td><td>Jul 23 - Aug 2</td><td>Glasgow, Scotland</td></tr>
+<tr><td>FIH Hockey World Cup (Men's &amp; Women's) 2026</td><td>Aug 14 - 30</td><td>TBA venues</td></tr>
+<tr><td>FIBA Women's Basketball World Cup 2026</td><td>Sep 4 - 13</td><td>Germany</td></tr>
+<tr><td>Rugby League World Cup (Men's, Women's, Wheelchair) 2026</td><td>Oct 15 - Nov 15</td><td>Australia / NZ / Papua New Guinea</td></tr>
+</table>
+</div>
+</div>
+`;
+
+function updateSportsExtra() {
+if (activeCategory === "Sports") {
+sportsExtraEl.innerHTML = SPORTS_TRACKER_HTML;
+filterCompletedEvents();
+} else {
+sportsExtraEl.innerHTML = "";
+}
+}
+
+function filterCompletedEvents() {
+const HIDE_AFTER_DAYS = 5;
+const now = Date.now();
+sportsExtraEl.querySelectorAll(".wc-block[data-completed]").forEach(function(block) {
+const completedTime = new Date(block.getAttribute("data-completed") + "T00:00:00Z").getTime();
+const cutoff = completedTime + HIDE_AFTER_DAYS * 24 * 60 * 60 * 1000;
+if (now > cutoff) {
+block.remove();
+}
+});
+}
 
 function buildTabs() {
-  tabsEl.innerHTML = "";
-  CATEGORIES.forEach(cat => {
-    const btn = document.createElement("button");
-    btn.className = "tab-btn" + (cat.key === activeCategory ? " active" : "");
-    btn.textContent = cat.flag + " " + cat.label;
-    btn.addEventListener("click", () => {
-      activeCategory = cat.key;
-      buildTabs();
-      renderCategory();
-      updateSportsExtra();
-    });
-    tabsEl.appendChild(btn);
-  });
+tabsEl.innerHTML = "";
+CATEGORIES.forEach(cat => {
+const btn = document.createElement("button");
+btn.className = "tab-btn" + (cat.key === activeCategory ? " active" : "");
+btn.textContent = cat.flag + " " + cat.label;
+btn.addEventListener("click", () => {
+activeCategory = cat.key;
+buildTabs();
+renderCategory();
+updateSportsExtra();
+});
+tabsEl.appendChild(btn);
+});
 }
 
 function timeAgo(isoString) {
-  const then = new Date(isoString).getTime();
-  const diffMin = Math.round((Date.now() - then) / 60000);
-  if (diffMin < 1) return "just now";
-  if (diffMin < 60) return diffMin + "m ago";
-  const diffHr = Math.round(diffMin / 60);
-  if (diffHr < 24) return diffHr + "h ago";
-  return Math.round(diffHr / 24) + "d ago";
+const then = new Date(isoString).getTime();
+const diffMin = Math.round((Date.now() - then) / 60000);
+if (diffMin < 1) return "just now";
+if (diffMin < 60) return diffMin + "m ago";
+const diffHr = Math.round(diffMin / 60);
+if (diffHr < 24) return diffHr + "h ago";
+return Math.round(diffHr / 24) + "d ago";
 }
 
 function escapeHtml(str) {
-  const div = document.createElement("div");
-  div.textContent = str || "";
-  return div.innerHTML;
+const div = document.createElement("div");
+div.textContent = str || "";
+return div.innerHTML;
 }
 
 function renderCategory() {
-  gridEl.innerHTML = "";
-  const items = (newsData && newsData.categories && newsData.categories[activeCategory]) || [];
+gridEl.innerHTML = "";
+const items = (newsData && newsData.categories && newsData.categories[activeCategory]) || [];
 
-  if (items.length === 0) {
-    gridEl.innerHTML = '<div class="empty-state">No news available for this category yet.</div>';
-    return;
-  }
+if (items.length === 0) {
+gridEl.innerHTML = '<div class="empty-state">No news available for this category yet.</div>';
+return;
+}
 
-  items.forEach(item => {
-    const card = document.createElement("div");
-    card.className = "card";
-    card.innerHTML =
-      '<div class="source">' + escapeHtml(item.source) + '</div>' +
-      '<h3>' + escapeHtml(item.title) + '</h3>' +
-      '<p>' + escapeHtml(item.summary) + '</p>' +
-      '<div class="meta">' +
-        '<span>' + timeAgo(item.timestamp) + '</span>' +
-        '<a class="read-more" href="' + item.link + '" target="_blank" rel="noopener noreferrer">Read full article</a>' +
-      '</div>';
-    gridEl.appendChild(card);
-  });
+items.forEach(item => {
+const card = document.createElement("div");
+card.className = "card";
+card.innerHTML =
+'<div class="source">' + escapeHtml(item.source) + '</div>' +
+'<h3>' + escapeHtml(item.title) + '</h3>' +
+'<p>' + escapeHtml(item.summary) + '</p>' +
+'<div class="meta">' +
+'<span>' + timeAgo(item.timestamp) + '</span>' +
+'<a class="read-more" href="' + item.link + '" target="_blank" rel="noopener noreferrer">Read full article</a>' +
+'</div>';
+gridEl.appendChild(card);
+});
 }
 
 async function loadNews() {
-  try {
-    const res = await fetch("news.json?ts=" + Date.now());
-    if (!res.ok) throw new Error("HTTP " + res.status);
-    newsData = await res.json();
-    const generated = new Date(newsData.generated_at);
-    lastUpdatedEl.textContent = "Last updated: " + generated.toLocaleString();
-    renderCategory();
-  } catch (err) {
-    lastUpdatedEl.textContent = "Unable to load news.json";
-    console.error(err);
-  }
+try {
+const res = await fetch("news.json?ts=" + Date.now());
+if (!res.ok) throw new Error("HTTP " + res.status);
+newsData = await res.json();
+const generated = new Date(newsData.generated_at);
+lastUpdatedEl.textContent = "Last updated: " + generated.toLocaleString();
+renderCategory();
+} catch (err) {
+lastUpdatedEl.textContent = "Unable to load news.json";
+console.error(err);
+}
 }
 
 buildTabs();
-  updateSportsExtra();
+updateSportsExtra();
 loadNews();
 setInterval(loadNews, REFRESH_MS);
 </script>
