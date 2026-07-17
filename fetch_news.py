@@ -24,6 +24,24 @@ FEEDS = {
         ("Times of India", "https://timesofindia.indiatimes.com/rssfeedstopstories.cms"),
         ("NDTV", "https://feeds.feedburner.com/ndtvnews-top-stories"),
     ],
+"Nepal": [
+("The Kathmandu Post", "https://kathmandupost.com/rss"),
+],
+"Bhutan": [
+("Kuensel", "https://kuenselonline.com/feed/posts"),
+],
+"Bangladesh": [
+("The Daily Star", "https://www.thedailystar.net/rss.xml"),
+],
+"Myanmar": [
+("Myanmar Now", "https://myanmar-now.org/en/feed/"),
+],
+"Pakistan": [
+("Dawn", "https://www.dawn.com/feeds/home"),
+],
+"Afghanistan": [
+("Khaama Press", "https://www.khaama.com/feed/"),
+],
     "Taiwan": [
         ("Focus Taiwan", "https://focustaiwan.tw/rss/news.xml"),
         ("Taipei Times", "https://www.taipeitimes.com/xml/index.rss"),
