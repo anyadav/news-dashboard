@@ -27,6 +27,9 @@ FEEDS = {
     "Nepal": [
         ("The Kathmandu Post", "https://kathmandupost.com/rss"),
     ],
+    "Sri Lanka": [
+        ("Ada Derana", "https://adaderana.lk/rss.xml"),
+    ],
     "Bhutan": [
         ("Kuensel", "https://kuenselonline.com/feed/posts"),
     ],
