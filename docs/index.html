@@ -173,6 +173,83 @@ font-weight: 600;
 font-size: 0.72rem;
 text-transform: uppercase;
 }
+  .sports-panel-split {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 1rem;
+    align-items: start;
+    margin-bottom: 1.5rem;
+  }
+  .sports-panel-split .wc-tracker {
+    margin-bottom: 0;
+  }
+  @media (max-width: 700px) {
+    .sports-panel-split { grid-template-columns: 1fr; }
+  }
+  .okinawa-feature {
+    background: var(--card-bg);
+    border: 2px solid var(--accent);
+    border-radius: 10px;
+    padding: 1rem;
+  }
+  .okinawa-feature .badge {
+    display: inline-block;
+    background: var(--accent);
+    color: #fff;
+    font-size: 0.7rem;
+    font-weight: 700;
+    padding: 0.15rem 0.6rem;
+    border-radius: 999px;
+    text-transform: uppercase;
+    letter-spacing: 0.03em;
+    margin-bottom: 0.5rem;
+  }
+  .okinawa-feature h3 {
+    margin: 0 0 0.4rem 0;
+    font-size: 1.1rem;
+  }
+  .okinawa-feature .ok-meta {
+    margin: 0 0 0.5rem 0;
+    font-size: 0.85rem;
+    color: var(--muted);
+  }
+  .okinawa-feature .ok-details {
+    margin: 0 0 0.5rem 0;
+    font-size: 0.85rem;
+  }
+  .okinawa-feature .ok-details a {
+    color: var(--accent);
+    text-decoration: none;
+    font-weight: 600;
+  }
+  .okinawa-feature .ok-details a:hover {
+    text-decoration: underline;
+  }
+  .okinawa-feature .ok-news-item {
+    border-top: 1px solid var(--border);
+    padding-top: 0.5rem;
+    margin-top: 0.5rem;
+  }
+  .okinawa-feature .ok-news-item:first-of-type {
+    border-top: none;
+    padding-top: 0;
+    margin-top: 0;
+  }
+  .okinawa-feature .ok-news-source {
+    font-size: 0.72rem;
+    color: var(--muted);
+    text-transform: uppercase;
+    font-weight: 600;
+  }
+  .okinawa-feature .ok-news-item a {
+    color: var(--text);
+    text-decoration: none;
+    font-size: 0.85rem;
+  }
+  .okinawa-feature .ok-news-item a:hover {
+    color: var(--accent);
+    text-decoration: underline;
+  }
 </style>
 </head>
 <body>
@@ -266,10 +343,42 @@ const SPORTS_TRACKER_HTML = `
 </div>
 `;
 
+  function isOkinawaFeatureActive() {
+      const featureEndsAt = new Date("2026-08-11T00:00:00+09:00").getTime();
+      return Date.now() < featureEndsAt;
+  }
+
+  const OKINAWA_FEATURE_HTML = `
+  <div class="okinawa-feature">
+  <div class="badge">Featured &middot; through Aug 10, 2026</div>
+  <h3>Spotlight: The 3rd Okinawa Karate World Tournament (Junior) &mdash; Under 15</h3>
+  <p class="ok-meta">Main round: July 30 &ndash; August 2, 2026 &nbsp;|&nbsp; Okinawa Convention Center, Okinawa, Japan</p>
+  <p class="ok-details">Karateka aged 6 to 14 from more than 80 countries and regions are set to compete in Shuri-te/Tomari-te, Naha-te, Uechi-ryu and Kobudo (Bo) divisions, hosted by the Okinawa Prefectural Government to honor karate's Okinawan origins.</p>
+  <p class="ok-details"><a href="https://okinawa-karate.okinawa/en" target="_blank" rel="noopener noreferrer">Official tournament site &rarr;</a></p>
+  <div class="ok-news-item">
+  <div class="ok-news-source">Muscat Daily &middot; Jul 12, 2026</div>
+  <div><a href="https://www.muscatdaily.com/2026/07/12/6-students-to-represent-oman-at-okinawa-karate-tournament/" target="_blank" rel="noopener noreferrer">Six students to represent Oman at the Okinawa karate tournament</a></div>
+  </div>
+  <div class="ok-news-item">
+  <div class="ok-news-source">Oman Observer &middot; Jul 2026</div>
+  <div><a href="https://www.omanobserver.om/article/1192797/oman/6-karate-students-to-represent-oman-at-okinawa-world-festival" target="_blank" rel="noopener noreferrer">Bodhi Life and Skills Academy students head to the Okinawa World Festival</a></div>
+  </div>
+  <div class="ok-news-item">
+  <div class="ok-news-source">The State Port Pilot &middot; Jun 2026</div>
+  <div><a href="https://stateportpilot.com/sports/article_75fe5a1b-7be0-45ce-a93a-ab3a1fadcf35.html" target="_blank" rel="noopener noreferrer">North Carolina student Enli Hewett to compete for Team USA</a></div>
+  </div>
+  <p class="wc-note">Compiled from the official tournament website and recent press coverage as of July 20, 2026. This spotlight automatically reverts to the standard sports feed after August 10, 2026.</p>
+  </div>
+  `;
+  
 function updateSportsExtra() {
 if (activeCategory === "Sports") {
-sportsExtraEl.innerHTML = SPORTS_TRACKER_HTML;
-filterCompletedEvents();
+if (isOkinawaFeatureActive()) {
+        sportsExtraEl.innerHTML = '<div class="sports-panel-split">' + OKINAWA_FEATURE_HTML + '<div>' + SPORTS_TRACKER_HTML + '</div></div>';
+} else {
+        sportsExtraEl.innerHTML = SPORTS_TRACKER_HTML;
+}
+      filterCompletedEvents();
 } else {
 sportsExtraEl.innerHTML = "";
 }
