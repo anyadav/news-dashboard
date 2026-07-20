@@ -250,6 +250,34 @@ text-transform: uppercase;
     color: var(--accent);
     text-decoration: underline;
   }
+        .okinawa-feature .ok-india-highlight {
+                  margin: 0.6rem 0;
+                  padding: 0.5rem 0.6rem;
+                  border: 1px solid var(--accent);
+                  border-radius: 6px;
+                  background: rgba(255, 153, 51, 0.08);
+        }
+        .okinawa-feature .ok-india-badge {
+                  font-size: 0.72rem;
+                  font-weight: 700;
+                  text-transform: uppercase;
+                  color: var(--accent);
+                  margin-bottom: 0.25rem;
+        }
+        .okinawa-feature .ok-india-highlight p {
+                  margin: 0;
+                  font-size: 0.85rem;
+        }
+        .okinawa-feature .ok-india-tag {
+                  display: inline-block;
+                  font-size: 0.65rem;
+                  font-weight: 700;
+                  color: #fff;
+                  background: var(--accent);
+                  border-radius: 3px;
+                  padding: 0 4px;
+                  margin-right: 4px;
+        }
 </style>
 </head>
 <body>
@@ -348,6 +376,20 @@ const SPORTS_TRACKER_HTML = `
       return Date.now() < featureEndsAt;
   }
 
+        const OKINAWA_NEWS_ITEMS = [
+          { source: "Muscat Daily", date: "Jul 12, 2026", title: "6 students to represent Oman at Okinawa karate tournament", url: "https://www.muscatdaily.com/2026/07/12/6-students-to-represent-oman-at-okinawa-karate-tournament/", isIndia: false },
+          { source: "Oman Observer", date: "Jul 2026", title: "6 karate students to represent Oman at Okinawa World Festival", url: "https://www.omanobserver.om/article/1192797/oman/6-karate-students-to-represent-oman-at-okinawa-world-festival", isIndia: false },
+          { source: "The State Port Pilot", date: "Jun 2026", title: "Hewett to compete in world karate championships", url: "https://stateportpilot.com/sports/article_75fe5a1b-7be0-45ce-a93a-ab3a1fadcf35.html", isIndia: false }
+                ];
+
+        function renderOkinawaNewsItems() {
+                  const sorted = OKINAWA_NEWS_ITEMS.slice().sort(function (a, b) { return (b.isIndia === true ? 1 : 0) - (a.isIndia === true ? 1 : 0); });
+                  return sorted.map(function (item) {
+                              const tag = item.isIndia ? '<span class="ok-india-tag">India</span>' : '';
+                              return '<div class="ok-news-item"><div class="ok-news-source">' + tag + item.source + ' &middot; ' + item.date + '</div><div><a href="' + item.url + '" target="_blank" rel="noopener noreferrer">' + item.title + '</a></div></div>';
+                  }).join('');
+        }
+
   const OKINAWA_FEATURE_HTML = `
   <div class="okinawa-feature">
   <div class="badge">Featured &middot; through Aug 10, 2026</div>
@@ -355,18 +397,8 @@ const SPORTS_TRACKER_HTML = `
   <p class="ok-meta">Main round: July 30 &ndash; August 2, 2026 &nbsp;|&nbsp; Okinawa Convention Center, Okinawa, Japan</p>
   <p class="ok-details">Karateka aged 6 to 14 from more than 80 countries and regions are set to compete in Shuri-te/Tomari-te, Naha-te, Uechi-ryu and Kobudo (Bo) divisions, hosted by the Okinawa Prefectural Government to honor karate's Okinawan origins.</p>
   <p class="ok-details"><a href="https://okinawa-karate.okinawa/en" target="_blank" rel="noopener noreferrer">Official tournament site &rarr;</a></p>
-  <div class="ok-news-item">
-  <div class="ok-news-source">Muscat Daily &middot; Jul 12, 2026</div>
-  <div><a href="https://www.muscatdaily.com/2026/07/12/6-students-to-represent-oman-at-okinawa-karate-tournament/" target="_blank" rel="noopener noreferrer">Six students to represent Oman at the Okinawa karate tournament</a></div>
-  </div>
-  <div class="ok-news-item">
-  <div class="ok-news-source">Oman Observer &middot; Jul 2026</div>
-  <div><a href="https://www.omanobserver.om/article/1192797/oman/6-karate-students-to-represent-oman-at-okinawa-world-festival" target="_blank" rel="noopener noreferrer">Bodhi Life and Skills Academy students head to the Okinawa World Festival</a></div>
-  </div>
-  <div class="ok-news-item">
-  <div class="ok-news-source">The State Port Pilot &middot; Jun 2026</div>
-  <div><a href="https://stateportpilot.com/sports/article_75fe5a1b-7be0-45ce-a93a-ab3a1fadcf35.html" target="_blank" rel="noopener noreferrer">North Carolina student Enli Hewett to compete for Team USA</a></div>
-  </div>
+      <div class="ok-india-highlight"><div class="ok-india-badge">Team India Watch &middot; Under-18</div><p>No independently verified news reports of an Indian team or athlete competing in the Under-18 category of this tournament were found as of July 20, 2026. Any confirmed India-related coverage will automatically be shown first in the list below.</p></div>
+  ${renderOkinawaNewsItems()}
   <p class="wc-note">Compiled from the official tournament website and recent press coverage as of July 20, 2026. This spotlight automatically reverts to the standard sports feed after August 10, 2026.</p>
   </div>
   `;
