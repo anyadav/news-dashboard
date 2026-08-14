@@ -1,7 +1,35 @@
 {
-  "generated_at": "2026-08-14T21:14:19.551884+00:00",
+  "generated_at": "2026-08-14T22:10:25.930235+00:00",
   "categories": {
     "India": [
+      {
+        "title": "Maharashtra government to set a task force for drone policy implementation",
+        "summary": "“The policy need is to strengthen existing drone ecosystem and for that government has to assist the existing companies as well attracting new investments,” Chief Minister Devendra Fadnavis said",
+        "link": "https://www.thehindu.com/news/national/maharashtra/maharashtra-government-to-set-a-task-force-for-drone-policy-implementation/article71344469.ece",
+        "source": "The Hindu",
+        "timestamp": "2026-08-14T22:04:17+00:00"
+      },
+      {
+        "title": "‘Pretty soon’: Trump vows to claim Hormuz as US territory; Iran hits back",
+        "summary": "",
+        "link": "https://timesofindia.indiatimes.com/world/us/pretty-soon-trump-vows-to-claim-hormuz-as-us-territory-iran-hits-back/articleshow/133251741.cms",
+        "source": "Times of India",
+        "timestamp": "2026-08-14T21:51:07+00:00"
+      },
+      {
+        "title": "Man Accused Of Attacking Sukhbir Badal Sent To Police Custody Till August 24",
+        "summary": "Sukhbir Badal was attacked with a dagger inside a gurudwara premises in Maharashtra's Nanded on Thursday.",
+        "link": "https://www.ndtv.com/india-news/maharashtra-man-accused-of-attacking-sukhbir-badal-sent-to-police-custody-till-august-24-11912179#publisher=newsstand",
+        "source": "NDTV",
+        "timestamp": "2026-08-14T21:03:38+00:00"
+      },
+      {
+        "title": "Government removes 12-minute ad duration cap for TV channels",
+        "summary": "The Ministry says there is adequate competition within the TV industry and between TV and digital media, and the government has therefore decided to remove the duration cap",
+        "link": "https://www.thehindu.com/news/national/government-removes-12-minute-ad-duration-cap-for-tv-channels/article71346958.ece",
+        "source": "The Hindu",
+        "timestamp": "2026-08-14T20:55:11+00:00"
+      },
       {
         "title": "Clear encroachments from Pipeline Road in Kochi, says KWA",
         "summary": "The drive against encroachers is being taken up ahead of laying pipelines to the city from a 190-mld water treatment plant that has been planned",
@@ -24,6 +52,13 @@
         "timestamp": "2026-08-14T20:37:29+00:00"
       },
       {
+        "title": "Trump Says Will \"Soon\" Declare Strait Of Hormuz US Territory",
+        "summary": "President Donald Trump on Friday said he would \"soon\" declare the Strait of Hormuz waterway part of US territory after defeating Iran.",
+        "link": "https://www.ndtv.com/world-news/donald-trump-says-will-soon-declare-strait-of-hormuz-us-territory-11912131#publisher=newsstand",
+        "source": "NDTV",
+        "timestamp": "2026-08-14T20:31:49+00:00"
+      },
+      {
         "title": "Be mindful of strong India-Italy ties, says MEA after Rahul's jibe at Modi &amp; Meloni",
         "summary": "",
         "link": "https://timesofindia.indiatimes.com/india/be-mindful-of-strong-india-italy-ties-says-mea-after-rahuls-jibe-at-modi-meloni/articleshow/133251455.cms",
@@ -36,41 +71,6 @@
         "link": "https://timesofindia.indiatimes.com/world/uk/jason-arday-ex-cambridge-professor-at-centre-of-plagiarism-row-found-dead/articleshow/133251434.cms",
         "source": "Times of India",
         "timestamp": "2026-08-14T20:12:23+00:00"
-      },
-      {
-        "title": "Ex-Cambridge University Professor Jason Arday Found Dead At Home",
-        "summary": "Black British academic Jason Arday, who resigned from the University of Cambridge earlier this month amid a high-profile plagiarism storm that featured racism claims, was found dead Friday, UK media outlets reported.",
-        "link": "https://www.ndtv.com/world-news/ex-cambridge-university-professor-jason-arday-found-dead-at-home-11912096#publisher=newsstand",
-        "source": "NDTV",
-        "timestamp": "2026-08-14T20:10:40+00:00"
-      },
-      {
-        "title": "Three police officers suspended for allegedly taking money from scrap dealer in Kochi",
-        "summary": "Action was taken against the officers following allegations of misconduct during the investigation into a theft case",
-        "link": "https://www.thehindu.com/news/national/kerala/three-police-officers-suspended-for-allegedly-taking-money-from-scrap-dealer-in-kochi/article71346771.ece",
-        "source": "The Hindu",
-        "timestamp": "2026-08-14T20:04:01+00:00"
-      },
-      {
-        "title": "Public exams to become more transparent, secure and trustworthy: President Murmu",
-        "summary": "",
-        "link": "https://timesofindia.indiatimes.com/india/public-exams-to-become-more-transparent-secure-and-trustworthy-president-murmu/articleshow/133251351.cms",
-        "source": "Times of India",
-        "timestamp": "2026-08-14T19:59:04+00:00"
-      },
-      {
-        "title": "Partition Day event turns awkward as BJP MP Rao Inderjit flags ‘community-specific’ politics",
-        "summary": "",
-        "link": "https://www.thehindu.com/news/national/haryana/partition-day-event-turns-awkward-as-bjp-mp-rao-inderjit-flags-community-specific-politics/article71346638.ece",
-        "source": "The Hindu",
-        "timestamp": "2026-08-14T19:56:21+00:00"
-      },
-      {
-        "title": "‘First Islamic republic with nuclear weapons’: Netanyahu’s sharp rebuke of UK",
-        "summary": "",
-        "link": "https://timesofindia.indiatimes.com/world/middle-east/first-islamic-republic-with-nuclear-weapons-netanyahus-sharp-rebuke-of-uk/articleshow/133251347.cms",
-        "source": "Times of India",
-        "timestamp": "2026-08-14T19:55:21+00:00"
       }
     ],
     "Nepal": [
@@ -79,70 +79,70 @@
         "summary": "The Jana Aastha Saptahik editor-in-chief was arrested over an alleged privacy law violation and is scheduled to be presented in court on Thursday, as journalists protest and the FNJ demands his immediate release.",
         "link": "https://kathmandupost.com/national/2026/08/13/police-raid-journalist-kishor-shrestha-s-office-after-arrest",
         "source": "The Kathmandu Post",
-        "timestamp": "2026-08-14T21:14:20.824183+00:00"
+        "timestamp": "2026-08-14T22:10:28.117059+00:00"
       },
       {
         "title": "20 dead in three years in Rukum’s rivers",
         "summary": "People continue to drown or be swept away in the Sani Bheri and Thuli Bheri rivers while fishing, gathering firewood and gravel, or entering the rivers without basic safety precautions.",
         "link": "https://kathmandupost.com/national/2026/08/13/20-dead-in-three-years-in-rukum-s-rivers",
         "source": "The Kathmandu Post",
-        "timestamp": "2026-08-14T21:14:20.824165+00:00"
+        "timestamp": "2026-08-14T22:10:28.117042+00:00"
       },
       {
         "title": "Landslide disrupts Bhotekoshi’s flow, downstream residents warned",
         "summary": "A landslide near Nyalam on the Chinese side of the border has affected the river’s flow, but Sindhupalchok officials say only a small amount of debris has entered the river and it is flowing normally.",
         "link": "https://kathmandupost.com/national/2026/08/13/landslide-disrupts-bhotekoshi-s-flow-downstream-residents-warned",
         "source": "The Kathmandu Post",
-        "timestamp": "2026-08-14T21:14:20.824149+00:00"
+        "timestamp": "2026-08-14T22:10:28.117028+00:00"
       },
       {
         "title": "Deuba returns to Nepal after nearly five months abroad",
         "summary": "Former prime minister arrived in Kathmandu via Hong Kong, but questions remain over his family’s prolonged stay overseas and the details of their medical treatment.",
         "link": "https://kathmandupost.com/national/2026/08/13/deuba-returns-to-nepal-after-nearly-five-months-abroad",
         "source": "The Kathmandu Post",
-        "timestamp": "2026-08-14T21:14:20.824129+00:00"
+        "timestamp": "2026-08-14T22:10:28.117010+00:00"
       },
       {
         "title": "Iran says no progress on reviving interim peace deal with US",
         "summary": "The US accuses Iran of failing to honor an agreement under the deal to reopen the vital Strait ⁠of Hormuz shipping route. Tehran says Washington has reneged on its commitments, including lifting a blockade of Iranian ports.",
         "link": "https://kathmandupost.com/world/2026/08/13/iran-says-no-progress-on-reviving-interim-peace-deal-with-us",
         "source": "The Kathmandu Post",
-        "timestamp": "2026-08-14T21:14:20.824111+00:00"
+        "timestamp": "2026-08-14T22:10:28.116994+00:00"
       },
       {
         "title": "Some welcome Kishor Shrestha’s arrest, others question it",
         "summary": "While media groups and press freedom advocates have criticised the police action, others say the veteran journalist’s arrest is justified, pointing to a long record of publishing private and targeted content.",
         "link": "https://kathmandupost.com/national/2026/08/13/some-welcome-kishor-shrestha-s-arrest-others-question-it",
         "source": "The Kathmandu Post",
-        "timestamp": "2026-08-14T21:14:20.824092+00:00"
+        "timestamp": "2026-08-14T22:10:28.116977+00:00"
       },
       {
         "title": "Two-wheeler ride-hailing drivers suspend protest, but fare dispute remains unresolved",
         "summary": "inDrive has pledged to address drivers’ demands, but no agreement has been reached on a minimum fare as Nepal lacks a clear legal framework governing ride-hailing services.",
         "link": "https://kathmandupost.com/money/2026/08/13/ride-hailing-riders-suspend-protest-but-fare-dispute-remains-unresolved",
         "source": "The Kathmandu Post",
-        "timestamp": "2026-08-14T21:14:20.824072+00:00"
+        "timestamp": "2026-08-14T22:10:28.116960+00:00"
       },
       {
         "title": "It’s annual baby boom season at Nepal’s maternity hospitals",
         "summary": "Winter weddings and migrant workers returning home for the festivals help drive the annual rise in deliveries, say doctors.",
         "link": "https://kathmandupost.com/health/2026/08/13/it-s-annual-baby-boom-season-at-nepal-s-maternity-hospitals",
         "source": "The Kathmandu Post",
-        "timestamp": "2026-08-14T21:14:20.824051+00:00"
+        "timestamp": "2026-08-14T22:10:28.116941+00:00"
       },
       {
         "title": "Rolpa landslide death toll rises to 10",
         "summary": "Heavy rain triggered a landslide in Thabang that buried nine houses and other structures, while rescue teams continue searching for missing people.",
         "link": "https://kathmandupost.com/province-no-5/2026/08/13/rolpa-landslide-death-toll-rises-to-10",
         "source": "The Kathmandu Post",
-        "timestamp": "2026-08-14T21:14:20.824034+00:00"
+        "timestamp": "2026-08-14T22:10:28.116926+00:00"
       },
       {
         "title": "Iran, US make competing claims over control of Strait of Hormuz",
         "summary": "Tehran says no vessel can pass through the strategic waterway without its permission, challenging Trump’s claim that the US has “total control” of the strait.",
         "link": "https://kathmandupost.com/world/2026/08/13/iran-us-make-competing-claims-over-control-of-strait-of-hormuz",
         "source": "The Kathmandu Post",
-        "timestamp": "2026-08-14T21:14:20.824018+00:00"
+        "timestamp": "2026-08-14T22:10:28.116912+00:00"
       }
     ],
     "Sri Lanka": [
@@ -151,70 +151,70 @@
         "summary": "Dogs can distinguish between emotions in a human face, study shows",
         "link": "https://adaderana.lk/news/cmsq27ue80005356q323vo0bz",
         "source": "Ada Derana",
-        "timestamp": "2026-08-14T21:14:21.480336+00:00"
+        "timestamp": "2026-08-14T22:10:28.986732+00:00"
       },
       {
         "title": "White House Press Secretary Karoline Leavitt to step down",
         "summary": "White House Press Secretary Karoline Leavitt to step down",
         "link": "https://adaderana.lk/news/cmsqx6337000d356p3qp8rwpr",
         "source": "Ada Derana",
-        "timestamp": "2026-08-14T21:14:21.480319+00:00"
+        "timestamp": "2026-08-14T22:10:28.986716+00:00"
       },
       {
         "title": "Danube river's low water levels reveal remains of WWII soldiers and motorcycle",
         "summary": "Danube river's low water levels reveal remains of WWII soldiers and motorcycle",
         "link": "https://adaderana.lk/news/cmsqzj0ww0001356powr4yvue",
         "source": "Ada Derana",
-        "timestamp": "2026-08-14T21:14:21.480303+00:00"
+        "timestamp": "2026-08-14T22:10:28.986702+00:00"
       },
       {
         "title": "Sri Lankan-born 14-year-old wins world youth scrabble championship for Australia",
         "summary": "Sri Lankan-born 14-year-old wins world youth scrabble championship for Australia",
         "link": "https://adaderana.lk/news/cmssk2cyd0006356q5cgqysfn",
         "source": "Ada Derana",
-        "timestamp": "2026-08-14T21:14:21.480285+00:00"
+        "timestamp": "2026-08-14T22:10:28.986687+00:00"
       },
       {
         "title": "Reform UK leader Nigel Farage beats Count Binface in widely mocked British election",
         "summary": "Reform UK leader Nigel Farage beats Count Binface in widely mocked British election",
         "link": "https://adaderana.lk/news/cmssqxlj10002356q56jioe4e",
         "source": "Ada Derana",
-        "timestamp": "2026-08-14T21:14:21.480267+00:00"
+        "timestamp": "2026-08-14T22:10:28.986671+00:00"
       },
       {
         "title": "Indian actor Vikram's video with endangered gibbon sparks investigation",
         "summary": "Indian actor Vikram's video with endangered gibbon sparks investigation",
         "link": "https://adaderana.lk/news/cmsrekipq0005356qsec5bifw",
         "source": "Ada Derana",
-        "timestamp": "2026-08-14T21:14:21.480249+00:00"
+        "timestamp": "2026-08-14T22:10:28.986655+00:00"
       },
       {
         "title": "After Shah Rukh Khan, Rani Mukerji honoured with Doctor of Letters by La Trobe University",
         "summary": "After Shah Rukh Khan, Rani Mukerji honoured with Doctor of Letters by La Trobe University",
         "link": "https://adaderana.lk/news/cmssoeb790009356qj8koqflv",
         "source": "Ada Derana",
-        "timestamp": "2026-08-14T21:14:21.480232+00:00"
+        "timestamp": "2026-08-14T22:10:28.986640+00:00"
       },
       {
         "title": "Selena Gomez and her mental health startup accused of fraud",
         "summary": "Selena Gomez and her mental health startup accused of fraud",
         "link": "https://adaderana.lk/news/cmssty80x000g356qs3e37p17",
         "source": "Ada Derana",
-        "timestamp": "2026-08-14T21:14:21.480211+00:00"
+        "timestamp": "2026-08-14T22:10:28.986622+00:00"
       },
       {
         "title": "Taylor Swift becomes youngest Nashville Songwriters Hall of Fame inductee",
         "summary": "Taylor Swift becomes youngest Nashville Songwriters Hall of Fame inductee",
         "link": "https://adaderana.lk/news/cmssyx8480007356qn4a8a6u3",
         "source": "Ada Derana",
-        "timestamp": "2026-08-14T21:14:21.480194+00:00"
+        "timestamp": "2026-08-14T22:10:28.986607+00:00"
       },
       {
         "title": "Brazil recovers Matisse paintings stolen from Sao Paulo library",
         "summary": "Brazil recovers Matisse paintings stolen from Sao Paulo library",
         "link": "https://adaderana.lk/news/cmst630f30007356qgs8g2pfw",
         "source": "Ada Derana",
-        "timestamp": "2026-08-14T21:14:21.480177+00:00"
+        "timestamp": "2026-08-14T22:10:28.986592+00:00"
       }
     ],
     "Bhutan": [
@@ -292,7 +292,7 @@
     "Bangladesh": [
       {
         "title": "Ramisa rape and murder: Sohel Rana mentions new name as charges framed",
-        "summary": "Ramisa rape and murder: Sohel Rana mentions new name as charges framed prajukta@theda… Mon, 06/01/2026 - 16:43 Editor's Pick Chained majesties: The plight of captive elephants in Bangladesh 2 HOUR(s) • Big Picture Bangladesh’s FDI puzzle: Why human capital, not red tape, is the…",
+        "summary": "Ramisa rape and murder: Sohel Rana mentions new name as charges framed prajukta@theda… Mon, 06/01/2026 - 16:43 Editor's Pick Chained majesties: The plight of captive elephants in Bangladesh 3 HOUR(s) • Big Picture Bangladesh’s FDI puzzle: Why human capital, not red tape, is the…",
         "link": "https://www.thedailystar.net/news/crime-justice/news/ramisa-rape-and-murder-sohel-rana-mentions-new-name-charges-framed-4187931",
         "source": "The Daily Star",
         "timestamp": "2026-06-01T10:43:08+00:00"
@@ -491,78 +491,7 @@
         "timestamp": "2026-08-14T14:04:11+00:00"
       }
     ],
-    "Afghanistan": [
-      {
-        "title": "Malala Yousafzai Calls for Unconditional Release of Six Women’s Rights Activists in Kabul",
-        "summary": "Nobel Peace Prize laureate Malala Yousafzai has called for the immediate and unconditional release of six women’s rights activists detained in Kabul, saying that defending women and children should not be treated as a crime. Yousafzai made the call on Thursday, August 13, 2026,…",
-        "link": "https://www.khaama.com/malala-yousafzai-calls-for-unconditional-release-of-six-womens-rights-activists-in-kabul/",
-        "source": "Khaama Press",
-        "timestamp": "2026-08-14T09:25:00+00:00"
-      },
-      {
-        "title": "US Says It Can Maintain Iran Naval Blockade Indefinitely as Hormuz Tensions Rise",
-        "summary": "The United States said Thursday it could maintain a naval blockade of Iran indefinitely and vowed to increase economic pressure on Tehran as ceasefire negotiations stalled, shipping through the Strait of Hormuz declined and concerns over global oil supplies grew. Reuters…",
-        "link": "https://www.khaama.com/us-says-it-can-maintain-iran-naval-blockade-indefinitely-as-hormuz-tensions-rise/",
-        "source": "Khaama Press",
-        "timestamp": "2026-08-14T09:00:00+00:00"
-      },
-      {
-        "title": "Kuwait’s Oil Sector Hit by Prolonged Strait of Hormuz Closure",
-        "summary": "Kuwait’s oil industry has been severely disrupted by the war between the United States and Iran, with the closure and disruption of the Strait of Hormuz sharply reducing the country’s ability to export crude and putting its economy under growing pressure. Kuwait depends heavily…",
-        "link": "https://www.khaama.com/kuwaits-oil-sector-hit-by-prolonged-strait-of-hormuz-closure/",
-        "source": "Khaama Press",
-        "timestamp": "2026-08-14T08:15:00+00:00"
-      },
-      {
-        "title": "US Judge Presses Justice Department Over Redactions in Epstein Files",
-        "summary": "A federal judge has pressed the U.S. Department of Justice to explain why parts of records related to convicted sex offender Jeffrey Epstein remain redacted or withheld from public release. U.S. District Judge Emmet Sullivan raised the issue during a hearing stemming from a…",
-        "link": "https://www.khaama.com/us-judge-presses-justice-department-over-redactions-in-epstein-files/",
-        "source": "Khaama Press",
-        "timestamp": "2026-08-14T07:44:00+00:00"
-      },
-      {
-        "title": "Cristiano Ronaldo Returns to Al Nassr Training After Marriage to Georgina Rodriguez",
-        "summary": "Cristiano Ronaldo has returned to group training with Saudi Arabian club Al Nassr following his marriage to Georgina Rodriguez, with the Portuguese forward also appearing with a new hairstyle and hair color. Al Nassr shared images from the team&#8217;s latest training session…",
-        "link": "https://www.khaama.com/cristiano-ronaldo-returns-to-al-nassr-training-after-marriage-to-georgina-rodriguez/",
-        "source": "Khaama Press",
-        "timestamp": "2026-08-14T07:15:00+00:00"
-      },
-      {
-        "title": "Democrats Seek Details on Trump’s Stock Managers After Surge in Trades",
-        "summary": "Democratic lawmakers Elizabeth Warren and Robert Garcia are seeking details about who manages President Donald Trump’s stock investments after financial disclosures showed thousands of trades by Trump or on his behalf during the first three months of 2026. In a 17-page letter…",
-        "link": "https://www.khaama.com/democrats-seek-details-on-trumps-stock-managers-after-surge-in-trades/",
-        "source": "Khaama Press",
-        "timestamp": "2026-08-14T06:46:14+00:00"
-      },
-      {
-        "title": "Helicopter damaged in Badakhshan, Ministry of Defense Says",
-        "summary": "A helicopter belonging to Ministry of Defense was damaged while landing in Badakhshan province after one of its rotors struck a pole, the ministry said, contradicting an earlier report that the aircraft had crashed after coming under attack. Enayatullah Khwarazmi, spokesperson…",
-        "link": "https://www.khaama.com/helicopter-damaged-in-badakhshan-ministry-of-defense-says/",
-        "source": "Khaama Press",
-        "timestamp": "2026-08-14T06:31:44+00:00"
-      },
-      {
-        "title": "HRW Calls for Release of 8 UN and Aid Workers Detained in Afghanistan",
-        "summary": "Human Rights Watch (HRW) on Wednesday called for the release of eight employees of the United Nations and a nongovernmental organization who it says have been detained or forcibly disappeared in Afghanistan. The rights group said six male employees of the Women and Children…",
-        "link": "https://www.khaama.com/hrw-calls-for-release-of-8-un-and-aid-workers-detained-in-afghanistan/",
-        "source": "Khaama Press",
-        "timestamp": "2026-08-13T15:13:24+00:00"
-      },
-      {
-        "title": "EU Contributes €10 Million to Afghanistan Humanitarian Fund, UN Says",
-        "summary": "The European Union has contributed €10 million to the Afghanistan Humanitarian Fund to support life-saving assistance for people in need, the United Nations Office for the Coordination of Humanitarian Affairs (OCHA) said Thursday. OCHA said in a post on X that it welcomed the…",
-        "link": "https://www.khaama.com/eu-contributes-e10-million-to-afghanistan-humanitarian-fund-un-says/",
-        "source": "Khaama Press",
-        "timestamp": "2026-08-13T13:40:00+00:00"
-      },
-      {
-        "title": "Pakistan Suspends Medical and Dental Studies for Afghan Students",
-        "summary": "Pakistan’s Medical and Dental Council (PM&#38;DC) has ordered a suspension of medical and dental education for Afghan students in the country, according to an official letter issued by the council. The directive applies to both new admissions and Afghan students already enrolled…",
-        "link": "https://www.khaama.com/pakistan-suspends-medical-and-dental-studies-for-afghan-students/",
-        "source": "Khaama Press",
-        "timestamp": "2026-08-13T13:14:02+00:00"
-      }
-    ],
+    "Afghanistan": [],
     "Taiwan": [
       {
         "title": "KMT, TPP approve full drone budget",
@@ -645,7 +574,7 @@
       },
       {
         "title": "Jason Arday, ex-Cambridge professor at centre of plagiarism scandal, found dead",
-        "summary": "British academic Jason Arday, who resigned from the University of Cambridge last week amid a high-profile plagiarism storm that featured racism claims, was found dead on Friday, UK media outlets reported. Arday, 41, died after being found unresponsive at an address in south…",
+        "summary": "UK academic Jason Arday, who resigned from the University of Cambridge last week amid a high-profile plagiarism storm that featured racism claims, was found dead on Friday, the prestigious British institution confirmed. Arday, 41, was found unresponsive on Friday afternoon at an…",
         "link": "https://www.scmp.com/news/world/europe/article/3364119/jason-arday-ex-cambridge-professor-centre-plagiarism-scandal-found-dead?utm_source=rss_feed",
         "source": "SCMP",
         "timestamp": "2026-08-14T20:41:32+00:00"
@@ -853,6 +782,41 @@
     ],
     "International": [
       {
+        "title": "Trump says he will declare Strait of Hormuz a US ‘territory’",
+        "summary": "Control over the strait has been a sticking point in the ongoing ceasefire negotiations between the US and Iran.",
+        "link": "https://www.aljazeera.com/news/2026/8/14/trump-says-he-will-declare-strait-of-hormuz-a-us-territory?traffic_source=rss",
+        "source": "Al Jazeera",
+        "timestamp": "2026-08-14T21:50:46+00:00"
+      },
+      {
+        "title": "Wildfires rage across Europe as heatwaves drive record temperatures",
+        "summary": "Wildfires fuelled by record heat are ravaging Europe, burning around 500,000 hectares and forcing thousands to flee.",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/14/wildfires-rage-across-europe-as-heatwaves-drive-record-temperatures?traffic_source=rss",
+        "source": "Al Jazeera",
+        "timestamp": "2026-08-14T21:50:35+00:00"
+      },
+      {
+        "title": "Israeli soldiers accused of supporting ‘terrorist’ settlers in Qusra",
+        "summary": "Israeli soldiers accused of supporting ‘terrorist’ settlers in Qusra",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/14/israeli-soldiers-accused-of-supporting-terrorist-settlers-in-qusra?traffic_source=rss",
+        "source": "Al Jazeera",
+        "timestamp": "2026-08-14T21:45:20+00:00"
+      },
+      {
+        "title": "Trump dismisses mental health concerns on USS Lincoln aircraft carrier",
+        "summary": "Members of the US Congress have called for a probe into conditions amid reports of sailors attempting to jump ship.",
+        "link": "https://www.aljazeera.com/news/2026/8/14/trump-dismisses-mental-health-concerns-on-uss-lincoln-aircraft-carrier?traffic_source=rss",
+        "source": "Al Jazeera",
+        "timestamp": "2026-08-14T21:17:15+00:00"
+      },
+      {
+        "title": "Mount Etna eruption and volcanic ash shut Sicily’s busiest airport",
+        "summary": "Flights will be suspended until at least Saturday afternoon, leaving hundreds of travellers stranded.",
+        "link": "https://www.aljazeera.com/news/2026/8/14/mount-etna-eruption-and-volcanic-ash-shut-sicilys-busiest-airport?traffic_source=rss",
+        "source": "Al Jazeera",
+        "timestamp": "2026-08-14T21:03:07+00:00"
+      },
+      {
         "title": "Former Cambridge professor accused of plagiarism found dead",
         "summary": "Jason Arday&#039;s body was found in south London just a week after he resigned from the University of Cambridge.",
         "link": "https://www.aljazeera.com/news/2026/8/14/former-cambridge-professor-accused-of-plagiarism-found-dead?traffic_source=rss",
@@ -886,46 +850,32 @@
         "link": "https://www.bbc.co.uk/news/articles/c3v0yz2r4wlo?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
         "timestamp": "2026-08-14T19:05:22+00:00"
-      },
-      {
-        "title": "Trump asks US Supreme Court to allow $400m ballroom project to proceed",
-        "summary": "Appeals court previously ruled that Trump administration must seek authorisation from Congress to continue with project.",
-        "link": "https://www.aljazeera.com/news/2026/8/14/trump-asks-us-supreme-court-to-allow-400m-ballroom-project-to-proceed?traffic_source=rss",
-        "source": "Al Jazeera",
-        "timestamp": "2026-08-14T19:02:49+00:00"
-      },
-      {
-        "title": "Woman charged over vandalism of World War II Memorial in Washington, DC",
-        "summary": "The arrest comes weeks after Trump criticised Jeanine Pirro for dropping charges over damage to the Reflecting Pool.",
-        "link": "https://www.aljazeera.com/news/2026/8/14/woman-charged-over-vandalism-of-world-war-ii-memorial-in-washington-dc?traffic_source=rss",
-        "source": "Al Jazeera",
-        "timestamp": "2026-08-14T18:55:24+00:00"
-      },
-      {
-        "title": "Art offers young Gaza survivors solace and escape from war’s devastation",
-        "summary": "Young survivors of Israel&#039;s genocidal war in Gaza find safe spaces to process trauma and rediscover joy.",
-        "link": "https://www.aljazeera.com/features/2026/8/14/art-offers-young-gaza-survivors-solace-and-escape-from-wars-devastation?traffic_source=rss",
-        "source": "Al Jazeera",
-        "timestamp": "2026-08-14T18:43:36+00:00"
-      },
-      {
-        "title": "Italian police recover stolen paintings worth over $10m",
-        "summary": "Nine Moldovans are being investigated in connection with the theft of paintings by Cezanne, Renoir and Matisse.",
-        "link": "https://www.aljazeera.com/news/2026/8/14/italian-police-recover-stolen-paintings-worth-over-10m?traffic_source=rss",
-        "source": "Al Jazeera",
-        "timestamp": "2026-08-14T18:37:59+00:00"
-      },
-      {
-        "title": "CEO pay skyrockets in 2025 amid growing income inequality in the US",
-        "summary": "Elon Musk earned 2.5 million times more than a Tesla worker&#039;s median pay in 2025, despite revenue and sales declines.",
-        "link": "https://www.aljazeera.com/economy/2026/8/14/ceo-pay-skyrockets-in-2025-amid-growing-income-inequality-in-the-us?traffic_source=rss",
-        "source": "Al Jazeera",
-        "timestamp": "2026-08-14T18:28:17+00:00"
       }
     ],
     "Sports": [
       {
-        "title": "Jimenez salvages point for Wolves on Molineux return",
+        "title": "Arteta says he will sign new Arsenal contract in 'organic way'",
+        "summary": "Mikel Arteta has revealed he will sign a new Arsenal contract and there is no need for fans to be worried about his future.",
+        "link": "https://www.skysports.com/football/news/12040/13572989/mikel-arteta-arsenal-manager-says-he-will-sign-new-contract-after-entering-the-last-year-of-his-current-deal",
+        "source": "Sky Sports",
+        "timestamp": "2026-08-14T22:30:00+00:00"
+      },
+      {
+        "title": "Jimenez the hero as controversial late pen spares Wolves' blushes",
+        "summary": "Highlights from the Sky Bet Championship match between Wolverhampton Wanderers and Blackburn Rovers.",
+        "link": "https://www.skysports.com/watch/video/13573181/wolverhampton-wanderers-2-2-blackburn-rovers-championship-highlights",
+        "source": "Sky Sports",
+        "timestamp": "2026-08-14T22:25:00+00:00"
+      },
+      {
+        "title": "'It's such a BIG call!' | Controversial late Wolves penalty decision ANALYSED",
+        "summary": "Curtis Davies and Jobi McAnuff debate whether Wolves' late penalty was correctly award during their opening day 2-2 draw against Blackburn.",
+        "link": "https://www.skysports.com/watch/video/13573176/wolves-vs-blackburn-was-the-referee-right-to-award-wolves-controversial-late-penalty",
+        "source": "Sky Sports",
+        "timestamp": "2026-08-14T22:15:00+00:00"
+      },
+      {
+        "title": "Jimenez salvages dramatic point for Wolves on Molineux return",
         "summary": "Raul Jimenez scored a stoppage-time equaliser from the penalty spot on his return to Molineux to salvage a 2-2 draw for Wolves against Blackburn.",
         "link": "https://www.skysports.com/football/wolverhampton-wanderers-vs-blackburn-rovers/report/560498",
         "source": "Sky Sports",
@@ -939,65 +889,65 @@
         "timestamp": "2026-08-14T22:00:00+00:00"
       },
       {
-        "title": "Wolves STUNNED! Gudjohnsen silences Molineux as Rovers take lead!",
-        "summary": "Andri Gudjohnsen silences Molineux as Blackburn Rovers take the lead over Wolves.",
-        "link": "https://www.skysports.com/watch/video/13573160/wolves-vs-blackburn-andri-gudjohnsen-silences-molineux-as-rovers-take-the-lead",
-        "source": "Sky Sports",
-        "timestamp": "2026-08-14T21:12:00+00:00"
-      },
-      {
         "title": "Hodgkinson beaten to European gold by rival Werro",
         "summary": "Keely Hodgkinson is forced to settle for European silver as Switzerland's Audrey Werro denies the Briton a third consecutive title in a thrilling 800m final.",
         "link": "https://www.bbc.co.uk/sport/athletics/articles/cyvl05g8g4lo?at_medium=RSS&at_campaign=rss",
         "source": "BBC Sport",
-        "timestamp": "2026-08-14T21:07:10+00:00"
+        "timestamp": "2026-08-14T21:50:36+00:00"
       },
       {
-        "title": "Super Giants storm into Hundred men's final by beating SunRisers",
-        "summary": "The Manchester Super Giants set up a meeting with Trent Rockets in The Hundred final after beating SunRisers Leeds by 20 runs in the men's eliminator at The Kia Oval.",
-        "link": "https://www.skysports.com/cricket/news/12040/13573109/the-hundred-manchester-super-giants-into-mens-final-with-eliminator-win-over-sunrisers-leeds-as-josh-tongue-and-paul-walter-star",
+        "title": "Arteta not worried about Arsenal contract talks",
+        "summary": "Mikel Arteta says supporters \"don't have to worry about\" his future at Arsenal as he wants to extend his contract and the time left on his deal is \"not an issue\".",
+        "link": "https://www.bbc.co.uk/sport/football/articles/cp3r6qgve4no?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Sport",
+        "timestamp": "2026-08-14T21:30:21+00:00"
+      },
+      {
+        "title": "Hodgkinson has to settle for silver as Werro wins 800m gold",
+        "summary": "Keely Hodgkinson came up just short of a coveted European 800m title hat-trick after Swiss favourite Audrey Werro won their hotly-anticipated showdown in Birmingham as the British Olympic champion settled for silver.",
+        "link": "https://www.skysports.com/athletics/news/12040/13573162/european-athletics-championship-keely-hodgkinson-forced-to-settle-for-silver-as-audrey-werro-wins-womens-800m-gold",
         "source": "Sky Sports",
-        "timestamp": "2026-08-14T21:05:00+00:00"
+        "timestamp": "2026-08-14T21:17:00+00:00"
       },
       {
-        "title": "Werro beats Hodgkinson to win 800m gold",
-        "summary": "Great Britain's Keely Hodgkinson is unable to defend her 800m European title taking silver behind Switzerland's Audrey Werro who has too much in the tank down the back straight.",
-        "link": "https://www.bbc.co.uk/sport/athletics/videos/cyvl09z1136o?at_medium=RSS&at_campaign=rss",
+        "title": "Hodgkinson motivated for next race with Werro after 800m silver",
+        "summary": "Great Britain's Keely Hodgkinson says she has mixed emotions after settling for silver in the 800m final and says she is looks forward to her next race with Audrey Werro.",
+        "link": "https://www.bbc.co.uk/sport/athletics/videos/cg7m4e7lxppo?at_medium=RSS&at_campaign=rss",
         "source": "BBC Sport",
-        "timestamp": "2026-08-14T21:03:48+00:00"
+        "timestamp": "2026-08-14T21:15:00+00:00"
       },
       {
-        "title": "Castleford shrug off coach problems to beat Hull",
-        "summary": "Castleford Tigers put their coaching problems aside as they beat Hull FC at the MKM Stadium to record only their third Super League away win of the season.",
-        "link": "https://www.bbc.co.uk/sport/rugby-league/articles/c8en87pwn66o?at_medium=RSS&at_campaign=rss",
+        "title": "Arsenal lead Hinshelwood race - Saturday's gossip",
+        "summary": "Arsenal lead race for Jack Hinshelwood, Barcelona set to make third Rodri bid, Manchester United and Tottenham join Arsenal in discussing Victor Osimhen, plus more.",
+        "link": "https://www.bbc.co.uk/sport/football/articles/c80n2g2x0g7o?at_medium=RSS&at_campaign=rss",
         "source": "BBC Sport",
-        "timestamp": "2026-08-14T20:59:14+00:00"
-      },
-      {
-        "title": "O'Connor with 'mixed emotions' after day one",
-        "summary": "Ireland's Kate O'Connor has \"mixed emotions\" after day one of the women's heptathlon at the European Athletics Championships in Birmingham.",
-        "link": "https://www.bbc.co.uk/sport/athletics/articles/ce85m0mm3qmo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC Sport",
-        "timestamp": "2026-08-14T20:55:36+00:00"
-      },
-      {
-        "title": "Hughes takes silver as Ansah wins 200m gold",
-        "summary": "Germany's Owen Ansah wins 200m gold in a time of 19.95 seconds, ahead of Great Britain's Zharnel Hughes who takes silver.",
-        "link": "https://www.bbc.co.uk/sport/athletics/videos/cyvl090pelzo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC Sport",
-        "timestamp": "2026-08-14T20:51:19+00:00"
-      },
-      {
-        "title": "Walter's huge hitting helps MSG beat Sunrisers to reach Hundred final",
-        "summary": "Paul Walter hits 80 off 46 balls to help Manchester Super Giants beat Sunrisers Leeds in the Eliminator at The Oval, to book their place in the men's Hundred final - where they will face the Trent Rockets.",
-        "link": "https://www.bbc.co.uk/sport/cricket/videos/cjd4g98142eo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC Sport",
-        "timestamp": "2026-08-14T20:47:06+00:00"
+        "timestamp": "2026-08-14T21:14:10+00:00"
       }
     ],
     "World Politics": [
       {
-        "title": "BBC seeks to subpoena Trump’s eldest children and son-in-law over defamation lawsuit",
+        "title": "Jason Arday, professor at centre of Cambridge plagiarism row, found dead",
+        "summary": "Academic was pronounced dead at his home in south London after police called to address after 3pm on FridayJason Arday, the black academic who resigned last week as a professor at the University of Cambridge, has been found dead at his home in south London.The Metropolitan…",
+        "link": "https://www.theguardian.com/uk-news/2026/aug/14/jason-arday-found-dead-after-resigning-from-cambridge-over-plagiarism-claims",
+        "source": "The Guardian World",
+        "timestamp": "2026-08-14T21:50:41+00:00"
+      },
+      {
+        "title": "Trump threatens to declare strait of Hormuz ‘territory of the United States’",
+        "summary": "Seriousness of remark made in New York on Friday, and whether it signaled new policy ​position, not clearDonald Trump has threatened to declare the strait of Hormuz as “a territory of the United States” as his administration struggles to conclude the war with Iran.During a…",
+        "link": "https://www.theguardian.com/us-news/2026/aug/14/trump-threat-strait-hormuz-us-territory",
+        "source": "The Guardian World",
+        "timestamp": "2026-08-14T21:38:17+00:00"
+      },
+      {
+        "title": "Burnham announces £65m for drought-hit farmers after Labour pressure",
+        "summary": "PM steps up climate response with measures including better water access and support for building farm reservoirsFarmers must not carry the risks of the climate crisis alone, Andy Burnham has said, as he announced £65m of funding to help them manage the devastating drought.The…",
+        "link": "https://www.theguardian.com/environment/2026/aug/14/andy-burnham-climate-response-drought-hit-farmers-labour-pressure",
+        "source": "The Guardian World",
+        "timestamp": "2026-08-14T21:30:38+00:00"
+      },
+      {
+        "title": "BBC seeks to subpoena Trump children and son-in-law over defamation lawsuit",
         "summary": "Network wants to serve Jared Kushner, Ivanka Trump and Donald Trump Jr after president sues over January 6 documentaryThe BBC is trying to subpoena Donald Trump’s children as it builds its defense against the president’s defamation lawsuit centered on a documentary on the…",
         "link": "https://www.theguardian.com/media/2026/aug/14/bbc-trump-children-subpoenas-lawsuit",
         "source": "The Guardian World",
@@ -1012,7 +962,7 @@
       },
       {
         "title": "Ontario free to axe Toronto bike lanes, region’s top court rules",
-        "summary": "Win is significant for region’s premier, Doug Ford, who blames protected zones as cause of city’s traffic illsThe Ontario government is now free to rip out Toronto’s bike lanes on its busiest streets after the region’s top court ruled in favour of the province on Friday,…",
+        "summary": "Win is significant for region’s premier, Doug Ford, who blames protected zones for city’s traffic illsThe Ontario government is now free to rip out Toronto’s bike lanes on its busiest streets after the region’s top court ruled in favour of the province on Friday, overturning a…",
         "link": "https://www.theguardian.com/world/2026/aug/14/ontario-free-to-axe-toronto-bike-lanes-regions-top-court-rules",
         "source": "The Guardian World",
         "timestamp": "2026-08-14T21:03:43+00:00"
@@ -1023,13 +973,6 @@
         "link": "https://www.dw.com/en/jason-arday-ex-cambridge-professor-at-centre-of-plagiarism-scandal-found-dead/a-78377633?maca=en-rss-en-world-4025-rdf",
         "source": "DW World",
         "timestamp": "2026-08-14T20:03:00+00:00"
-      },
-      {
-        "title": "Jason Arday found dead after resigning from Cambridge over plagiarism claims",
-        "summary": "Academic was pronounced dead at his home in south London after police called to address after 3pm on FridayJason Arday, the black academic who resigned last week as a professor at the University of Cambridge, has been found dead at his home in south London.The Metropolitan…",
-        "link": "https://www.theguardian.com/uk-news/2026/aug/14/jason-arday-found-dead-after-resigning-from-cambridge-over-plagiarism-claims",
-        "source": "The Guardian World",
-        "timestamp": "2026-08-14T19:56:25+00:00"
       },
       {
         "title": "‘Devastating’: bulldozers plough through Big Bend national park as Trump’s border work pushes ahead",
@@ -1051,20 +994,6 @@
         "link": "https://www.theguardian.com/us-news/2026/aug/14/michael-boren-idaho-wildfire-ranch",
         "source": "The Guardian World",
         "timestamp": "2026-08-14T19:01:58+00:00"
-      },
-      {
-        "title": "Burnham criticised for EV and North Sea approach amid climate crisis",
-        "summary": "Cut in electric vehicle sales targets could add millions of tonnes of CO2 to emissions in UK, say green campaignersAndy Burnham has been criticised for moving to cut electric vehicle (EV) sales targets and accept North Sea drilling at a time of devastating wildfires caused by…",
-        "link": "https://www.theguardian.com/environment/2026/aug/14/andy-burnham-new-ev-sales-targets",
-        "source": "The Guardian World",
-        "timestamp": "2026-08-14T18:51:11+00:00"
-      },
-      {
-        "title": "Woman arrested after second world war memorial in DC vandalized",
-        "summary": "Suspect faces two felony charges after memorial filled with bubbles and spray-paint reading ‘Clean hands Dirty $’A woman was arrested on Friday morning in connection with the vandalization of the National World War Two Memorial on the National Mall in Washington DC, the…",
-        "link": "https://www.theguardian.com/us-news/2026/aug/14/world-war-two-memorial-dc-vandalism",
-        "source": "The Guardian World",
-        "timestamp": "2026-08-14T18:43:30+00:00"
       }
     ],
     "AI-Buzz": [
@@ -1141,6 +1070,41 @@
     ],
     "World Conflicts": [
       {
+        "title": "Trump says he will declare Strait of Hormuz a US ‘territory’",
+        "summary": "Control over the strait has been a sticking point in the ongoing ceasefire negotiations between the US and Iran.",
+        "link": "https://www.aljazeera.com/news/2026/8/14/trump-says-he-will-declare-strait-of-hormuz-a-us-territory?traffic_source=rss",
+        "source": "Al Jazeera",
+        "timestamp": "2026-08-14T21:50:46+00:00"
+      },
+      {
+        "title": "Wildfires rage across Europe as heatwaves drive record temperatures",
+        "summary": "Wildfires fuelled by record heat are ravaging Europe, burning around 500,000 hectares and forcing thousands to flee.",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/14/wildfires-rage-across-europe-as-heatwaves-drive-record-temperatures?traffic_source=rss",
+        "source": "Al Jazeera",
+        "timestamp": "2026-08-14T21:50:35+00:00"
+      },
+      {
+        "title": "Israeli soldiers accused of supporting ‘terrorist’ settlers in Qusra",
+        "summary": "Israeli soldiers accused of supporting ‘terrorist’ settlers in Qusra",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/14/israeli-soldiers-accused-of-supporting-terrorist-settlers-in-qusra?traffic_source=rss",
+        "source": "Al Jazeera",
+        "timestamp": "2026-08-14T21:45:20+00:00"
+      },
+      {
+        "title": "Trump dismisses mental health concerns on USS Lincoln aircraft carrier",
+        "summary": "Members of the US Congress have called for a probe into conditions amid reports of sailors attempting to jump ship.",
+        "link": "https://www.aljazeera.com/news/2026/8/14/trump-dismisses-mental-health-concerns-on-uss-lincoln-aircraft-carrier?traffic_source=rss",
+        "source": "Al Jazeera",
+        "timestamp": "2026-08-14T21:17:15+00:00"
+      },
+      {
+        "title": "Mount Etna eruption and volcanic ash shut Sicily’s busiest airport",
+        "summary": "Flights will be suspended until at least Saturday afternoon, leaving hundreds of travellers stranded.",
+        "link": "https://www.aljazeera.com/news/2026/8/14/mount-etna-eruption-and-volcanic-ash-shut-sicilys-busiest-airport?traffic_source=rss",
+        "source": "Al Jazeera",
+        "timestamp": "2026-08-14T21:03:07+00:00"
+      },
+      {
         "title": "Former Cambridge professor accused of plagiarism found dead",
         "summary": "Jason Arday&#039;s body was found in south London just a week after he resigned from the University of Cambridge.",
         "link": "https://www.aljazeera.com/news/2026/8/14/former-cambridge-professor-accused-of-plagiarism-found-dead?traffic_source=rss",
@@ -1174,41 +1138,6 @@
         "link": "https://www.aljazeera.com/news/2026/8/14/trump-asks-us-supreme-court-to-allow-400m-ballroom-project-to-proceed?traffic_source=rss",
         "source": "Al Jazeera",
         "timestamp": "2026-08-14T19:02:49+00:00"
-      },
-      {
-        "title": "Woman charged over vandalism of World War II Memorial in Washington, DC",
-        "summary": "The arrest comes weeks after Trump criticised Jeanine Pirro for dropping charges over damage to the Reflecting Pool.",
-        "link": "https://www.aljazeera.com/news/2026/8/14/woman-charged-over-vandalism-of-world-war-ii-memorial-in-washington-dc?traffic_source=rss",
-        "source": "Al Jazeera",
-        "timestamp": "2026-08-14T18:55:24+00:00"
-      },
-      {
-        "title": "Art offers young Gaza survivors solace and escape from war’s devastation",
-        "summary": "Young survivors of Israel&#039;s genocidal war in Gaza find safe spaces to process trauma and rediscover joy.",
-        "link": "https://www.aljazeera.com/features/2026/8/14/art-offers-young-gaza-survivors-solace-and-escape-from-wars-devastation?traffic_source=rss",
-        "source": "Al Jazeera",
-        "timestamp": "2026-08-14T18:43:36+00:00"
-      },
-      {
-        "title": "Italian police recover stolen paintings worth over $10m",
-        "summary": "Nine Moldovans are being investigated in connection with the theft of paintings by Cezanne, Renoir and Matisse.",
-        "link": "https://www.aljazeera.com/news/2026/8/14/italian-police-recover-stolen-paintings-worth-over-10m?traffic_source=rss",
-        "source": "Al Jazeera",
-        "timestamp": "2026-08-14T18:37:59+00:00"
-      },
-      {
-        "title": "CEO pay skyrockets in 2025 amid growing income inequality in the US",
-        "summary": "Elon Musk earned 2.5 million times more than a Tesla worker&#039;s median pay in 2025, despite revenue and sales declines.",
-        "link": "https://www.aljazeera.com/economy/2026/8/14/ceo-pay-skyrockets-in-2025-amid-growing-income-inequality-in-the-us?traffic_source=rss",
-        "source": "Al Jazeera",
-        "timestamp": "2026-08-14T18:28:17+00:00"
-      },
-      {
-        "title": "Luigi Mangione pleads guilty in UnitedHealthcare CEO’s killing",
-        "summary": "Luigi Mangione pleaded guilty to killing UnitedHealthcare CEO Brian Thompson in 2024.",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/14/luigi-mangione-pleads-guilty-in-unitedhealthcare-ceos-killing?traffic_source=rss",
-        "source": "Al Jazeera",
-        "timestamp": "2026-08-14T18:09:12+00:00"
       }
     ]
   }
