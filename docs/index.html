@@ -326,50 +326,31 @@ const gridEl = document.getElementById("news-grid");
 const lastUpdatedEl = document.getElementById("last-updated");
 const sportsExtraEl = document.getElementById("sports-extra");
 
-const SPORTS_TRACKER_HTML = `
-<div class="card wc-tracker">
-<div class="source">World Cup &amp; Tournament Tracker</div>
-<h3>Live, recent &amp; upcoming world cups</h3>
-<p class="wc-note">Data accurate as of July 16, 2026. Schedules, scores and standings change quickly, so please check official sources for live updates.</p>
+const TOURNAMENTS = [
+  { title: "Football: FIFA World Cup 2026", status: "Hosts: USA, Canada &amp; Mexico | June 11 - July 19, 2026", endDate: "2026-07-19", body: "<p>Champions: Spain defeated Argentina in the final; France beat England in the third-place match.</p>" },
+  { title: "Cricket: ICC Women's T20 World Cup 2026", status: "Host: England | June 12 - July 5, 2026", endDate: "2026-07-05", body: "<p>Champions: Australia (7th title), defeated England by 7 wickets in the final at Lord's</p>" },
+  { title: "Commonwealth Games 2026", status: "Glasgow, Scotland | Jul 23 - Aug 2, 2026", endDate: "2026-08-02", body: "" },
+  { title: "FIH Hockey World Cup (Men's &amp; Women's) 2026", status: "TBA venues | Aug 14 - 30, 2026", endDate: "2026-08-30", body: "" },
+  { title: "FIBA Women's Basketball World Cup 2026", status: "Germany | Sep 4 - 13, 2026", endDate: "2026-09-13", body: "" },
+  { title: "Rugby League World Cup (Men's, Women's, Wheelchair) 2026", status: "Australia / NZ / Papua New Guinea | Oct 15 - Nov 15, 2026", endDate: "2026-11-15", body: "" },
+];
 
-<div class="wc-block">
-<h4>Football: FIFA World Cup 2026 (LIVE)</h4>
-<p>Hosts: USA, Canada &amp; Mexico | June 11 - July 19, 2026</p>
-<p>Semifinal results: France 0-2 Spain, England 1-2 Argentina</p>
-<table class="wc-table">
-<tr><th>Fixture</th><th>Date</th><th>Venue</th></tr>
-<tr><td>Third-place match: France vs England</td><td>Jul 18</td><td>Miami Gardens</td></tr>
-<tr><td>Final: Spain vs Argentina</td><td>Jul 19</td><td>East Rutherford, NJ</td></tr>
-</table>
-</div>
+const HIDE_AFTER_DAYS = 7;
 
-<div class="wc-block" data-completed="2026-07-05">
-<h4>Cricket: ICC Women's T20 World Cup 2026 (Completed)</h4>
-<p>Host: England | June 12 - July 5, 2026</p>
-<p>Champions: Australia (7th title), defeated England by 7 wickets in the final at Lord's</p>
-<table class="wc-table">
-<tr><th>Group A (final)</th><th>Pts</th><th>Group B (final)</th><th>Pts</th></tr>
-<tr><td>1. Australia</td><td>10</td><td>1. England (H)</td><td>10</td></tr>
-<tr><td>2. South Africa</td><td>8</td><td>2. West Indies</td><td>6</td></tr>
-<tr><td>3. India</td><td>6</td><td>3. Sri Lanka</td><td>6</td></tr>
-<tr><td>4. Bangladesh</td><td>4</td><td>4. New Zealand</td><td>4</td></tr>
-<tr><td>5. Pakistan</td><td>2</td><td>5. Scotland</td><td>2</td></tr>
-<tr><td>6. Netherlands</td><td>0</td><td>6. Ireland</td><td>2</td></tr>
-</table>
-</div>
+function isTournamentVisible(endDate) {
+  const end = new Date(endDate + "T00:00:00Z").getTime();
+  const cutoff = end + HIDE_AFTER_DAYS * 24 * 60 * 60 * 1000;
+  return Date.now() <= cutoff;
+}
 
-<div class="wc-block">
-<h4>Upcoming World Tournaments</h4>
-<table class="wc-table">
-<tr><th>Event</th><th>Dates</th><th>Host</th></tr>
-<tr><td>Commonwealth Games 2026</td><td>Jul 23 - Aug 2</td><td>Glasgow, Scotland</td></tr>
-<tr><td>FIH Hockey World Cup (Men's &amp; Women's) 2026</td><td>Aug 14 - 30</td><td>TBA venues</td></tr>
-<tr><td>FIBA Women's Basketball World Cup 2026</td><td>Sep 4 - 13</td><td>Germany</td></tr>
-<tr><td>Rugby League World Cup (Men's, Women's, Wheelchair) 2026</td><td>Oct 15 - Nov 15</td><td>Australia / NZ / Papua New Guinea</td></tr>
-</table>
-</div>
-</div>
-`;
+function renderSportsTracker() {
+  const visible = TOURNAMENTS.filter(function(t) { return isTournamentVisible(t.endDate); });
+  if (visible.length === 0) return "";
+  const blocks = visible.map(function(t) {
+    return '<div class="wc-block"><h4>' + t.title + '</h4><p>' + t.status + '</p>' + t.body + '</div>';
+  }).join("");
+  return '<div class="card wc-tracker"><div class="source">World Cup &amp; Tournament Tracker</div><h3>Live, recent &amp; upcoming world cups</h3><p class="wc-note">Showing events that are upcoming or completed within the past ' + HIDE_AFTER_DAYS + ' days. Schedules, scores and standings change quickly, so please check official sources for live updates.</p>' + blocks + '</div>';
+}
 
   function isOkinawaFeatureActive() {
       const featureEndsAt = new Date("2026-08-11T00:00:00+09:00").getTime();
@@ -405,28 +386,16 @@ const SPORTS_TRACKER_HTML = `
   `;
   
 function updateSportsExtra() {
-if (activeCategory === "Sports") {
-if (isOkinawaFeatureActive()) {
-        sportsExtraEl.innerHTML = '<div class="sports-panel-split">' + OKINAWA_FEATURE_HTML + '<div>' + SPORTS_TRACKER_HTML + '</div></div>';
-} else {
-        sportsExtraEl.innerHTML = SPORTS_TRACKER_HTML;
-}
-      filterCompletedEvents();
-} else {
-sportsExtraEl.innerHTML = "";
-}
-}
-
-function filterCompletedEvents() {
-const HIDE_AFTER_DAYS = 5;
-const now = Date.now();
-sportsExtraEl.querySelectorAll(".wc-block[data-completed]").forEach(function(block) {
-const completedTime = new Date(block.getAttribute("data-completed") + "T00:00:00Z").getTime();
-const cutoff = completedTime + HIDE_AFTER_DAYS * 24 * 60 * 60 * 1000;
-if (now > cutoff) {
-block.remove();
-}
-});
+  if (activeCategory === "Sports") {
+    const trackerHtml = renderSportsTracker();
+    if (isOkinawaFeatureActive()) {
+      sportsExtraEl.innerHTML = '<div class="sports-panel-split">' + OKINAWA_FEATURE_HTML + '<div>' + trackerHtml + '</div></div>';
+    } else {
+      sportsExtraEl.innerHTML = trackerHtml;
+    }
+  } else {
+    sportsExtraEl.innerHTML = "";
+  }
 }
 
 function buildTabs() {
