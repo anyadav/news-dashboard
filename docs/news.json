@@ -1,223 +1,152 @@
 {
-  "generated_at": "2026-11-19T23:58:12.098807+00:00",
+  "generated_at": "2026-11-20T05:35:38.316174+00:00",
   "categories": {
     "India": [
       {
-        "title": "JPMorgan, Visa, Mastercard hit by cyber incidents; data of thousands of customers leaked",
-        "summary": "JPMorgan Chase, Visa, and Mastercard have encountered cyber incidents with third-party service providers, leading to the potential exposure of customer data. Fortunately, these breaches did not compromise any payment systems or card details. Investigations are currently…",
-        "link": "https://timesofindia.indiatimes.com/business/international-business/jpmorgan-visa-mastercard-hit-by-cyber-incidents-data-of-thousands-of-customers-leaked/articleshow/136008003.cms",
-        "source": "Times of India",
-        "timestamp": "2026-11-19T23:51:33+00:00"
+        "title": "Cyclone ‘Akvan’ crosses Odisha coast with windspeed of 70-80 kmph",
+        "summary": "No untoward incident reported in Odisha due to cyclone, says Chief Secretary Anu Garg",
+        "link": "https://www.thehindu.com/news/national/cyclone-akvan-odisha-andhra-pradesh-landfall-imd-updates/article71722866.ece",
+        "source": "The Hindu",
+        "timestamp": "2026-11-20T05:28:48+00:00"
       },
       {
-        "title": "47 Train Cancelled, Over 3 Lakh Evacuated As Cyclone Akvan Heads To Odisha",
-        "summary": "According to the official release, detailed discussions were held regarding cyclone readiness.",
-        "link": "https://www.ndtv.com/india-news/47-train-cancelled-over-3-lakh-evacuated-as-cyclone-akvan-heads-to-odisha-12351955#publisher=newsstand",
-        "source": "NDTV",
-        "timestamp": "2026-11-19T23:48:40+00:00"
+        "title": "Health Ministry proposes to include antimicrobials in ‘New Drug’ definition, separate licence for bulk drug wholesale",
+        "summary": "Draft amendments to the New Drugs and Clinical Trials Rules, 2019, and the Drugs Rules, 1945, would require manufacturers of antimicrobials to obtain Central Licensing Authority permission before applying for a State licence, amid concerns over antimicrobial resistance, and…",
+        "link": "https://www.thehindu.com/news/national/health-ministry-proposes-to-include-antimicrobials-in-new-drug-definition-separate-licence-for-bulk-drug-wholesale/article71719726.ece",
+        "source": "The Hindu",
+        "timestamp": "2026-11-20T05:25:55+00:00"
       },
       {
-        "title": "Anthropic's $1.5 Trillion Debut Rewrites Venture Capital's Playbook",
-        "summary": "The AI lab's shares began trading on the Nasdaq on Thursday at a $1.5 trillion valuation.",
-        "link": "https://www.ndtv.com/world-news/anthropics-1-5-trillion-debut-rewrites-venture-capitals-playbook-12351934#publisher=newsstand",
-        "source": "NDTV",
-        "timestamp": "2026-11-19T23:27:12+00:00"
+        "title": "Former Finance Minister Balagopal accuses CM Satheesan of repeating ‘lies’ on Keralam’s tax revenue growth",
+        "summary": "In a Facebook post, Balagopal said the increase in tax revenue in October was due to four other factors and not because of any steps taken by the Satheesan government",
+        "link": "https://www.thehindu.com/news/national/kerala/former-finance-minister-balagopal-accuses-cm-satheesan-of-repeating-lies-on-keralams-tax-revenue-growth/article71723202.ece",
+        "source": "The Hindu",
+        "timestamp": "2026-11-20T05:25:55+00:00"
       },
       {
-        "title": "JPMorgan Says 3rd-Party Vendors Targeted in Cyberattack, Data Exposed",
-        "summary": "The company believes that attackers accessed certain marketing data held by those vendors.",
-        "link": "https://www.ndtv.com/world-news/jpmorgan-says-3rd-party-vendors-targeted-in-cyberattack-data-exposed-12351924#publisher=newsstand",
-        "source": "NDTV",
-        "timestamp": "2026-11-19T23:19:54+00:00"
+        "title": "NMC asks government medical colleges to onboard PM-RAHAT scheme for cashless emergency care",
+        "summary": "PM-RAHAT provides cashless treatment of up to ₹1.5 lakh per road accident victim for a maximum of seven days from the date of the accident at designated hospitals",
+        "link": "https://www.thehindu.com/news/national/nmc-asks-government-medical-colleges-to-onboard-pm-rahat-scheme-for-cashless-emergency-care/article71719716.ece",
+        "source": "The Hindu",
+        "timestamp": "2026-11-20T05:25:46+00:00"
       },
       {
-        "title": "We cut tax, but where are the hires, salary hikes: PM Modi to industry",
+        "title": "Cyclone 'Akvan' LIVE: Odisha's coastal districts witness rough sea and strong winds as landfall begins",
+        "summary": "Director of Bhubaneswar Meteorological Centre Manorama Mohanty said the duration of the landfall process would be a long process which could stretch over seven to eight hours",
+        "link": "https://www.thehindu.com/news/national/cyclone-akvan-landfall-andhra-pradesh-odisha-imd-alert-live-updates-november-20-2026/article71722871.ece",
+        "source": "The Hindu",
+        "timestamp": "2026-11-20T05:25:00+00:00"
+      },
+      {
+        "title": "Showcause notice issued to 90 medical shops in Hyderabad over drug sale violations",
+        "summary": "The notices were issued following a special enforcement drive conducted by the drugs wing of TG SAFE, along with its enforcement wing and excise enforcement personnel",
+        "link": "https://www.thehindu.com/news/cities/Hyderabad/show-cause-notice-issued-to-90-medical-shops-in-hyderabad-over-drug-sale-violations/article71720988.ece",
+        "source": "The Hindu",
+        "timestamp": "2026-11-20T05:23:19+00:00"
+      },
+      {
+        "title": "Karnataka launches State action plan for containment of antimicrobial resistance",
         "summary": "",
-        "link": "https://timesofindia.indiatimes.com/india/we-cut-tax-but-where-are-the-hires-salary-hikes-pm-to-industry/articleshow/136007746.cms",
-        "source": "Times of India",
-        "timestamp": "2026-11-19T23:13:35+00:00"
-      },
-      {
-        "title": "Mahua Moitra alleges attack on her convoy by BJP supporters",
-        "summary": "BJP leaders said the alleged attack was Ms. Moitra’s attempt to gain attention and conduct self-promotion through social media live videos",
-        "link": "https://www.thehindu.com/news/national/west-bengal/stones-eggs-hurled-at-my-car-by-bjp-supporters-in-bengals-nadia-tmc-mp-mahua-moitra/article71719304.ece",
+        "link": "https://www.thehindu.com/news/national/karnataka/karnataka-launches-state-action-plan-for-containment-of-antimicrobial-resistance/article71721550.ece",
         "source": "The Hindu",
-        "timestamp": "2026-11-19T23:09:14+00:00"
+        "timestamp": "2026-11-20T05:22:57+00:00"
       },
       {
-        "title": "Trump, Xi agree on need for AI safety rules, US-China cooperation on regulations",
-        "summary": "During their recent meeting in Shenzhen, US President Donald Trump and Chinese President Xi Jinping addressed vital international concerns. The leaders affirmed their commitment to forging regulations on artificial intelligence, prioritizing its secure progression. Key topics…",
-        "link": "https://timesofindia.indiatimes.com/world/us/trump-xi-agree-on-need-for-ai-safety-rules-us-china-cooperation-on-regulations/articleshow/136007578.cms",
-        "source": "Times of India",
-        "timestamp": "2026-11-19T23:02:21+00:00"
-      },
-      {
-        "title": "Kolkata Medical College violence: West Bengal government, Left student’s unions at loggerheads",
-        "summary": "Action must be taken against such “dimagi naxals” who have conducted such activities inside the campus, said State Health Minister Sharadwat Mukherjee",
-        "link": "https://www.thehindu.com/news/national/west-bengal/kolkata-medical-college-tense-as-junior-doctors-gherao-principal-outsiders-attack-protesting-students/article71718707.ece",
+        "title": "SC to pronounce judgment on application filed by Tamil Nadu in decades-old Cauvery water-sharing dispute | LIVE",
+        "summary": "Tamil Nadu has accused Karnataka of withholding water despite having sufficient reserves",
+        "link": "https://www.thehindu.com/news/national/cauvery-water-sharing-dispute-tamil-nadu-karnataka-supreme-court-judgement-live-updates-november-20-2026/article71723088.ece",
         "source": "The Hindu",
-        "timestamp": "2026-11-19T22:48:17+00:00"
+        "timestamp": "2026-11-20T05:22:09+00:00"
       },
       {
-        "title": "Nearing 3 years as Rajasthan CM, Bhajan Lal Sharma seeks to assert his authority",
-        "summary": "Having entered office with virtually no administrative experience, his tenure has been a continuous tightrope walk between balancing the demands of the party’s central leadership and build authority of his own within the State.",
-        "link": "https://www.thehindu.com/news/national/rajasthan/as-three-year-mark-nears-bhajan-lal-sharma-seeks-to-shed-parchi-cm-tag/article71718633.ece",
+        "title": "First National Tribal Olympiad in December to instil pride in Adivasi community",
+        "summary": "A workbook Rashtriya Adivasi Olympiad, containing 626 questions on heritage, culture and traditions, constitutional rights, literature, art, media and cinema and personalities pertaining to tribes is now in wide circulation",
+        "link": "https://www.thehindu.com/news/national/odisha/first-national-tribal-olympiad-in-december-to-instil-pride-in-advasi-community/article71723179.ece",
         "source": "The Hindu",
-        "timestamp": "2026-11-19T22:40:49+00:00"
+        "timestamp": "2026-11-20T05:19:56+00:00"
       },
       {
-        "title": "Bavuma scripts history, creates captaincy world record with Bangladesh Test win",
-        "summary": "South Africa's win also took them to the top of the World Test Championship standings. They have now won six of their eight matches in the current cycle.",
-        "link": "https://timesofindia.indiatimes.com/sports/cricket/news/temba-bavuma-scripts-history-creates-captaincy-world-record-after-bangladesh-test-win/articleshow/136005463.cms",
-        "source": "Times of India",
-        "timestamp": "2026-11-19T22:34:17+00:00"
+        "title": "'Pak Fan Boy': BJP slams Rahul Gandhi over remarks on India's foreign policy",
+        "summary": "Mr. Bhandari alleged that Mr. Gandhi's \"love for Pakistan\" had made him overlook India's diplomatic efforts, including its peace initiatives in the Russia-Ukraine conflict",
+        "link": "https://www.thehindu.com/news/national/pak-fan-boy-bjp-slams-rahul-gandhi-over-remarks-on-indias-foreign-policy/article71723189.ece",
+        "source": "The Hindu",
+        "timestamp": "2026-11-20T05:17:12+00:00"
       }
     ],
     "Nepal": [
       {
-        "title": "The clever glamorisation of hard lives",
-        "summary": "Poverty isn't a personality, and resilience isn't a policy.",
-        "link": "https://kathmandupost.com/columns/2026/11/19/the-clever-glamorization-of-hard-lives",
+        "title": "Police is my friend?",
+        "summary": "The slogan hangs on police walls across Nepal. A democracy should measure it by one simple test: what happens to a citizen who asks, “Under what law?”",
+        "link": "https://kathmandupost.com/columns/2026/11/18/police-is-my-friend",
         "source": "The Kathmandu Post",
-        "timestamp": "2026-11-19T23:58:15.678034+00:00"
+        "timestamp": "2026-11-20T05:35:39.801692+00:00"
       },
       {
-        "title": "Nepal urges China to reopen Tatopani border crossing",
-        "summary": "Foreign Minister Shisir Khanal tells a visiting Chinese delegation that the crossing is crucial to connectivity, as the Rasuwagadhi route remains shut following the August floods.",
-        "link": "https://kathmandupost.com/national/2026/11/18/nepal-urges-china-to-reopen-tatopani-border-crossing",
+        "title": "Nepal, India to unveil 10-point vision for partnership during PM’s visit",
+        "summary": "The document, based on ‘Samriddha Nepal, Samunnat Bharat’, aims to translate bilateral commitments into measurable outcomes.",
+        "link": "https://kathmandupost.com/politics/2026/11/18/nepal-india-to-unveil-10-point-vision-for-partnership-during-pm-s-visit",
         "source": "The Kathmandu Post",
-        "timestamp": "2026-11-19T23:58:15.678022+00:00"
+        "timestamp": "2026-11-20T05:35:39.801680+00:00"
       },
       {
-        "title": "Ex-minister Sumana Shrestha announces bid for Kathmandu mayor",
-        "summary": "The former RSP joint general secretary has yet to say whether she will contest as an independent or represent another political party.",
-        "link": "https://kathmandupost.com/national/2026/11/18/ex-minister-sumana-shrestha-announces-bid-for-kathmandu-mayor",
+        "title": "Mishara’s record century sends Chitwan into Qualifier 2",
+        "summary": "Chitwan Rhinos beat Kathmandu Gorkhas by 61 runs in the Eliminator after Kamil Mishara smashed an unbeaten 120, the highest individual score in Nepal Premier League history.",
+        "link": "https://kathmandupost.com/cricket/2026/11/18/mishara-s-record-century-sends-chitwan-into-qualifier-2",
         "source": "The Kathmandu Post",
-        "timestamp": "2026-11-19T23:58:15.678007+00:00"
+        "timestamp": "2026-11-20T05:35:39.801665+00:00"
       },
       {
-        "title": "Luxembourg prince visits development projects in Kavre",
-        "summary": "During a private visit to Bethanchok, Prince Louis pledged continued support for education and environmental conservation and met local representatives to discuss post-disaster recovery.",
-        "link": "https://kathmandupost.com/national/2026/11/18/luxembourg-prince-visits-development-projects-in-kavre",
+        "title": "MBBS entrance exam results published",
+        "summary": "The Medical Education Commission has published the results of the October 31 entrance examination for students seeking admission to MBBS programmes in the 2026-27 academic year.",
+        "link": "https://kathmandupost.com/national/2026/11/18/mbbs-entrance-exam-results-published",
         "source": "The Kathmandu Post",
-        "timestamp": "2026-11-19T23:58:15.677993+00:00"
+        "timestamp": "2026-11-20T05:35:39.801652+00:00"
       },
       {
-        "title": "Supreme Court sets November 23 hearing on Dan Bahadur Karki’s removal as police chief",
-        "summary": "The court has sought a government explanation and given priority to the case, but declined to issue an interim order reinstating the former inspector general, allowing his successor to continue in office.",
-        "link": "https://kathmandupost.com/national/2026/11/18/supreme-court-seeks-government-explanation-over-dan-bahadur-karki-s-removal-as-police-chief",
+        "title": "Stop the repeated arbitrary removal of police leadership",
+        "summary": "Successive governments have politicised police leadership, undermining institutional stability and professionalism.",
+        "link": "https://kathmandupost.com/editorial/2026/11/18/stop-the-repeated-arbitrary-removal-of-police-leadership",
         "source": "The Kathmandu Post",
-        "timestamp": "2026-11-19T23:58:15.677979+00:00"
+        "timestamp": "2026-11-20T05:35:39.801640+00:00"
       },
       {
-        "title": "Chitwan and Kathmandu look to go beyond the Eliminator in NPL",
-        "summary": "Kathmandu finished third and Chitwan fourth in the league stage, setting up a knockout clash for a place in the second qualifier of the Nepal Premier League.",
-        "link": "https://kathmandupost.com/sports/2026/11/18/chitwan-and-kathmandu-look-to-go-beyond-the-eliminator-in-npl",
+        "title": "Gold price slides by Rs78,400 a tola in 10 months",
+        "summary": "Stronger dollar and expectations of US interest rate hikes push international prices down. Traders say domestic rates could fall to Rs250,000 if current conditions persist.",
+        "link": "https://kathmandupost.com/money/2026/11/19/gold-cheaper-by-rs78-400-a-tola-in-10-months",
         "source": "The Kathmandu Post",
-        "timestamp": "2026-11-19T23:58:15.677961+00:00"
+        "timestamp": "2026-11-20T05:35:39.801627+00:00"
       },
       {
-        "title": "Madhesh government formation remains uncertain as deadline approaches",
-        "summary": "Four parties are yet to agree on a coalition after the Congress-led government collapsed, with key leaders divided over whether to take power or wait until after the elections.",
-        "link": "https://kathmandupost.com/province-no-2/2026/11/18/madhesh-government-formation-remains-uncertain-as-deadline-approaches",
+        "title": "Chitwan Rhinos knock Kathmandu Gorkhas out and progress to Qualifier 2",
+        "summary": "Chitwan defeated Kathmandu by 61 runs and entered Qualifier 2, where Sudurpaschim Royals are waiting. Chitwan and Sudurpaschim will vie for a spot in the final on Thursday.",
+        "link": "https://kathmandupost.com/cricket/2026/11/19/chitwan-rhinos-knock-kathmandu-gorkhas-out-and-progress-to-qualifier-2",
         "source": "The Kathmandu Post",
-        "timestamp": "2026-11-19T23:58:15.677946+00:00"
+        "timestamp": "2026-11-20T05:35:39.801611+00:00"
       },
       {
-        "title": "Mishara’s record-breaking 120 gives Chitwan 204 against Kathmandu",
-        "summary": "The Sri Lankan batter struck an unbeaten century and shared a 154-run stand with captain Ravi Bopara as Chitwan Rhinos set Kathmandu Gorkhas a target of 205 in the NPL Eliminator.",
-        "link": "https://kathmandupost.com/cricket/2026/11/18/mishara-s-record-breaking-120-gives-chitwan-204-against-kathmandu",
+        "title": "UML prepares local polls strategy, protest plans",
+        "summary": "Addressing over 3,400 cadres in Kathmandu, party chief KP Oli warns of possible government reprisals and urges cadres to prepare for protests.",
+        "link": "https://kathmandupost.com/politics/2026/11/19/uml-prepares-local-polls-strategy-protest-plans",
         "source": "The Kathmandu Post",
-        "timestamp": "2026-11-19T23:58:15.677930+00:00"
+        "timestamp": "2026-11-20T05:35:39.801595+00:00"
       },
       {
-        "title": "Students can now obtain foreign degree equivalence online",
-        "summary": "University Grants Commission also plans to revise PhD standards, resume research journal rankings, and grant autonomy to Prithvi Narayan Campus as part of wider higher education reforms.",
-        "link": "https://kathmandupost.com/national/2026/11/18/students-can-now-obtain-foreign-degree-equivalence-online",
+        "title": "Who gets to participate in Nepal’s creative industries?",
+        "summary": "At a Kathmandu forum, artists and advocates highlight barriers to representation, accessibility and participation in Nepal’s creative industries.",
+        "link": "https://kathmandupost.com/art-culture/2026/11/19/who-gets-to-participate-in-nepal-s-creative-industries",
         "source": "The Kathmandu Post",
-        "timestamp": "2026-11-19T23:58:15.677914+00:00"
+        "timestamp": "2026-11-20T05:35:39.801582+00:00"
       },
       {
-        "title": "Ani Choying Dolma takes office as vice-chair of Lumbini Development Trust",
-        "summary": "The Buddhist nun and renowned singer assumed her duties a month after her appointment, pledging to promote Lumbini as a destination for spiritual tourism.",
-        "link": "https://kathmandupost.com/province-no-5/2026/11/18/ani-choying-dolma-takes-office-as-vice-chair-of-lumbini-development-trust",
+        "title": "Chief removal controversies leave Nepal Police leadership shaky",
+        "summary": "Political interference, legal battles, factional rivalries and frequent changes to service rules have weakened the chain of command, undermined morale and obstructed institutional reform since the restoration of democracy in 1990.",
+        "link": "https://kathmandupost.com/national/2026/11/19/chief-removal-controversies-leave-nepal-police-leadership-shaky",
         "source": "The Kathmandu Post",
-        "timestamp": "2026-11-19T23:58:15.677899+00:00"
+        "timestamp": "2026-11-20T05:35:39.801567+00:00"
       }
     ],
     "Sri Lanka": [],
-    "Bhutan": [
-      {
-        "title": "NA extends potato marketing debate as farmers struggle to sell produce",
-        "summary": "The National Assembly (NA) will resume its debate on the potato marketing crisis on December 7, after the House decided that the initial two-hour allocation was insufficient to address the challenges facing farmers.",
-        "link": "https://kuenselonline.com/news/weak-buyer-market-and-missing-price-support-leave-potato-farmers-exposed-na",
-        "source": "Kuensel",
-        "timestamp": "2026-11-19T17:35:17+00:00"
-      },
-      {
-        "title": "NA remains deadlocked over pro bono legal services",
-        "summary": "The National Assembly (NA) has deferred a decision on whether pro bono legal services should be mandatory or voluntary, and who should qualify for the services under the Jabmi (Amendment) Bill of Bhutan 2026.",
-        "link": "https://kuenselonline.com/news/na-remains-deadlocked-over-pro-bono-legal-services",
-        "source": "Kuensel",
-        "timestamp": "2026-11-19T15:47:51+00:00"
-      },
-      {
-        "title": "Teaching Professionals Council launches to strengthen teaching standards",
-        "summary": "Teachers across the country now have a dedicated body to champion their growth, recognition, and professional standing, following the launch of the Teaching Professionals Council (TPC) by the Ministry of Education and Skills Development in Thimphu today.",
-        "link": "https://kuenselonline.com/news/teaching-professionals-council-launches-to-strengthen-teaching-standards",
-        "source": "Kuensel",
-        "timestamp": "2026-11-19T10:52:32+00:00"
-      },
-      {
-        "title": "Bhutan wins Earthshot Prize 2026 for Protect and Restore Nature category",
-        "summary": "Bhutan has won the Earthshot Prize 2026 in the category of Protect and Restore Nature, bringing international recognition to the country’s longstanding commitment to environmental conservation and its efforts to safeguard the Himalayan ecosystem.",
-        "link": "https://kuenselonline.com/news/bhutan-wins-earthshot-prize-2026-for-protect-and-restore-nature-category",
-        "source": "Kuensel",
-        "timestamp": "2026-11-19T08:26:20+00:00"
-      },
-      {
-        "title": "Bhutanese researcher receives Outstanding Research Award from Mahidol University",
-        "summary": "A 33-year-old Bhutanese researcher from Wamrong has recently received the Outstanding Research Award from Thailand’s Mahidol University for her doctoral work on environmental behaviour.",
-        "link": "https://kuenselonline.com/news/bhutanese-researcher-receives-outstanding-research-award-from-mahidol-university",
-        "source": "Kuensel",
-        "timestamp": "2026-11-19T04:57:15+00:00"
-      },
-      {
-        "title": "Government to introduce dedicated skills training for retirees amid ageing population",
-        "summary": "The initiative aims to enable retiring public servants to continue contributing their professional knowledge, skills and experience after retirement.",
-        "link": "https://kuenselonline.com/news/government-to-introduce-dedicated-skills-training-for-retirees-amid-ageing-population",
-        "source": "Kuensel",
-        "timestamp": "2026-11-18T13:07:59+00:00"
-      },
-      {
-        "title": "Bhutan, Mongolia agree to annual cricket matches under five-year partnership",
-        "summary": "Bhutan and Mongolia have agreed to strengthen cricketing ties through annual bilateral matches or series over the next five years, providing their national teams with regular opportunities for international competition.",
-        "link": "https://kuenselonline.com/news/bhutan-mongolia-agree-to-annual-cricket-matches-under-five-year-partnership",
-        "source": "Kuensel",
-        "timestamp": "2026-11-18T09:26:03+00:00"
-      },
-      {
-        "title": "How safe are our children online?",
-        "summary": "A child with a smartphone and an internet connection is only a few clicks away from pornography, graphic violence and other age-inappropriate content. It is that easy.",
-        "link": "https://kuenselonline.com/news/how-safe-are-our-children-online",
-        "source": "Kuensel",
-        "timestamp": "2026-11-18T09:01:46+00:00"
-      },
-      {
-        "title": "Two Bhutanese para-athletes attend training camp in South Korea",
-        "summary": "Two Bhutanese para-athletes, Sangay Nidup and Ugyen Sonam Choden, are attending the Korean Paralympic Committee Youth Para Sport Camp 2026, which begins today in South Korea and will conclude on November 23.",
-        "link": "https://kuenselonline.com/news/two-bhutanese-para-athletes-attend-training-camp-in-south-korea",
-        "source": "Kuensel",
-        "timestamp": "2026-11-18T09:01:14+00:00"
-      },
-      {
-        "title": "Keeping the balance: How innovation can help Bhutan live alongside its wildlife",
-        "summary": "Tonight, somewhere in Bhutan, a farmer and his dog will keep watch over a field, listening for wild boar that would enjoy eating his crops as an easy meal. That scene raises a pressing question for Bhutan and the region: how can people and wildlife share the same landscapes and…",
-        "link": "https://kuenselonline.com/news/keeping-the-balance-how-innovation-can-help-bhutan-live-alongside-its-wildlife",
-        "source": "Kuensel",
-        "timestamp": "2026-11-18T09:00:44+00:00"
-      }
-    ],
+    "Bhutan": [],
     "Bangladesh": [
       {
         "title": "Ramisa rape and murder: Sohel Rana mentions new name as charges framed",
@@ -277,6 +206,13 @@
       }
     ],
     "Myanmar": [
+      {
+        "title": "UK orders expulsion of Myanmar defence attaché after ICJ genocide ruling",
+        "summary": "Britain announced immediate action against Myanmar’s regime, including the expulsion of its defence attaché, and pledged further measures to hold those responsible for the Rohingya genocide accountable",
+        "link": "https://myanmar-now.org/en/news/uk-orders-expulsion-of-myanmar-defence-attache-after-icj-genocide-ruling/",
+        "source": "Myanmar Now",
+        "timestamp": "2026-11-20T04:59:13+00:00"
+      },
       {
         "title": "World court rules Myanmar responsible for genocide against Rohingya",
         "summary": "In a landmark ruling, the International Court of Justice finds Myanmar violated the 1948 Genocide Convention over atrocities committed by its military in Rakhine State in 2017",
@@ -339,85 +275,78 @@
         "link": "https://myanmar-now.org/en/news/un-chief-backs-engagement-with-myanmar-but-violence-needs-to-stop/",
         "source": "Myanmar Now",
         "timestamp": "2026-11-17T04:49:55+00:00"
-      },
-      {
-        "title": "An ICJ victory for The Gambia will not, by itself, deliver justice for the Rohingya",
-        "summary": "The ICJ is expected to deliver its final ruling in the Rohingya genocide case this week, but whether the judgment brings meaningful justice to victims will depend on what happens after the verdict",
-        "link": "https://myanmar-now.org/en/news/an-icj-victory-for-the-gambia-will-not-by-itself-deliver-justice-for-the-rohingya/",
-        "source": "Myanmar Now",
-        "timestamp": "2026-11-16T11:23:14+00:00"
       }
     ],
     "Pakistan": [
       {
-        "title": "President, PM agree on resolving 'all matters' through dialogue amid rising political temperatures",
-        "summary": "President Asif Ali Zardari and Prime Minister Shehbaz Sharif have decided that all matters will be resolved through dialogue, the Presidency said on Thursday after the two leaders met in Islamabad. The meeting follows recent hard-hitting remarks by President Zardari’s son, PPP…",
-        "link": "https://www.dawn.com/news/2045691/president-pm-agree-on-resolving-all-matters-through-dialogue-amid-rising-political-temperatures",
+        "title": "Slain anchorperson’s husband released on bail in Rawalpindi",
+        "summary": "ISLAMABAD: A local court on Thursday granted post-arrest bail to the husband of anchorperson Rabia Ahsan against surety bonds of Rs200,000 after the deceased’s family informed the court that the fatal shooting was accidental and they did not wish to pursue the case. An…",
+        "link": "https://www.dawn.com/news/2045740/slain-anchorpersons-husband-released-on-bail-in-rawalpindi",
         "source": "Dawn",
-        "timestamp": "2026-11-19T20:18:30+00:00"
+        "timestamp": "2026-11-20T05:26:52+00:00"
       },
       {
-        "title": "Silicon Valley elites 'bankrolled' news platform Visegrad24 publishing pro-Israel content: report",
-        "summary": "An extensive investigation by American magazine Wired revealed on Thursday how an “anti-migrant, pro-Israel propaganda machine” took form and gained traction via bankrolling by Silicon Valley elites. The investigative report, published by Wired on Thursday morning, detailed the…",
-        "link": "https://www.dawn.com/news/2045708/silicon-valley-elites-bankrolled-news-platform-visegrad24-publishing-pro-israel-content-report",
+        "title": "Pakistan 'unequivocally' condemns Houthi attack on Riyadh’s tallest skyscraper",
+        "summary": "Pakistan on Friday “unequivocally” condemned a Houthi attack on Riyadh’s tallest skyscraper, which serves as the headquarters of Saudi Arabia’s sovereign wealth fund. “This act of aggression constitutes a grave violation of the sovereignty of the Kingdom of Saudi Arabia,” the…",
+        "link": "https://www.dawn.com/news/2045872/pakistan-unequivocally-condemns-houthi-attack-on-riyadhs-tallest-skyscraper",
         "source": "Dawn",
-        "timestamp": "2026-11-19T20:04:03+00:00"
+        "timestamp": "2026-11-20T05:24:08+00:00"
       },
       {
-        "title": "NCCIA claims uncovering network allegedly involved in up to Rs1tr betting, money laundering",
-        "summary": "KARACHI: The National Cyber Crime Investigation Agency (NCCIA) on Thursday claimed to have uncovered an extensive alleged financial network involved in illegal online betting and gambling, fraudulent business operations and suspected money laundering, with an estimated…",
-        "link": "https://www.dawn.com/news/2045716/nccia-claims-uncovering-network-allegedly-involved-in-up-to-rs1tr-betting-money-laundering",
+        "title": "Pakistan, 14 other nations welcome UK, Australia sanctions on Israeli settlements",
+        "summary": "Pakistan, along with 14 other countries, has welcomed the imposition of sanctions by the United Kingdom and Australia in response to Israeli settlement activities in the occupied Palestinian territory and expressed hope that the decisions would encourage others to follow suit.…",
+        "link": "https://www.dawn.com/news/2045854/pakistan-14-other-nations-welcome-uk-australia-sanctions-on-israeli-settlements",
         "source": "Dawn",
-        "timestamp": "2026-11-19T19:32:27+00:00"
+        "timestamp": "2026-11-20T05:08:49+00:00"
       },
       {
-        "title": "Govt snaps petrol price reduction spree as rate raised by Re1 per litre; diesel remains unchanged",
-        "summary": "&amp;&nbsp;&middot;&nbsp;&#9679;&nbsp;&nbsp;&#9679;&nbsp;&nbsp;&nbsp;",
-        "link": "https://www.dawn.com/news/2045695/govt-snaps-petrol-price-reduction-spree-as-rate-raised-by-re1-per-litre-diesel-remains-unchanged",
+        "title": "Lahore once again ranks as world's most polluted major city as AQI crosses 400",
+        "summary": "LAHORE: Heavy smog pushed air quality in several Punjab cities into the hazardous category on Friday, with Lahore recording an hourly AQI reading of 465 between 7am and 8am, while Gujranwala and Multan registered readings of 661 and 641, respectively, according to real-time air…",
+        "link": "https://www.dawn.com/news/2045870/lahore-once-again-ranks-as-worlds-most-polluted-major-city-as-aqi-crosses-400",
         "source": "Dawn",
-        "timestamp": "2026-11-19T18:04:15+00:00"
+        "timestamp": "2026-11-20T05:05:05+00:00"
       },
       {
-        "title": "US, China, Russia sign ‘peace declaration’ after historic Trump, Xi, Putin meeting",
-        "summary": "China, the United States and Russia issued a “Declaration toward Peace” on Thursday after their leaders held an unprecedented summit, laying out common ambitions to overhaul the UN and keep the International Criminal Court (ICC) in check. The statement, issued after Xi Jinping,…",
-        "link": "https://www.dawn.com/news/2045630/us-china-russia-sign-peace-declaration-after-historic-trump-xi-putin-meeting",
+        "title": "Ex-minister Liaqat Abbas Bhatti found dead in Hafizabad house, three guards booked",
+        "summary": "GUJRAT: Police have booked three security guards of former federal minister Liaqat Abbas Bhatti after his dead body was found under mysterious circumstances at his house in Hafizabad city on Thursday evening with weapons, vehicles and other valuables missing from the house.…",
+        "link": "https://www.dawn.com/news/2045747/ex-minister-liaqat-abbas-bhatti-found-dead-in-hafizabad-house-three-guards-booked",
         "source": "Dawn",
-        "timestamp": "2026-11-19T16:00:16+00:00"
+        "timestamp": "2026-11-20T04:43:55+00:00"
       },
       {
-        "title": "Pakistan, Qatar reaffirm commitment to strengthening bilateral relations in security, counter-terrorism: ISPR",
-        "summary": "Pakistan and Qatar reaffirmed their commitment to strengthening bilateral relations in the areas of institutional cooperation, security and counter-terrorism on Thursday, the military’s media affairs wing said. The development cam as Chief of Defence Forces (CDF) and Chief of…",
-        "link": "https://www.dawn.com/news/2045683/pakistan-qatar-reaffirm-commitment-to-strengthening-bilateral-relations-in-security-counter-terrorism-ispr",
+        "title": "Sindh cabinet okays Rs5.766bn for Karachi Safe City phase-II",
+        "summary": "KARACHI: The Sindh Cabinet on Thursday approved the release of Rs5.766 billion for the second phase of the Karachi Safe City Project, directing that the project be commissioned within 18 months to strengthen security infrastructure. Phase-II of the Karachi Safe City project…",
+        "link": "https://www.dawn.com/news/2045780/sindh-cabinet-okays-rs5766bn-for-karachi-safe-city-phase-ii",
         "source": "Dawn",
-        "timestamp": "2026-11-19T15:25:28+00:00"
+        "timestamp": "2026-11-20T04:43:33+00:00"
       },
       {
-        "title": "'Giving students hope for a better future': Schools in Pakistan, UK, Nigeria among winners in global prizes",
-        "summary": "Schools in Britain, Nigeria, Brazil, Pakistan and South Korea were named winners of the World’s Best School Prizes on Thursday for work including supporting student well-being, helping underserved communities and coordinating support for children with complex learning needs. The…",
-        "link": "https://www.dawn.com/news/2045696/giving-students-hope-for-a-better-future-schools-in-pakistan-uk-nigeria-among-winners-in-global-prizes",
+        "title": "SHC orders immediate halt to construction activities at Karachi's Nehr-i-Khayyam",
+        "summary": "KARACHI: The Sindh High Court on Thursday directed the authorities concerned to immediately stop the ongoing construction and development activities at the Nehr-i-Khayyam in Clifton. A two-judge constitutional bench of the SHC comprising Justice Riazat Ali Sahar and Justice…",
+        "link": "https://www.dawn.com/news/2045776/shc-orders-immediate-halt-to-construction-activities-at-karachis-nehr-i-khayyam",
         "source": "Dawn",
-        "timestamp": "2026-11-19T15:09:45+00:00"
+        "timestamp": "2026-11-20T04:39:07+00:00"
       },
       {
-        "title": "FCC sets aside high court rulings upholding infrastructure cess in Sindh, KP",
-        "summary": "ISLAMABAD: The Federal Constitutional Court (FCC) on Thursday set aside high court rulings upholding the infrastructure cess imposed by the Sindh and Khyber Pakhtunkhwa governments. The case pertained to the Sindh Development and Maintenance of Infrastructure Cess Act, 2017 and…",
-        "link": "https://www.dawn.com/news/2045693/fcc-sets-aside-high-court-rulings-upholding-infrastructure-cess-in-sindh-kp",
+        "title": "Islamabad province?",
+        "summary": "OPPOSITION to it has been largely suppressed, but all is not well within the ruling regime. One way or the other, the proposal to break up existing federating units will ultimately shape the regime’s endgame. Stage one has been completed without major resistance, the PTI…",
+        "link": "https://www.dawn.com/news/2045831/islamabad-province",
         "source": "Dawn",
-        "timestamp": "2026-11-19T14:43:43+00:00"
+        "timestamp": "2026-11-20T04:08:19+00:00"
       },
       {
-        "title": "DPM Dar, Asean secretary general agree to enhance cooperation to address ‘non-traditional’ security challenges",
-        "summary": "Deputy Prime Minister and Foreign Minister Ishaq Dar and Secretary General of the Association of Southeast Asian Nations (Asean) Dr Kao Kim Hourn agreed to enhance cooperation in addressing “non-traditional” security challenges on Thursday. Addressing a joint press stakeout with…",
-        "link": "https://www.dawn.com/news/2045678/dpm-dar-asean-secretary-general-agree-to-enhance-cooperation-to-address-non-traditional-security-challenges",
+        "title": "Helping create paths",
+        "summary": "ONE child, born in an affluent household, goes to one of the best private, high-fee schools, gets a lot of support from home, appears for international school leaving assessments and then makes her way to the best colleges and universities of the country or of the world. When…",
+        "link": "https://www.dawn.com/news/2045834/helping-create-paths",
         "source": "Dawn",
-        "timestamp": "2026-11-19T14:05:29+00:00"
+        "timestamp": "2026-11-20T04:02:44+00:00"
       },
       {
-        "title": "Airspace ban on Indian aircraft extended till Dec 24",
-        "summary": "Pakistan has extended its airspace ban on Indian aircraft until Dec 24, according to a Notice to Airmen (Notam) issued by the Pakistan Airports Authority (PAA). The previous extension of the ban was set to expire on Nov 24. “Pakistan airspace not available for Indian registered…",
-        "link": "https://www.dawn.com/news/2045680/airspace-ban-on-indian-aircraft-extended-till-dec-24",
+        "title": "In hindsight",
+        "summary": "JUST as an important partner in the ruling coalition is starting to question the wisdom of the 26th and 27th Amendments, a report issued by the International Commission of Jurists has detailed the damage the two enactments have wrought on Pakistan’s judiciary. Titled Judicial…",
+        "link": "https://www.dawn.com/news/2045830/in-hindsight",
         "source": "Dawn",
-        "timestamp": "2026-11-19T14:00:07+00:00"
+        "timestamp": "2026-11-20T03:48:05+00:00"
       }
     ],
     "Afghanistan": [
@@ -566,74 +495,74 @@
     ],
     "China": [
       {
-        "title": "Trump says no rush to decide on new Iran strikes, looks to next year",
-        "summary": "US President Donald Trump on Thursday appeared to push a decision on renewed major strikes against Iran into next year, extending a timeline that he had previously suggested could come to a head after this month’s US midterm elections. Asked in an interview about the possibility…",
-        "link": "https://www.scmp.com/news/world/middle-east/article/3375136/trump-says-no-rush-decide-new-iran-strikes-looks-next-year",
+        "title": "Record 57% of Primary 1 pupils in Hong Kong admitted to preferred schools in 2027",
+        "summary": "A record-high 57 per cent of children starting Primary One at Hong Kong’s public or government-subsidised schools in the next academic year have secured a place at their preferred institutions, amid the city’s declining birth rate. But the total number of applicants also dropped…",
+        "link": "https://www.scmp.com/news/hong-kong/education/article/3375174/record-57-primary-1-pupils-hong-kong-admitted-preferred-schools-2027",
         "source": "SCMP",
-        "timestamp": "2026-11-19T23:49:34+00:00"
+        "timestamp": "2026-11-20T05:35:18+00:00"
       },
       {
-        "title": "US Congress releases list of Chinese firms seeking Nvidia chips",
-        "summary": "A US House committee on Thursday released confidential licence applications from Chinese companies seeking to buy advanced artificial intelligence chips from Nvidia and AMD, information normally protected under US export-control law. Brian Mast, a Florida Republican and chair of…",
-        "link": "https://www.scmp.com/news/china/diplomacy/article/3375135/us-congress-releases-list-chinese-firms-seeking-nvidia-chips",
+        "title": "Man jailed for life over murder of yoga instructor ex-girlfriend in luxury hotel",
+        "summary": "A Hong Kong court has sentenced a former legal assistant to life imprisonment for murdering his yoga instructor ex-girlfriend and leaving her body in a blood-filled bathtub in a luxury hotel room, with the judge saying he had “every intention to kill”. Mr Justice Anthony Kwok…",
+        "link": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3375165/man-jailed-life-murdering-yoga-instructor-ex-girlfriend-luxury-hotel",
         "source": "SCMP",
-        "timestamp": "2026-11-19T23:46:10+00:00"
+        "timestamp": "2026-11-20T04:56:50+00:00"
       },
       {
-        "title": "World-famous hippo Fiona dies in US days after swallowing visitor’s hat",
-        "summary": "World-famous hippopotamus Fiona has died after several failed attempts by vets to remove a woolly hat that she accidentally swallowed, the Cincinnati Zoo announced Thursday. Beloved for her antics on social media, the nine-year-old Nile hippo ingested the knitted cap last week…",
-        "link": "https://www.scmp.com/news/world/united-states-canada/article/3375134/world-famous-hippo-fiona-dies-us-days-after-swallowing-visitors-hat",
+        "title": "Anwar vows crackdown after suspicious bags at Malaysian airbase lead to US$1.2m drug bust",
+        "summary": "Drugs discovered during a routine luggage inspection at a Malaysian airbase have led to the arrest of five air force personnel and the exposure of a syndicate allegedly using the military facility to smuggle methamphetamine to the Philippines and Indonesia. The syndicate, which…",
+        "link": "https://www.scmp.com/week-asia/health-environment/article/3375162/anwar-vows-crackdown-after-suspicious-bags-malaysian-airbase-lead-us12m-drug-bust",
         "source": "SCMP",
-        "timestamp": "2026-11-19T22:36:05+00:00"
+        "timestamp": "2026-11-20T04:35:36+00:00"
       },
       {
-        "title": "US crackdown on scam networks connected to Chinese-born tycoon Chen Zhi ramps up",
-        "summary": "The United States sanctioned three individuals and two companies on Thursday over their alleged links to scam centre compounds in Southeast Asia, in the latest US crackdown on networks connected to Chinese-born tycoon Chen Zhi. “Southeast Asia-based scam centres, most of them…",
-        "link": "https://www.scmp.com/news/china/diplomacy/article/3375133/us-crackdown-scam-networks-connected-chinese-born-tycoon-chen-zhi-ramps",
+        "title": "Comb restores hair growth; Kim Jong-un daughter’s luxury ski gear: SCMP’s 7 highlights",
+        "summary": "We have selected seven stories from this week’s news across Hong Kong, mainland China, the wider Asia region and beyond that resonated with our readers and shed light on topical issues. If you would like to see more of our reporting, please consider subscribing. 1. China’s first…",
+        "link": "https://www.scmp.com/news/world/article/3375020/comb-restores-hair-growth-kim-jong-un-daughters-luxury-ski-gear-scmps-7-highlights",
         "source": "SCMP",
-        "timestamp": "2026-11-19T22:07:55+00:00"
+        "timestamp": "2026-11-20T04:15:08+00:00"
       },
       {
-        "title": "New rail links would bring Asean even closer to China. Will Beijing pay to make it happen?",
-        "summary": "China and Laos marked a milestone in October, as their joint railway line surpassed 100 billion yuan (US$15 billion) in the cumulative value of imports and exports sent by trains. A private celebration for the two countries? Not for long. Cambodia, Thailand, Malaysia and…",
-        "link": "https://www.scmp.com/economy/global-economy/article/3375084/new-rail-links-would-bring-asean-even-closer-china-will-beijing-pay-make-it-happen",
+        "title": "Hong Kong’s 1996 Garley Building fire horror – SCMP archive",
+        "summary": "This article was first published on November 22, 1996. The death toll was later revised to 41. 39 dead in fire horror By Staff reporters Sparks from a welder’s torch are believed to have caused Hong Kong’s worst modern-day fire which left 39 people dead and scores more injured.…",
+        "link": "https://www.scmp.com/news/hong-kong/society/article/3375011/hong-kongs-1996-garley-building-fire-horror-scmp-archive",
         "source": "SCMP",
-        "timestamp": "2026-11-19T22:00:11+00:00"
+        "timestamp": "2026-11-20T04:15:05+00:00"
       },
       {
-        "title": "‘Hong Kong is back’ narrative built on more than hope and hype",
-        "summary": "Hong Kong will be one of the fastest-growing economies in the Asia-Pacific this year. That is according to Goldman Sachs, which expects the city to grow 5.1 per cent. Having contracted 3.7 per cent in 2022 and expanded just 2.6 per cent as recently as 2024, this is quite a feat.…",
-        "link": "https://www.scmp.com/opinion/hong-kong-opinion/article/3374999/hong-kong-back-narrative-built-more-hope-and-hype",
+        "title": "Why the ball is in Kim Jong-un’s court on a meeting with Donald Trump",
+        "summary": "North Korean leader Kim Jong-un’s absence from the Asia-Pacific Economic Cooperation gathering in Shenzhen could indicate that a meeting with Donald Trump will not take place in the foreseeable future. Analysts said it was a vastly different geopolitical and logistical situation…",
+        "link": "https://www.scmp.com/news/china/diplomacy/article/3375160/why-ball-kim-jong-uns-court-meeting-donald-trump",
         "source": "SCMP",
-        "timestamp": "2026-11-19T21:30:07+00:00"
+        "timestamp": "2026-11-20T04:07:56+00:00"
       },
       {
-        "title": "AI models favour US and UK accents, score Chinese and Nigerian ones lowest, study finds",
-        "summary": "Ask an artificial intelligence model to grade a job interview or test answers, and a person’s accent may change the score. That is according to new University of Washington research that looked at how some of the most advanced AI models rated English speakers with different…",
-        "link": "https://www.scmp.com/news/world/united-states-canada/article/3375132/ai-models-favour-us-and-uk-accents-score-chinese-and-nigerian-ones-lowest-study-finds",
+        "title": "Hong Kong police hunt man suspected of stealing cameras, lenses worth HK$1.9 million",
+        "summary": "Hong Kong police are searching for a man suspected of stealing 61 cameras and 55 lenses worth nearly HK$1.9 million (US$242,300) from a shop in Causeway Bay, the South China Morning Post has learned. A source familiar with the matter said on Friday that the store was Fortress, a…",
+        "link": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3375157/hong-kong-police-hunt-man-suspected-stealing-cameras-lenses-worth-hk19-million",
         "source": "SCMP",
-        "timestamp": "2026-11-19T20:31:24+00:00"
+        "timestamp": "2026-11-20T03:38:58+00:00"
       },
       {
-        "title": "China-centred order or host duties? Experts weigh in on Xi-Trump-Putin seating",
-        "summary": "The seating arrangement at Thursday’s historic trilateral summit in Shenzhen sparked debate among former US officials and analysts over whether the optics reflected standard host protocol or a deliberate bid by China to place itself at the centre of the discussions. “A stunning…",
-        "link": "https://www.scmp.com/news/china/article/3375131/china-centred-order-or-host-duties-experts-weigh-xi-trump-putin-seating",
+        "title": "Debate erupts over China university’s US$4.6m smart system tracking ‘head-raising rates’",
+        "summary": "An elite university in eastern China has spent more than 30 million yuan (US$4.6 million) installing a smart classroom system to track students’ “head-raising rate” – an indicator intended to reflect their attentiveness during lectures – and link it to their academic scores.…",
+        "link": "https://www.scmp.com/news/people-culture/trending-china/article/3375156/debate-erupts-over-china-universitys-us46m-smart-system-tracking-head-raising-rates",
         "source": "SCMP",
-        "timestamp": "2026-11-19T20:05:44+00:00"
+        "timestamp": "2026-11-20T03:17:29+00:00"
       },
       {
-        "title": "Xi, Trump and Putin ‘peace declaration’ suggests summit is more than a photo op",
-        "summary": "What was teased for weeks as an unprecedented three-way photo opportunity ended up rattling the geopolitical landscape on Thursday with the release of a China-US-Russia joint “peace declaration” outlining areas of cooperation in worldwide energy markets, nuclear…",
-        "link": "https://www.scmp.com/news/china/diplomacy/article/3375130/xi-trump-and-putin-peace-declaration-suggests-summit-more-photo-op",
+        "title": "China-Russia-US trilateral summit declaration towards peace",
+        "summary": "Chinese President Xi Jinping, US President Donald Trump and Russian President Vladimir Putin held a trilateral summit in Shenzhen on November 19, 2026. Following the summit, the three sides issued a joint declaration towards peace, including consensus on United Nations reform,…",
+        "link": "https://www.scmp.com/plus/news/china/article/3375154/china-russia-us-trilateral-summit-declaration-towards-peace",
         "source": "SCMP",
-        "timestamp": "2026-11-19T19:51:48+00:00"
+        "timestamp": "2026-11-20T03:16:47+00:00"
       },
       {
-        "title": "Trump bought up to US$265,000 of Nvidia stock in September, disclosure shows",
-        "summary": "US President Donald Trump bought as much as US$265,000 in Nvidia stock and sold as much as US$15,000 worth of the stock in September, weeks before reports surfaced of CEO Jensen Huang’s ties to an alleged Chinese spy, according to Trump’s latest financial disclosure released on…",
-        "link": "https://www.scmp.com/news/world/united-states-canada/article/3375129/trump-bought-us265000-nvidia-stock-september-disclosure-shows",
+        "title": "White House fires cyber chief after tech chaos rattles US",
+        "summary": "⁠White House national cyber director Sean ⁠Cairncross was “fired” from his job, a person close to the White House said on Thursday, days after technology outages disrupted US air travel, banking and national security systems. The ousting comes as US President Donald Trump ‌and…",
+        "link": "https://www.scmp.com/news/world/united-states-canada/article/3375152/white-house-fires-cybersecurity-chief-after-tech-chaos-rattles-us",
         "source": "SCMP",
-        "timestamp": "2026-11-19T18:57:18+00:00"
+        "timestamp": "2026-11-20T03:04:01+00:00"
       }
     ],
     "Japan": [
@@ -642,70 +571,70 @@
         "summary": "His embrace of the U.S.'s foremost geopolitical rivals further undercut the president's standing with American allies and national-security hawks.",
         "link": "https://www.japantimes.co.jp/news/2026/11/20/world/politics/trump-xi-putin-pushback/",
         "source": "Japan Times",
-        "timestamp": "2026-11-19T22:06:00+00:00"
+        "timestamp": "2026-11-20T05:35:00+00:00"
       },
       {
-        "title": "COP31 negotiators publish revised deal text with no mention of fossil fuels",
-        "summary": "The first draft contained two references to fossil fuels and limiting their use — a topic that deeply divides nations in the negotiations every year.",
-        "link": "https://www.japantimes.co.jp/environment/2026/11/19/climate-change/cop-fossil-fuel-language/",
+        "title": "Princess Aiko plants commemorative tree in Singapore",
+        "summary": "The park housing her tree is also home to two trees planted by Emperor Emeritus Akihito and Empress Emerita Michiko when they visited in 1970.",
+        "link": "https://www.japantimes.co.jp/news/2026/11/20/japan/princess-aiko-tree-singapore/",
         "source": "Japan Times",
-        "timestamp": "2026-11-19T12:14:00+00:00"
+        "timestamp": "2026-11-20T05:15:00+00:00"
       },
       {
-        "title": "Top U.N. court finds Myanmar committed state-sponsored genocide against Muslim Rohingya",
-        "summary": "It was the first time the court held a state responsible for genocide.",
-        "link": "https://www.japantimes.co.jp/news/2026/11/19/asia-pacific/myanmar-rohingya-genocide/",
+        "title": "Texans rout Colts to keep playoff hopes alive",
+        "summary": "Nico Collins, Kayshon Boutte and Marlin Klein all reached the end zone in Houston's first home win of the season.",
+        "link": "https://www.japantimes.co.jp/sports/2026/11/20/more-sports/texans-rout-colts-nfl/",
         "source": "Japan Times",
-        "timestamp": "2026-11-19T12:00:00+00:00"
+        "timestamp": "2026-11-20T05:12:00+00:00"
       },
       {
-        "title": "Rakuten Securities rushes to cope with data breach",
-        "summary": "The data breach has raised questions about the company's information management system.",
-        "link": "https://www.japantimes.co.jp/business/2026/11/19/companies/rakuten-securities-data-breach/",
+        "title": "Nepalese police detain 35 Japanese nationals over suspected online fraud",
+        "summary": "It is unusual for Japanese nationals to be linked to such fraud in Nepal.",
+        "link": "https://www.japantimes.co.jp/news/2026/11/20/japan/crime-legal/nepal-detain-japan-fraud/",
         "source": "Japan Times",
-        "timestamp": "2026-11-19T11:55:00+00:00"
+        "timestamp": "2026-11-20T04:54:00+00:00"
       },
       {
-        "title": "South Korea court orders retrial of ex-PM Han in martial law case",
-        "summary": "The 2024 decree issued by the president at the time, Yoon Suk Yeol, plunged the country into chaos, but lasted only around six hours.",
-        "link": "https://www.japantimes.co.jp/news/2026/11/19/asia-pacific/south-korea-pm-retrial/",
+        "title": "White House took reporters’ phones as Trump departed China",
+        "summary": "Journalists were told the move was a cybersecurity precaution against potential espionage attempts.",
+        "link": "https://www.japantimes.co.jp/news/2026/11/20/world/trump-reporters-phones-china/",
         "source": "Japan Times",
-        "timestamp": "2026-11-19T11:45:00+00:00"
+        "timestamp": "2026-11-20T04:23:00+00:00"
       },
       {
-        "title": "Takaichi vows to attend deliberations on tax-cut bill ‘in good faith’",
-        "summary": "Takaichi made these remarks at a news conference in Shenzhen, China, following a series of diplomatic engagements in the Philippines and China.",
-        "link": "https://www.japantimes.co.jp/news/2026/11/19/japan/politics/takaichi-tax-bill-deliberations/",
+        "title": "Climate talks ditch call to quit fossil fuels as deal nears",
+        "summary": "Compromises on charged issues at the COP31 talks in Antalya, Turkey, raise the prospects for agreement on a broad, though watered-down deal.",
+        "link": "https://www.japantimes.co.jp/environment/2026/11/20/climate-change/cop-fossil-fuel-language/",
         "source": "Japan Times",
-        "timestamp": "2026-11-19T11:31:00+00:00"
+        "timestamp": "2026-11-20T03:17:00+00:00"
       },
       {
-        "title": "Riyadh’s tallest building damaged as Saudi reports new Houthi attacks",
-        "summary": "A skyscraper in Riyadh housing the headquarters of Saudi Arabia's sovereign wealth fund was damaged on Thursday, witnesses said, as the kingdom reported new attacks by Yemen's Houthis.",
-        "link": "https://www.japantimes.co.jp/news/2026/11/19/world/riyadh-saudi-houthi-attacks/",
+        "title": "Formula One drivers prepare for Las Vegas race with plenty still at stake",
+        "summary": "While conventional wisdom would suggest that now would be the perfect time for teams to mail it in, there are still positions in the standings and millions of dollars on the line.",
+        "link": "https://www.japantimes.co.jp/sports/2026/11/20/more-sports/las-vegas-stakes-gp/",
         "source": "Japan Times",
-        "timestamp": "2026-11-19T11:25:00+00:00"
+        "timestamp": "2026-11-20T02:49:00+00:00"
       },
       {
-        "title": "Japan government under fire for using conspiracy theory YouTuber in PR",
-        "summary": "The government says that the use of the YouTuber is intended to deepen understanding of security policy among people in their 20s and 30s.",
-        "link": "https://www.japantimes.co.jp/news/2026/11/19/japan/conspiracy-theory-youtuber-pr/",
+        "title": "First-half profit falls at two out of three major Japan nonlife insurers",
+        "summary": "Higher U.S. interest rates and more natural disasters in the country spurred the drops, according to their earnings reports.",
+        "link": "https://www.japantimes.co.jp/business/2026/11/20/companies/nonlife-insurance-profit-first-half/",
         "source": "Japan Times",
-        "timestamp": "2026-11-19T10:52:00+00:00"
+        "timestamp": "2026-11-20T02:48:00+00:00"
       },
       {
-        "title": "Nearly 40% disapprove of Takaichi’s China stance, poll shows",
-        "summary": "The survey found that 38.4% of respondents disapprove of Takaichi's China stance, higher than the 33.6% who approved it.",
-        "link": "https://www.japantimes.co.jp/news/2026/11/19/japan/politics/takaichi-china-stance-disapprove/",
+        "title": "Japan Tobacco hit by $8.9 billion charge on Russia seizure",
+        "summary": "The Tokyo-based company now expects an operating loss of ¥368 billion instead of a ¥1 trillion profit.",
+        "link": "https://www.japantimes.co.jp/business/2026/11/20/japan-tobacco-russia-seizure-charge/",
         "source": "Japan Times",
-        "timestamp": "2026-11-19T10:45:00+00:00"
+        "timestamp": "2026-11-20T02:36:00+00:00"
       },
       {
-        "title": "China, U.S. and Russia issue ‘peace declaration’ after unprecedented summit",
-        "summary": "The three countries' leaders discussed reforming the U.N., increasing petroleum product supplies, reining in international courts and nuclear weapons.",
-        "link": "https://www.japantimes.co.jp/news/2026/11/19/asia-pacific/politics/trump-putin-xi-summit-apec-nuclear-weapons/",
+        "title": "From anti-war physicist to AI power broker, Amodei takes his safety approach public",
+        "summary": "Even as Anthropic prepared for its debut, Dario Amodei warned how AI's advances could outpace human control and urged a slowdown in development.",
+        "link": "https://www.japantimes.co.jp/business/2026/11/20/tech/physicist-ai-amodei-safety/",
         "source": "Japan Times",
-        "timestamp": "2026-11-19T09:25:00+00:00"
+        "timestamp": "2026-11-20T02:29:00+00:00"
       }
     ],
     "USA": [
@@ -773,86 +702,100 @@
         "timestamp": "2026-11-19T11:20:37+00:00"
       },
       {
-        "title": "Muslims will outnumber Christians worldwide by 2035, report says",
-        "summary": "By 2070, the Democratic Republic of the Congo will surpass the United States as the country with the largest total number of Christians.",
-        "link": "https://www.npr.org/2026/11/19/nx-s1-6043018/muslims-will-outnumber-christians-worldwide-by-2035-report-says",
+        "title": "Investors scramble for a piece of AI giant Anthropic in blockbuster IPO",
+        "summary": "Shares in the maker of the popular Claude artificial intelligence model leapt in first day of trading on the Nasdaq Thursday.",
+        "link": "https://www.npr.org/2026/11/19/nx-s1-6042558/anthropic-ipo-breaks-records-100-billion",
         "source": "NPR",
         "timestamp": "2026-11-19T10:00:00+00:00"
       }
     ],
     "International": [
       {
-        "title": "Trump posthumously pardons US baseball legend Pete Rose",
-        "summary": "Rose, who died in 2024, was given a lifetime ban from the sport for betting on games but was reinstated last year.",
-        "link": "https://www.bbc.co.uk/news/articles/cx1l0pm7l9jmo?at_medium=RSS&at_campaign=rss",
+        "title": "More climate money for Africa? Europe says use what's already pledged",
+        "summary": "African countries at the UN climate summit in Turkey are demanding more funding from developed nations to help them cope with climate change.",
+        "link": "https://www.bbc.co.uk/news/articles/c6074k5jjrzko?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
-        "timestamp": "2026-11-19T23:51:50+00:00"
+        "timestamp": "2026-11-20T05:03:43+00:00"
       },
       {
-        "title": "Fiona the hippo dies after swallowing a hat at Cincinnati Zoo",
-        "summary": "Fiona, who became an internet star after her premature birth in 2017, \"fought until she couldn’t anymore\", the zoo says.",
-        "link": "https://www.bbc.co.uk/news/articles/cwz0k3172xzko?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "timestamp": "2026-11-19T23:40:29+00:00"
-      },
-      {
-        "title": "Anthropic becomes one of world's most valuable public companies in stock market debut",
-        "summary": "Anthropic is the first purely AI company to be publicly listed, creating a test for the entire industry.",
-        "link": "https://www.bbc.co.uk/news/articles/c3x29ggenz12o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "timestamp": "2026-11-19T23:33:51+00:00"
-      },
-      {
-        "title": "Cumin-laced fizzy sodas are giving cola giants a tough fight in India",
-        "summary": "Cumin-laced sodas are capturing a bigger market share in India as demand for homegrown flavours goes up.",
-        "link": "https://www.bbc.co.uk/news/articles/cw1m4ym7ez2eo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "timestamp": "2026-11-19T23:29:00+00:00"
-      },
-      {
-        "title": "Six killed in suspected gas explosion at Georgia apartment building",
-        "summary": "Georgian Interior Minister Sulkhan Tamazashvili said rescuers had recovered six bodies from the wreckage.",
-        "link": "https://www.aljazeera.com/news/2026/11/19/six-killed-in-suspected-gas-explosion-at-georgia-apartment-building?traffic_source=rss",
+        "title": "Gaza Civil Defence struggles to rescue lives as vehicles break down",
+        "summary": "More than 85 percent of Gaza Civil Defence vehicles are out of service as crews struggle to reach trapped people.",
+        "link": "https://www.aljazeera.com/news/2026/11/20/gaza-civil-defence-struggles-to-rescue-lives-as-vehicles-fall-into-disrepair?traffic_source=rss",
         "source": "Al Jazeera",
-        "timestamp": "2026-11-19T23:09:48+00:00"
+        "timestamp": "2026-11-20T05:01:40+00:00"
       },
       {
-        "title": "California targets Nvidia in China AI chip probe",
-        "summary": "The probe by California, where the AI chipmaker has its global headquarters, follows former CEO Jensen Huang's departure.",
-        "link": "https://www.bbc.co.uk/news/articles/cqn70vxp5p4no?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "timestamp": "2026-11-19T23:04:30+00:00"
-      },
-      {
-        "title": "Mosque torched in Israel sparks political backlash against Netanyahu",
-        "summary": "A mosque in al-Dahi, a Palestinian Arab village in northern Israel, was set on fire in a suspected arson attack.",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/11/19/aje-onl-nf_mosque-torched-in-israel-sparks-political-backlash-191126?traffic_source=rss",
+        "title": "Contaminated petrol leaves Yemeni drivers struggling to make ends meet",
+        "summary": "Drivers in Houthi-controlled areas face rising fuel prices and costly repairs as contaminated petrol damages their cars.",
+        "link": "https://www.aljazeera.com/news/2026/11/20/contaminated-petrol-leaves-yemeni-drivers-struggling-to-make-ends-meet?traffic_source=rss",
         "source": "Al Jazeera",
-        "timestamp": "2026-11-19T22:58:48+00:00"
+        "timestamp": "2026-11-20T05:00:16+00:00"
       },
       {
-        "title": "From premature baby to social media star - Famed hippo Fiona dies",
-        "summary": "The beloved hippopotamus died days after swallowing a knitted hat that accidentally got into her enclosure at the Cincinnati Zoo.",
-        "link": "https://www.bbc.co.uk/news/videos/cq39gvj9y7xpo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "timestamp": "2026-11-19T22:54:03+00:00"
-      },
-      {
-        "title": "Judge finds Thomas Markle mentally fit to stand trial on child abuse charges",
-        "summary": "Markle, who has denied possessing images of child sex abuse was deemed competent after an evaluation by a court-appointed psychiatrist.",
-        "link": "https://www.bbc.co.uk/news/articles/crgj35ldz2zxo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "timestamp": "2026-11-19T22:48:22+00:00"
-      },
-      {
-        "title": "US signed off on sales of nearly 900,000 AI chips to China in six months",
-        "summary": "US House committee releases chip export data amid scrutiny of former Nvidia CEO&#039;s alleged links to a Chinese spy.",
-        "link": "https://www.aljazeera.com/economy/2026/11/19/us-signed-off-on-sales-of-nearly-900000-ai-chips-to-china-in-six-months?traffic_source=rss",
+        "title": "Kushner: Trump open to NATO-like security guarantees for Ukraine",
+        "summary": "US President Donald Trump is open to offering NATO-like security guarantees to Ukraine, envoy Jared Kushner has said.",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/11/20/kushner-trump-open-to-nato-like-security-guarantees-for-ukraine?traffic_source=rss",
         "source": "Al Jazeera",
-        "timestamp": "2026-11-19T21:58:27+00:00"
+        "timestamp": "2026-11-20T04:44:53+00:00"
+      },
+      {
+        "title": "UK and EU to agree youth mobility scheme, BBC understands",
+        "summary": "The scheme is expected to be approved at Friday's UK-EU summit, with new deals on food trade and carbon emissions also on the table.",
+        "link": "https://www.bbc.co.uk/news/articles/c623j4kpg94go?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "timestamp": "2026-11-20T04:35:51+00:00"
+      },
+      {
+        "title": "China issues Mount Fuji warning as family of missing climber offers reward",
+        "summary": "The $75,000 reward offered by Chen Jie's family has sparked fears of more reckless climbing attempts.",
+        "link": "https://www.bbc.co.uk/news/articles/c61wr088jnzzo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "timestamp": "2026-11-20T04:13:22+00:00"
+      },
+      {
+        "title": "Canada’s beloved Tim Hortons brews ire over ‘excessive’ Israeli data deal",
+        "summary": "Advocates raised concerns about the Tim Horton’s app and consumer privacy and data-sharing.",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/11/20/canadas-beloved-tim-hortons-brews-ire-over-excessive-israeli-data-deal-2?traffic_source=rss",
+        "source": "Al Jazeera",
+        "timestamp": "2026-11-20T04:05:17+00:00"
+      },
+      {
+        "title": "Thousands protest Colombia’s tax plans amid row over US military role",
+        "summary": "Trade unions, students and opposition groups demonstrated in Bogota and other major cities on Thursday.",
+        "link": "https://www.aljazeera.com/news/2026/11/20/thousands-protest-colombias-tax-plans-amid-row-over-us-military-role?traffic_source=rss",
+        "source": "Al Jazeera",
+        "timestamp": "2026-11-20T03:26:23+00:00"
+      },
+      {
+        "title": "Lula visits ailing Chief Raoni as Brazil recognises Indigenous land",
+        "summary": "Lula honours Raoni in Mato Grosso, celebrating his legacy and advancing protection for Kayapo and Yudja ancestral lands.",
+        "link": "https://www.aljazeera.com/news/2026/11/20/lula-visits-ailing-chief-raoni-as-brazil-recognises-indigenous-land?traffic_source=rss",
+        "source": "Al Jazeera",
+        "timestamp": "2026-11-20T03:24:49+00:00"
+      },
+      {
+        "title": "Asia’s stock markets dive as Anthropic debut fails to allay AI bubble fears",
+        "summary": "Indexes in Japan, South Korea, Taiwan and Hong Kong fall amid tech sell-off.",
+        "link": "https://www.aljazeera.com/economy/2026/11/20/asias-stock-markets-dive-as-anthropic-debut-fails-to-allay-ai-bubble-fears?traffic_source=rss",
+        "source": "Al Jazeera",
+        "timestamp": "2026-11-20T02:54:22+00:00"
       }
     ],
     "Sports": [
+      {
+        "title": "Russell fastest in Las Vegas practice after rain",
+        "summary": "Mercedes' George Russell topped a second practice session at the Las Vegas Grand Prix run on a wet but slowly drying track.",
+        "link": "https://www.bbc.co.uk/sport/formula1/articles/c9gklmdmnzydo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Sport",
+        "timestamp": "2026-11-20T05:15:05+00:00"
+      },
+      {
+        "title": "Arsenal 'have ingredients' but Europe's elite on another level",
+        "summary": "In a difficult defeat by French giants Lyon, Arsenal were shown the gap they need to bridge to challenge for the Champions League.",
+        "link": "https://www.bbc.co.uk/sport/football/articles/cm4gnxz8dvx1o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Sport",
+        "timestamp": "2026-11-19T23:57:54+00:00"
+      },
       {
         "title": "Trump posthumously pardons US baseball legend Pete Rose",
         "summary": "Rose, who died in 2024, was given a lifetime ban from the sport for betting on games but was reinstated last year.",
@@ -868,7 +811,7 @@
         "timestamp": "2026-11-19T23:30:00+00:00"
       },
       {
-        "title": "Las Vegas GP: Rain falling ahead of first practice LIVE!",
+        "title": "Las Vegas GP: Russell tops wet second practice from Gasly LIVE!",
         "summary": "",
         "link": "https://www.skysports.com/f1/live-blog/12040/13613211/f1-las-vegas-gp-live-friday-practice-updates-results-stream-highlights-from-formula-1-race-weekend-in-the-usa",
         "source": "Sky Sports",
@@ -908,95 +851,95 @@
         "link": "https://www.bbc.co.uk/sport/rugby-union/articles/ckge31np9ew7o?at_medium=RSS&at_campaign=rss",
         "source": "BBC Sport",
         "timestamp": "2026-11-19T22:29:46+00:00"
-      },
-      {
-        "title": "Hull one shot off the lead at the CME Group Tour Championship",
-        "summary": "Highlights from day one of the CME Group Tour Championship at Tibur&#243;n Golf Club, Florida.",
-        "link": "https://www.skysports.com/watch/video/13614193/cme-group-tour-championship-day-one-highlights",
-        "source": "Sky Sports",
-        "timestamp": "2026-11-19T22:21:00+00:00"
-      },
-      {
-        "title": "Unbeaten Zverev hopes to be 'pain-free' after overcoming Fils at ATP Finals",
-        "summary": "World number one Alexander Zverev says he will do \"everything I can to be pain-free\" after hurting his ankle during his ATP Finals victory over Arthur Fils.",
-        "link": "https://www.bbc.co.uk/sport/tennis/articles/c64gne03ykjro?at_medium=RSS&at_campaign=rss",
-        "source": "BBC Sport",
-        "timestamp": "2026-11-19T22:17:25+00:00"
       }
     ],
     "World Politics": [
       {
-        "title": "California’s top lawyer subpoenas Nvidia over Jensen Huang’s affair with suspected Chinese spy – live",
-        "summary": "State’s attorney general Rob Bonta says ‘conduct of Nvidia and its former CEO raises bright red flags’ as he opens investigation Sign up for the Breaking News US emailThe National Security Agency is seeing a third day of disruptions to its internal network, NSA Net, which allows…",
-        "link": "https://www.theguardian.com/us-news/live/2026/nov/19/hakeem-jeffries-us-politics-demicrats-republicans-latest-news-updates",
-        "source": "The Guardian World",
-        "timestamp": "2026-11-19T23:54:58+00:00"
-      },
-      {
-        "title": "An elevator, a brick wall and a bathroom: scientists use gravity to send ‘practically unblockable’ message",
-        "summary": "Australian physicists chose to transmit the word ‘gravity’ in binary code through brick wallGet our breaking news email, free app or daily news podcastAustralian scientists have used gravity as a means of communication, in a proof-of-concept experiment involving a snail-paced…",
-        "link": "https://www.theguardian.com/science/2026/nov/20/scientists-communicate-using-gravity-elevator-brick-wall-bathroom-experiment",
-        "source": "The Guardian World",
-        "timestamp": "2026-11-19T23:30:26+00:00"
-      },
-      {
-        "title": "Florida to carry out record-breaking 20th execution of the year",
-        "summary": "State to execute man convicted of two counts of first-degree murder while Texas also plans to put a man to deathFlorida is set Thursday to carry out a record-breaking 20th execution of the year on a man convicted of killing a pregnant woman and her husband during a home…",
-        "link": "https://www.theguardian.com/us-news/2026/nov/19/record-executions-florida-texas",
-        "source": "The Guardian World",
-        "timestamp": "2026-11-19T23:15:42+00:00"
-      },
-      {
-        "title": "Howard-era minister Sharman Stone dies via voluntary assisted dying, aged 75",
-        "summary": "The former Liberal MP had fought a long battle against glioblastoma, an aggressive form of brain cancerGet our daily political email, free app or daily news podcastFormer Liberal MP Sharman Stone has died via voluntary assisted dying after spending much of her political career…",
-        "link": "https://www.theguardian.com/australia-news/2026/nov/20/howard-era-minister-sharman-stone-dies-via-voluntary-assisted-dying-aged-75",
-        "source": "The Guardian World",
-        "timestamp": "2026-11-19T23:07:02+00:00"
-      },
-      {
-        "title": "Mark Speakman resigns and says Liberals face ‘existential threat’ as NSW exodus continues",
-        "summary": "Former NSW opposition leader warns party against becoming ‘Labor lite’ or ‘One Nation lite’ in late-night speechGet our breaking news email, free app or daily news podcastFormer New South Wales opposition leader Mark Speakman will not contest his seat at the March state…",
+        "title": "Kellie Sloane says she’s ‘pretty sure’ NSW Liberals exodus is over after Mark Speakman resigns",
+        "summary": "Former NSW opposition leader warns party against being ‘One Nation lite’ as he became eighth out of 24 Liberal MPs not to recontest seat in MarchGet our breaking news email, free app or daily news podcastThe New South Wales opposition leader, Kellie Sloane, says she is “pretty…",
         "link": "https://www.theguardian.com/australia-news/2026/nov/19/mark-speakman-resigns-and-says-liberals-face-existential-threat-as-nsw-exodus-continues",
         "source": "The Guardian World",
-        "timestamp": "2026-11-19T22:17:09+00:00"
+        "timestamp": "2026-11-20T05:02:16+00:00"
+      },
+      {
+        "title": "Race to be next UN secretary general exposes divisions among world powers",
+        "summary": "Debate about dominance of permanent five members could reignite if major powers block Costa Rican frontrunnerThe race to become the next UN secretary general could reach a decisive moment on Friday when a UN security council vote is likely to reveal whether the Costa Rican…",
+        "link": "https://www.theguardian.com/world/2026/nov/20/race-to-be-next-un-secretary-general-exposes-divisions-among-world-powers",
+        "source": "The Guardian World",
+        "timestamp": "2026-11-20T05:00:24+00:00"
+      },
+      {
+        "title": "Iraq university’s removal of male professors teaching women sparks weeks of protests",
+        "summary": "Al-Qadisiyah University’s move a sign of the country’s slide into a Taliban-like gender segregation, say activistsThe removal of male professors teaching female students at a university in southern Iraq has sparked protests and been criticised by activists as a Taliban-like…",
+        "link": "https://www.theguardian.com/global-development/2026/nov/20/iraqi-university-ban-men-teaching-women-protests",
+        "source": "The Guardian World",
+        "timestamp": "2026-11-20T05:00:23+00:00"
+      },
+      {
+        "title": "Patient ‘horrified’ to find her sensitive discussions were shared with more than 100,000 NHS staff",
+        "summary": "Exclusive: Investigation launched after details of grief and trauma uploaded, raising questions over extent of issueThe Information Commissioner’s Office (ICO) has launched an investigation after a patient was “horrified” to discover that notes of sensitive discussions with her…",
+        "link": "https://www.theguardian.com/society/2026/nov/20/patient-confidentiality-sensitive-discussion-records-shared-nhs-staff",
+        "source": "The Guardian World",
+        "timestamp": "2026-11-20T05:00:23+00:00"
+      },
+      {
+        "title": "Beau Lamarre-Condon’s explanations of body disposal ‘ring hollow’, court hears",
+        "summary": "Former police officer has pleaded not guilty to murdering Jesse Baird and Luke Davies in Paddington in February 2024Get our breaking news email, free app or daily news podcastBeau Lamarre-Condon knew he had murdered two men and his attempts to explain the disposal of their…",
+        "link": "https://www.theguardian.com/australia-news/2026/nov/20/beau-lamarre-condons-attempts-to-explain-disposal-alleged-victims-bodies-ring-hollow-court-hears-ntwnfb",
+        "source": "The Guardian World",
+        "timestamp": "2026-11-20T04:58:21+00:00"
+      },
+      {
+        "title": "NextDC vows to keep future datacentres away from homes after community backlash in Melbourne",
+        "summary": "Public expectations around datacentres have changed in the age of AI, chief executive Craig Scroggie saysGet our breaking news email, free app or daily news podcastCommunity backlash to a datacentre expansion in inner Melbourne that resulted in NextDC’s share price dropping 40%…",
+        "link": "https://www.theguardian.com/australia-news/2026/nov/20/nextdc-vows-to-keep-future-datacentres-away-from-homes-after-community-backlash-in-melbourne",
+        "source": "The Guardian World",
+        "timestamp": "2026-11-20T04:37:08+00:00"
+      },
+      {
+        "title": "White House replaces cyber security chief after tech outages",
+        "summary": "Sean Cairncross is leaving his role as national cyber director after a chaotic week of tech outages. Kirsten Davies, the Pentagon's chief information officer, will assume the position in an acting capacity.",
+        "link": "https://www.dw.com/en/white-house-replaces-cyber-security-chief-after-tech-outages/a-79998531?maca=en-rss-en-world-4025-rdf",
+        "source": "DW World",
+        "timestamp": "2026-11-20T04:21:00+00:00"
+      },
+      {
+        "title": "‘Perfect weapon’: diabetic woman found guilty of murdering her 94-year-old parents with insulin",
+        "summary": "Jury convicts Raelene Polymiadis after four-month trial in South Australian supreme courtGet our breaking news email, free app or daily news podcastA jury has convicted a diabetic woman of murdering both her elderly parents with insulin after a marathon criminal trial.Raelene…",
+        "link": "https://www.theguardian.com/australia-news/2026/nov/20/diabetic-woman-found-guilty-murdering-94-year-old-parents-with-insulin-ntwnfb",
+        "source": "The Guardian World",
+        "timestamp": "2026-11-20T04:15:16+00:00"
       },
       {
         "title": "Fiona the hippo dies after ingesting knitted hat at Cincinnati zoo",
         "summary": "Zoo staff tried a colonoscopy, vibration plate and other procedures to aid the hippo in passing the hat to no availFiona the hippo, one of America’s most famous zoo animals, has died after efforts to remove a knitted hat that she swallowed after it fell into her enclosure proved…",
         "link": "https://www.theguardian.com/world/2026/nov/19/fiona-hippo-cincinnati-zoo-knit-hat",
         "source": "The Guardian World",
-        "timestamp": "2026-11-19T22:09:55+00:00"
+        "timestamp": "2026-11-20T03:05:59+00:00"
       },
       {
-        "title": "Thomas Markle, Meghan’s father, is competent to face child sex abuse images case",
-        "summary": "Judge in Florida says an expert has determined the 82-year-old estranged father of the Duchess of Sussex is mentally competent to face chargesAn expert has determined that Thomas Markle, the 82-year-old estranged father of the Duchess of Sussex, is mentally competent to face…",
-        "link": "https://www.theguardian.com/us-news/2026/nov/19/thomas-markle-mentally-competent",
+        "title": "Is it time to change the UK age of consent? – podcast",
+        "summary": "After Russell Brand’s conviction and accusations against David Walliams, campaigners are calling for a staggered age of consent. Nosheen Iqbal speaks to the columnist Polly Hudson and the educator Michael Conroy about what needs to changeSend your comments and questions to…",
+        "link": "https://www.theguardian.com/news/audio/2026/nov/20/is-it-time-to-change-the-uk-age-of-consent-podcast",
         "source": "The Guardian World",
-        "timestamp": "2026-11-19T22:05:18+00:00"
-      },
-      {
-        "title": "Appeals court rejects Democrat LaMonica McIver’s bid to toss charges over ICE protest",
-        "summary": "New Jersey congresswoman, charged with interfering with immigration arrest, set to face trial over May 2025 incidentAn appeals court decided on Thursday that the Democratic New Jersey representative LaMonica McIver will continue to face charges related to a skirmish outside an…",
-        "link": "https://www.theguardian.com/us-news/2026/nov/19/lamonica-mciver-ice-delaney-hall",
-        "source": "The Guardian World",
-        "timestamp": "2026-11-19T21:57:39+00:00"
-      },
-      {
-        "title": "Protesters rally against Anthropic in New York and San Francisco after $2tn stock market debut",
-        "summary": "Anti-AI groups gather in front of Nasdaq exchange in Times Square and Anthropic’s headquarters in San FranciscoAs the artificial intelligence startup Anthropic debuted on the US stock market at an eye-popping $2tn valuation on Thursday, protesters from anti-AI groups rallied in…",
-        "link": "https://www.theguardian.com/technology/2026/nov/19/anthropic-ipo-protests",
-        "source": "The Guardian World",
-        "timestamp": "2026-11-19T21:52:19+00:00"
-      },
-      {
-        "title": "Guardian Australia takes home two Walkley awards for excellence in journalism",
-        "summary": "Stories revealing Pauline Hanson’s US trip with Gina Rinehart and the systemic betrayal of Kardell Lomas before her death recognisedGet our breaking news email, free app or daily news podcastGuardian Australia journalists have won two Walkley awards, one for a story about the…",
-        "link": "https://www.theguardian.com/australia-news/2026/nov/19/guardian-australia-takes-home-two-walkley-awards-for-excellence-in-journalism",
-        "source": "The Guardian World",
-        "timestamp": "2026-11-19T21:04:01+00:00"
+        "timestamp": "2026-11-20T03:00:19+00:00"
       }
     ],
     "AI-Buzz": [
+      {
+        "title": "Apple may be developing its own AI agent that runs your Mac",
+        "summary": "The iPhone maker appears to be building agents that can compete with the likes of Meta Muse, Instinct, Claude, and OpenAI Dots.",
+        "link": "https://techcrunch.com/2026/11/19/apple-may-be-developing-its-own-ai-agent-that-runs-your-mac/",
+        "source": "TechCrunch AI",
+        "timestamp": "2026-11-20T00:56:01+00:00"
+      },
+      {
+        "title": "Anthropic’s 7 founders cashed out nearly $2B in record-breaking IPO",
+        "summary": "At the upgraded $83/share IPO price, Anthropic's seven founders each pocketed $280 million, while the company nabbed nearly $105 billion.",
+        "link": "https://techcrunch.com/2026/11/19/anthropics-7-founders-cashed-out-nearly-2b-in-record-breaking-ipo/",
+        "source": "TechCrunch AI",
+        "timestamp": "2026-11-20T00:43:50+00:00"
+      },
       {
         "title": "Apple is hiring engineers to build its own AI agent",
         "summary": "Apple is working on its own AI agent that can perform a range of tasks for you, including browsing the web, working across apps, writing code, and calling services. That's according to a job listing spotted by Bloomberg, which says Apple is looking for an engineer to lead the…",
@@ -1052,92 +995,78 @@
         "link": "https://www.theverge.com/tech/1038059/google-search-homepage-ai-chats",
         "source": "The Verge AI",
         "timestamp": "2026-11-19T20:05:06+00:00"
-      },
-      {
-        "title": "Anthropic’s IPO could deliver $156B to charity",
-        "summary": "At a stock price of $95, the frontier lab's Public Benefit Foundation, its employee donations, and the company's match tot up to $156 billion.",
-        "link": "https://techcrunch.com/2026/11/19/anthropics-ipo-could-deliver-156-billion-to-charity/",
-        "source": "TechCrunch AI",
-        "timestamp": "2026-11-19T19:10:45+00:00"
-      },
-      {
-        "title": "Gemini on Mac can now use your computer",
-        "summary": "Google's Gemini app for macOS now has computer use, meaning it can help you \"get multi-step tasks done across your local files, desktop apps, and the web,\" the company says. Google suggests the feature might be useful for things like speeding up workflows, filling in forms,…",
-        "link": "https://www.theverge.com/tech/1037902/google-gemini-macos-ai-computer-use",
-        "source": "The Verge AI",
-        "timestamp": "2026-11-19T18:21:13+00:00"
       }
     ],
     "World Conflicts": [
       {
-        "title": "Six killed in suspected gas explosion at Georgia apartment building",
-        "summary": "Georgian Interior Minister Sulkhan Tamazashvili said rescuers had recovered six bodies from the wreckage.",
-        "link": "https://www.aljazeera.com/news/2026/11/19/six-killed-in-suspected-gas-explosion-at-georgia-apartment-building?traffic_source=rss",
+        "title": "Gaza Civil Defence struggles to rescue lives as vehicles break down",
+        "summary": "More than 85 percent of Gaza Civil Defence vehicles are out of service as crews struggle to reach trapped people.",
+        "link": "https://www.aljazeera.com/news/2026/11/20/gaza-civil-defence-struggles-to-rescue-lives-as-vehicles-fall-into-disrepair?traffic_source=rss",
         "source": "Al Jazeera",
-        "timestamp": "2026-11-19T23:09:48+00:00"
+        "timestamp": "2026-11-20T05:01:40+00:00"
       },
       {
-        "title": "Mosque torched in Israel sparks political backlash against Netanyahu",
-        "summary": "A mosque in al-Dahi, a Palestinian Arab village in northern Israel, was set on fire in a suspected arson attack.",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/11/19/aje-onl-nf_mosque-torched-in-israel-sparks-political-backlash-191126?traffic_source=rss",
+        "title": "Contaminated petrol leaves Yemeni drivers struggling to make ends meet",
+        "summary": "Drivers in Houthi-controlled areas face rising fuel prices and costly repairs as contaminated petrol damages their cars.",
+        "link": "https://www.aljazeera.com/news/2026/11/20/contaminated-petrol-leaves-yemeni-drivers-struggling-to-make-ends-meet?traffic_source=rss",
         "source": "Al Jazeera",
-        "timestamp": "2026-11-19T22:58:48+00:00"
+        "timestamp": "2026-11-20T05:00:16+00:00"
       },
       {
-        "title": "US signed off on sales of nearly 900,000 AI chips to China in six months",
-        "summary": "US House committee releases chip export data amid scrutiny of former Nvidia CEO&#039;s alleged links to a Chinese spy.",
-        "link": "https://www.aljazeera.com/economy/2026/11/19/us-signed-off-on-sales-of-nearly-900000-ai-chips-to-china-in-six-months?traffic_source=rss",
+        "title": "Kushner: Trump open to NATO-like security guarantees for Ukraine",
+        "summary": "US President Donald Trump is open to offering NATO-like security guarantees to Ukraine, envoy Jared Kushner has said.",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/11/20/kushner-trump-open-to-nato-like-security-guarantees-for-ukraine?traffic_source=rss",
         "source": "Al Jazeera",
-        "timestamp": "2026-11-19T21:58:27+00:00"
+        "timestamp": "2026-11-20T04:44:53+00:00"
       },
       {
-        "title": "Haiti police say at least 34 suspected gang members killed in raid",
-        "summary": "Police say the raid targeted the Martissant area, located on a key route out of Port-au-Prince held by gangs since 2021.",
-        "link": "https://www.aljazeera.com/news/2026/11/19/haiti-police-say-at-least-34-suspected-gang-members-killed-in-raid?traffic_source=rss",
+        "title": "Canada’s beloved Tim Hortons brews ire over ‘excessive’ Israeli data deal",
+        "summary": "Advocates raised concerns about the Tim Horton’s app and consumer privacy and data-sharing.",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/11/20/canadas-beloved-tim-hortons-brews-ire-over-excessive-israeli-data-deal-2?traffic_source=rss",
         "source": "Al Jazeera",
-        "timestamp": "2026-11-19T21:39:39+00:00"
+        "timestamp": "2026-11-20T04:05:17+00:00"
       },
       {
-        "title": "US appeals court lets Trump end TPS deportation protections for Venezuelans",
-        "summary": "The appeals court&#039;s ruling prevents a lower-court decision from taking effect, which would block Trump from lifting TPS.",
-        "link": "https://www.aljazeera.com/news/2026/11/19/us-appeals-court-lets-trump-end-tps-deportation-protections-for-venezuelans?traffic_source=rss",
+        "title": "Thousands protest Colombia’s tax plans amid row over US military role",
+        "summary": "Trade unions, students and opposition groups demonstrated in Bogota and other major cities on Thursday.",
+        "link": "https://www.aljazeera.com/news/2026/11/20/thousands-protest-colombias-tax-plans-amid-row-over-us-military-role?traffic_source=rss",
         "source": "Al Jazeera",
-        "timestamp": "2026-11-19T21:11:45+00:00"
+        "timestamp": "2026-11-20T03:26:23+00:00"
       },
       {
-        "title": "Ten killed in Pakistan as bus crashes into gas tanker",
-        "summary": "Ten people were killed and at least 27 more injured after a passenger bus collided with an LPG tanker in Pakistan.",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/11/19/ten-killed-in-pakistan-as-bus-crashes-into-gas-tanker?traffic_source=rss",
+        "title": "Lula visits ailing Chief Raoni as Brazil recognises Indigenous land",
+        "summary": "Lula honours Raoni in Mato Grosso, celebrating his legacy and advancing protection for Kayapo and Yudja ancestral lands.",
+        "link": "https://www.aljazeera.com/news/2026/11/20/lula-visits-ailing-chief-raoni-as-brazil-recognises-indigenous-land?traffic_source=rss",
         "source": "Al Jazeera",
-        "timestamp": "2026-11-19T21:09:24+00:00"
+        "timestamp": "2026-11-20T03:24:49+00:00"
       },
       {
-        "title": "Three arrested during Anthropic IPO protest outside Nasdaq",
-        "summary": "As the AI giant Anthropic made its record-breaking stock market debut in New York, police arrested demonstrators",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/11/19/three-arrested-during-anthropic-ipo-protest-outside-nasdaq?traffic_source=rss",
+        "title": "Asia’s stock markets dive as Anthropic debut fails to allay AI bubble fears",
+        "summary": "Indexes in Japan, South Korea, Taiwan and Hong Kong fall amid tech sell-off.",
+        "link": "https://www.aljazeera.com/economy/2026/11/20/asias-stock-markets-dive-as-anthropic-debut-fails-to-allay-ai-bubble-fears?traffic_source=rss",
         "source": "Al Jazeera",
-        "timestamp": "2026-11-19T20:59:20+00:00"
+        "timestamp": "2026-11-20T02:54:22+00:00"
       },
       {
-        "title": "Jerusalem Daily: Israel launches ground offensive in Gaza",
-        "summary": "Israel launches its first major ground offensive in central Gaza, pushing beyond the ‘Yellow Line’ it controls",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/11/19/jerusalem-daily-israel-launches-ground-offensive-in-gaza-2?traffic_source=rss",
+        "title": "Hippo Fiona dies days after swallowing visitor’s hat",
+        "summary": "Hippo Fiona, who became a global sensation after being born six weeks premature in 2017, has died at Cincinnati Zoo.",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/11/20/beloved-hippo-fiona-dies-days-after-swallowing-visitors-hat?traffic_source=rss",
         "source": "Al Jazeera",
-        "timestamp": "2026-11-19T20:58:41+00:00"
+        "timestamp": "2026-11-20T02:51:44+00:00"
       },
       {
-        "title": "Rohingya genocide survivor: ‘perpetrators will have to face consequences’",
-        "summary": "The International Court of Justice has ruled that Myanmar committed genocide against the Rohingya.",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/11/19/rohingya-genocide-survivor-perpetrators-will-have-to-face?traffic_source=rss",
+        "title": "Trump nominee refuses to call Jan 6 an ‘attack’ at Senate hearing",
+        "summary": "Trump’s nominee to lead the US agency responsible for election security, refused to call the insurrection an attack.",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/11/20/trump-nominee-refuses-to-call-jan-6-an-attack-at-senate-hearing?traffic_source=rss",
         "source": "Al Jazeera",
-        "timestamp": "2026-11-19T20:58:38+00:00"
+        "timestamp": "2026-11-20T02:25:33+00:00"
       },
       {
-        "title": "Why are Bukele’s Salvadoran troops in Haiti and what have they achieved?",
-        "summary": "With crowds rallying behind El Salvador&#039;s deployment in Haiti, analysts question whether civilians are any safer.",
-        "link": "https://www.aljazeera.com/news/2026/11/19/why-are-bukeles-salvadoran-troops-in-haiti-and-what-have-they-achieved?traffic_source=rss",
+        "title": "Meta rethinks 2030 climate goals as AI data centres drive emissions up",
+        "summary": "Rising data centre energy needs force Meta to review sustainability targets amid growing corporate climate retreat.",
+        "link": "https://www.aljazeera.com/news/2026/11/20/meta-rethinks-2030-climate-goals-as-ai-data-centres-drive-emissions-up?traffic_source=rss",
         "source": "Al Jazeera",
-        "timestamp": "2026-11-19T20:54:08+00:00"
+        "timestamp": "2026-11-20T01:29:28+00:00"
       }
     ]
   }
